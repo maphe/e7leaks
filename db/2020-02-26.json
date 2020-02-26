@@ -1,0 +1,14 @@
+{
+  "type": "client",
+  "title": "Cerise is coming",
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Banner for Limited Hero: Cerise"
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story chapter opening: Bittersweet Dessert Festival week 2"
+    }
+  ]
+}

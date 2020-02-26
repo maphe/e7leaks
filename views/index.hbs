@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>App</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="style/timeline.css" />
+</head>
+<body class="container">
+    <div class="row mt-3">
+        <h1 class="col-md-9">
+            E7 Leaks
+            <small class="text-muted">Upcoming Epic 7 patches</small>
+        </h1>
+        <div class="col-3">
+            <a class="btn btn-secondary float-right btn-sm" data-toggle="collapse" href="#disclaimer" role="button" aria-expanded="false" aria-controls="disclaimer">Disclaimer</a>
+        </div>
+    </div>
+
+    <blockquote id="disclaimer" class="blockquote collapse multi-collapse">
+        <p><small class="text-muted">
+            This intents to gather and centralize all information regarding upcoming Epic Seven features.
+            It does not guarantee any feature at any date but tries to be as accurate as possible given
+            the pieces of information the community gets, whether from datamines, streams, dev notes, etc
+        </small></p>
+    </blockquote>
+    {{#each timeline}}
+        <div class="card mb-4">
+            <h5 class="card-header">{{date}} <span class="badge badge-{{patchTypeBadgeClass}} float-right" data-toggle="tooltip" title="{{patchTypeTooltip}}">{{patchType}}</span></h5>
+            <div class="card-body">
+                {{#if title}}<h5 class="card-title">{{title}}</h5>{{/if}}
+                <ul>
+                    {{#each news}}
+                        <li><span class="badge badge-pill badge-{{veracityBadgeClass}}">{{veracity}}</span> {{info}}</li>
+                    {{/each}}
+                </ul>
+            </div>
+            {{#if stream}}
+                <div class="card-footer">
+                    <span class="text-muted">Expected from Korean stream</span>
+                    <ul>
+                    {{#each stream}}
+                        <li class="text-muted">{{this}}</li>
+                    {{/each}}
+                    </ul>
+                </div>
+            {{/if}}
+        </div>
+    {{/each}}
+</body>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script type="application/javascript">
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+    })
+</script>
+</html>
