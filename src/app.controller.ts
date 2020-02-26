@@ -15,7 +15,6 @@ export class AppController {
     filenames.forEach((filename) => {
       const data = JSON.parse(fs.readFileSync(join(__dirname, '..', 'db', filename), 'utf8'));
       const date = moment(path.basename(filename, '.json')+' 19:00-0800');
-      console.log(date);
 
       const enrichedData = enrichPatchData(data, date);
       if (enrichedData !== null) {
