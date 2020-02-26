@@ -4,7 +4,8 @@
   "news": [
     {
       "veracity": "likely",
-      "info": "New Side Story"
+      "info": "New Side Story",
+      "source": "Previous side story over"
     }
   ]
 }
