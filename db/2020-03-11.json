@@ -1,7 +1,12 @@
 {
   "type": "client",
-  "title": "TBD",
+  "title": "Kawerik is coming",
   "news": [
+    {
+      "veracity": "likely",
+      "info": "New Hero Banner: Kawerik",
+      "source": "Showcased on Korean stream"
+    },
     {
       "veracity": "likely",
       "info": "New Side Story",
