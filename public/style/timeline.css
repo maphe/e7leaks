@@ -16,3 +16,8 @@
   content: "- ";
   text-indent: -5px;
 }
+
+footer {
+  border-top: 1px solid lightgrey;
+  font-size: 0.9rem;
+}
