@@ -11,9 +11,9 @@ export class AppController {
   @Render('index')
   root() {
     const timeline = [];
-    const filenames = (fs.readdirSync(join(__dirname, '..', 'db')));
+    const filenames = (fs.readdirSync(join(__dirname, '..', 'db', 'patches')));
     filenames.forEach((filename) => {
-      const data = JSON.parse(fs.readFileSync(join(__dirname, '..', 'db', filename), 'utf8'));
+      const data = JSON.parse(fs.readFileSync(join(__dirname, '..', 'db', 'patches', filename), 'utf8'));
       const date = moment(path.basename(filename, '.json')+' 19:00-0800');
 
       const enrichedData = enrichPatchData(data, date);
@@ -22,7 +22,7 @@ export class AppController {
       }
     });
 
-    return { timeline: timeline };
+    return { timeline: timeline, events: getEvents() };
   }
 }
 
@@ -59,10 +59,33 @@ const enrichPatchData = (patch, date: Moment) => {
 
   patch.news = enrichedNews;
 
-  if (date > moment().subtract(3, 'days')) {
+  if (date > moment().subtract(1, 'day')) {
     patch.date = `${date.format('MMM D, YYYY')} (${date.from(moment())})`;
     return patch;
   } else {
     return null;
   }
+};
+
+const getEvents = () => {
+  const data = JSON.parse(fs.readFileSync(join(__dirname, '..', 'db', 'events.json'), 'utf8'));
+  const events = [];
+  data.forEach(rawEvent => {
+    const event: any = { name: rawEvent.name };
+    const start = moment(rawEvent.start);
+    const end = moment(rawEvent.end);
+
+    if(start > moment()) {
+      event.target = start.format();
+      event.type = 'in';
+      event.style = 'danger';
+      events.push(event);
+    } else if (end > moment()) {
+      event.target = end.format();
+      event.type = 'on for';
+      event.style = 'success';
+      events.push(event);
+    }
+  });
+  return events;
 };

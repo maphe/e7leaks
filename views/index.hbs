@@ -31,11 +31,28 @@
 
     <blockquote id="disclaimer" class="blockquote collapse multi-collapse">
         <p><small class="text-muted">
-            This intents to gather and centralize all information regarding upcoming Epic Seven features.
+            This site intents to gather and centralize all information regarding upcoming Epic Seven features.
             It does not guarantee any feature at any date but tries to be as accurate as possible given
             the pieces of information the community gets, whether from datamines, streams, dev notes, patterns, etc
         </small></p>
     </blockquote>
+    {{#if events}}
+        <h3>Ongoing Events</h3>
+        <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1 px-3 mb-3">
+        {{#each events}}
+            <div class="col border p-2 border-secondary">
+                <b>{{name}}</b> {{type}}
+                <span class="badge badge-{{style}}">
+                    <span class="time-target" data-target="{{target}}">
+                        <span class="hour"></span>:<span class="min"></span>:<span class="sec"></span>
+                    </span>
+                </span>
+            </div>
+        {{/each}}
+        </div>
+        <hr />
+    {{/if}}
+    <h3>Incoming Features</h3>
     {{#each timeline}}
         <div class="card mb-4">
             <h5 class="card-header">{{date}} <span class="badge badge-{{patchTypeBadgeClass}} float-right" data-toggle="tooltip" title="{{patchTypeTooltip}}">{{patchType}}</span></h5>
@@ -87,8 +104,47 @@
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 <script type="application/javascript">
+    const countdown = (elem) => {
+        let hours, minutes, seconds;
+
+        const endDate = new Date(elem.dataset.target).getTime();
+
+        if (isNaN(endDate)) {
+            return;
+        }
+
+        setInterval(calculate, 1000);
+
+        function calculate() {
+            let startDate = new Date().getTime();
+
+            let timeRemaining = Math.round((endDate - startDate) / 1000);
+
+            if (timeRemaining >= 0) {
+                hours = Math.round(timeRemaining / 3600);
+                timeRemaining = (timeRemaining % 3600);
+
+                minutes = Math.round(timeRemaining / 60);
+                timeRemaining = (timeRemaining % 60);
+
+                seconds = Math.round(timeRemaining);
+
+                // document.getElementById("days").innerHTML = Math.round(days, 10);
+                elem.getElementsByClassName('hour')[0].innerHTML = hours < 10 ? "0" + hours : hours;
+                elem.getElementsByClassName('min')[0].innerHTML = minutes < 10 ? "0" + minutes : minutes;
+                elem.getElementsByClassName('sec')[0].innerHTML = seconds < 10 ? "0" + seconds : seconds;
+            } else {
+                return;
+            }
+        }
+    };
+
     $(function () {
-        $('[data-toggle="tooltip"]').tooltip()
+        $('[data-toggle="tooltip"]').tooltip();
+        const timeTargets = document.getElementsByClassName('time-target');
+        for (let i = 0; i < timeTargets.length; i++) {
+            countdown(timeTargets.item(i));
+        }
     })
 </script>
 </html>
