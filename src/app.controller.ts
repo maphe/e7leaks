@@ -22,16 +22,22 @@ export class AppController {
       }
     });
 
+    const undatedData = JSON.parse(fs.readFileSync(join(__dirname, '..', 'db', 'undated-features.json'), 'utf8'));
+    if (undatedData.news.length > 0) {
+      undatedData.date = 'Sometime in the future...';
+      timeline.push(enrichPatchData(undatedData));
+    }
+
     return { timeline: timeline, events: getEvents() };
   }
 }
 
-const enrichPatchData = (patch, date: Moment) => {
+const enrichPatchData = (patch, date?: Moment) => {
   if (patch.type === 'server') {
     patch.patchType = 'Maintenance';
     patch.patchTypeBadgeClass = 'warning';
     patch.patchTypeTooltip = 'Requires maintenance downtime';
-  } else {
+  } else if (patch.type === 'client') {
     patch.patchType = 'No Maintenance';
     patch.patchTypeBadgeClass = 'success';
     patch.patchTypeTooltip = 'No maintenance expected';
@@ -52,6 +58,9 @@ const enrichPatchData = (patch, date: Moment) => {
       case "unlikely":
         news.veracityBadgeClass = 'danger';
         break;
+      case "rumor":
+        news.veracityBadgeClass = 'info';
+        break;
     }
 
     enrichedNews.push(news);
@@ -59,7 +68,9 @@ const enrichPatchData = (patch, date: Moment) => {
 
   patch.news = enrichedNews;
 
-  if (date > moment().subtract(1, 'day')) {
+  if (!date) {
+    return patch;
+  } else if (date > moment().subtract(1, 'day')) {
     patch.date = `${date.format('MMM D, YYYY')} (${date.from(moment())})`;
     return patch;
   } else {

@@ -1,6 +1,5 @@
 {
   "type": "server",
-  "title": "TBD",
   "news": [
     {
       "veracity": "official",
@@ -10,6 +9,14 @@
       "veracity": "likely",
       "info": "Reveal new Arena Season Shop gear",
       "source": "Last update before new Season"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Fire Charlotte revamp",
+      "source": "SG mentioned March and has to be on a maintenance patch"
     }
+  ],
+  "stream": [
+    "More about Hell Raid"
   ]
 }

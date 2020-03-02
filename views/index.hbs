@@ -55,7 +55,7 @@
     <h3>Incoming Features</h3>
     {{#each timeline}}
         <div class="card mb-4">
-            <h5 class="card-header">{{date}} <span class="badge badge-{{patchTypeBadgeClass}} float-right" data-toggle="tooltip" title="{{patchTypeTooltip}}">{{patchType}}</span></h5>
+            <h5 class="card-header">{{date}}{{#if patchType}} <span class="badge badge-{{patchTypeBadgeClass}} float-right" data-toggle="tooltip" title="{{patchTypeTooltip}}">{{patchType}}</span>{{/if}}</h5>
             <div class="card-body">
                 {{#if title}}<h5 class="card-title">{{title}}</h5>{{/if}}
                 <ul>
