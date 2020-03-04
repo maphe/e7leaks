@@ -6,17 +6,17 @@
       "info": "ML Charlotte in Mystic rotation"
     },
     {
+      "veracity": "official",
+      "info": "All Hell Raid bosses open"
+    },
+    {
+      "veracity": "official",
+      "info": "Hall of Trial improvements"
+    },
+    {
       "veracity": "likely",
       "info": "Reveal new Arena Season Shop gear",
       "source": "Last update before new Season"
-    },
-    {
-      "veracity": "maybe",
-      "info": "Fire Charlotte revamp",
-      "source": "SG mentioned March and has to be on a maintenance patch"
     }
-  ],
-  "stream": [
-    "More about Hell Raid"
   ]
 }

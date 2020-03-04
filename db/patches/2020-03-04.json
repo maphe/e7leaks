@@ -1,6 +1,7 @@
 {
   "type": "server",
   "title": "Abyss 91 to 100",
+  "link": "https://page.onstove.com/epicseven/global/view/4842093",
   "news": [
     {
       "veracity": "official",
@@ -8,18 +9,15 @@
     },
     {
       "veracity": "official",
-      "info": "New Abyss levels 91 to 100",
-      "source": "Korean stream"
+      "info": "New Abyss levels 91 to 100"
     },
     {
-      "veracity": "likely",
-      "info": "New Adventure chapter opening (either chapter 9 or 6S/7S)",
-      "source": "4 week release pattern"
+      "veracity": "official",
+      "info": "New Adventure chapter opening (Chapter 9)"
     },
     {
-      "veracity": "likely",
-      "info": "New set of exclusive equipments",
-      "source": "4 week release pattern"
+      "veracity": "official",
+      "info": "Fire Charlotte Rework"
     }
   ],
   "stream": [
