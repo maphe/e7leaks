@@ -121,13 +121,13 @@
             let timeRemaining = Math.round((endDate - startDate) / 1000);
 
             if (timeRemaining >= 0) {
-                hours = Math.round(timeRemaining / 3600);
+                hours = Math.floor(timeRemaining / 3600);
                 timeRemaining = (timeRemaining % 3600);
 
-                minutes = Math.round(timeRemaining / 60);
+                minutes = Math.floor(timeRemaining / 60);
                 timeRemaining = (timeRemaining % 60);
 
-                seconds = Math.round(timeRemaining);
+                seconds = Math.floor(timeRemaining);
 
                 // document.getElementById("days").innerHTML = Math.round(days, 10);
                 elem.getElementsByClassName('hour')[0].innerHTML = hours < 10 ? "0" + hours : hours;
