@@ -1,7 +1,10 @@
 [
   {
-    "name": "Maintenance",
-    "start": "2020-03-05 03:00:00Z",
-    "end": "2020-03-05 11:00:00Z"
+    "name": "Cerise Banner",
+    "end": "2020-03-12 03:00:00Z"
+  },
+  {
+    "name": "Kawerik Banner",
+    "start": "2020-03-12 03:00:00Z"
   }
 ]
