@@ -28,7 +28,9 @@ export class AppController {
       timeline.push(enrichPatchData(undatedData));
     }
 
-    return { timeline: timeline, events: getEvents() };
+    const alerts = JSON.parse(fs.readFileSync(join(__dirname, '..', 'db', 'alerts.json'), 'utf8'));
+
+    return { timeline: timeline, events: getEvents(), alerts: alerts };
   }
 }
 
