@@ -95,7 +95,7 @@ const getEvents = () => {
       events.push(event);
     } else if (end > moment()) {
       event.target = end.format();
-      event.type = 'on for';
+      event.type = 'ends in';
       event.style = 'success';
       events.push(event);
     }
