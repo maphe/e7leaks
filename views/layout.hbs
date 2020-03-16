@@ -36,76 +36,22 @@
             the pieces of information the community gets, whether from datamines, streams, dev notes, patterns, etc
         </small></p>
     </blockquote>
-    {{#each alerts}}
-        <div class="alert alert-{{type}} alert-dismissible fade show" role="alert">
-            {{content}}
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-            </button>
-        </div>
-    {{/each}}
-    {{#if events}}
-        <h3>Ongoing Events</h3>
-        <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1 px-3 mb-3">
-        {{#each events}}
-            <div class="col border p-2 border-secondary">
-                <b>{{name}}</b> {{type}}
-                <span class="badge badge-{{style}}">
-                    <span class="time-target" data-target="{{target}}">
-                        <span class="hour"></span>:<span class="min"></span>:<span class="sec"></span>
-                    </span>
-                </span>
-            </div>
-        {{/each}}
-        </div>
-        <hr />
-    {{/if}}
-    <h3>Incoming Features</h3>
-    {{#each timeline}}
-        <div class="card mb-4">
-            <h5 class="card-header">{{date}}{{#if link}} [<a href="{{link}}" target="_blank">Patch Note</a>]{{/if}}{{#if patchType}} <span class="badge badge-{{patchTypeBadgeClass}} float-right" data-toggle="tooltip" title="{{patchTypeTooltip}}">{{patchType}}</span>{{/if}}</h5>
-            <div class="card-body">
-                {{#if title}}<h5 class="card-title">{{title}}</h5>{{/if}}
-                <ul>
-                    {{#each news}}
-                        <li><span class="badge badge-pill badge-{{veracityBadgeClass}}">{{veracity}}</span> {{info}}{{#if source}} <small class="text-muted">({{source}})</small>{{/if}}</li>
-                    {{/each}}
-                </ul>
-            </div>
-            {{#if stream}}
-                <div class="card-footer">
-                    <span class="text-muted">Expected from Korean stream</span>
-                    <ul>
-                    {{#each stream}}
-                        <li class="text-muted">{{this}}</li>
-                    {{/each}}
-                    </ul>
-                </div>
-            {{/if}}
-        </div>
-    {{/each}}
+    {{> alerts}}
+    {{> events}}
+    <ul class="nav nav-tabs mb-1">
+        <li class="nav-item">
+            <a class="nav-link{{# if upcomingFeatures}} active{{/if}}" href="/">Upcoming Features</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link{{# if pastPatches}} active{{/if}}" href="/past-patches">Past Patches</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link{{# if devNotes}} active{{/if}}" href="/dev-notes">Dev Notes</a>
+        </li>
+    </ul>
+    {{{body}}}
 
-    <footer class="page-footer pt-3 mt-5">
-        <div class="container-fluid text-center text-md-left">
-            <div class="row">
-                <div class="col-md-8 mt-md-0 mt-3">
-                    <h5 class="text-uppercase">Credits</h5>
-                    <p>
-                        Maphe
-                    </p>
-                </div>
-                <hr class="clearfix w-100 d-md-none pb-3">
-                <div class="col-md-4 mb-md-0 mb-3">
-                    <h5 class="text-uppercase">Contribute</h5>
-                    <ul class="list-unstyled">
-                        <li>
-                            Contact me on Discord: Maphe#1384
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer>
+    {{> footer}}
 </body>
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

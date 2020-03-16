@@ -7,16 +7,23 @@
     },
     {
       "veracity": "official",
-      "info": "All Hell Raid bosses open"
+      "info": "All Hell Raid bosses open",
+      "source": "Dev Notes"
     },
     {
       "veracity": "official",
-      "info": "Hall of Trial improvements"
+      "info": "Hall of Trial improvements",
+      "source": "Dev Notes"
     },
     {
       "veracity": "likely",
       "info": "Reveal new Arena Season Shop gear",
       "source": "Last update before new Season"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Fire Charlotte recall function",
+      "source": "Korean Stream"
     }
   ]
 }

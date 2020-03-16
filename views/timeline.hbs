@@ -1,0 +1,23 @@
+{{#each timeline}}
+    <div class="card mb-4">
+        <h5 class="card-header">{{formattedDate}}{{#if link}} [<a href="{{link}}" target="_blank">Patch Note</a>]{{/if}}{{#if patchType}} <span class="badge badge-{{patchTypeBadgeClass}} float-right" data-toggle="tooltip" title="{{patchTypeTooltip}}">{{patchType}}</span>{{/if}}</h5>
+        <div class="card-body">
+            {{#if title}}<h5 class="card-title">{{title}}</h5>{{/if}}
+            <ul>
+                {{#each news}}
+                    <li><span class="badge badge-pill badge-{{veracityBadgeClass}}">{{veracity}}</span> {{info}}{{#if source}} <small class="text-muted">({{source}})</small>{{/if}}</li>
+                {{/each}}
+            </ul>
+        </div>
+        {{#if stream}}
+            <div class="card-footer">
+                <span class="text-muted">Expected from Korean stream</span>
+                <ul>
+                {{#each stream}}
+                    <li class="text-muted">{{this}}</li>
+                {{/each}}
+                </ul>
+            </div>
+        {{/if}}
+    </div>
+{{/each}}

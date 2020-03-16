@@ -1,0 +1,14 @@
+<table class="table bordered">
+    <tr>
+        <th>Date</th>
+        <th>Summary</th>
+        <th>Link</th>
+    </tr>
+    {{#each notes}}
+        <tr>
+            <td>{{date}}</td>
+            <td>{{summary}}</td>
+            <td><a href="{{link}}" target="_blank">Link</a></td>
+        </tr>
+    {{/each}}
+</table>
