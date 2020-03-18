@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "title": "Full Hell Raid",
+  "link": "https://page.onstove.com/epicseven/global/view/4945062",
   "news": [
     {
       "veracity": "official",
@@ -17,18 +19,30 @@
     },
     {
       "veracity": "official",
-      "info": "New Tenebria Skin",
+      "info": "New Tenebria Skin (Epic Pass)",
       "source": "Facebook Teaser"
     },
     {
-      "veracity": "likely",
-      "info": "Reveal new Arena Season Shop gear",
+      "veracity": "official",
+      "info": "Reveal new Arena Season Shop gear (Destruction Set)",
       "source": "Last update before new Season"
     },
     {
-      "veracity": "maybe",
+      "veracity": "official",
       "info": "Fire Charlotte recall function",
       "source": "Korean Stream"
+    },
+    {
+      "veracity": "official",
+      "info": "Alchemist Steeple & Manage Equipment Improvements"
+    },
+    {
+      "veracity": "official",
+      "info": "Banner Tenebria & Time Matter"
+    },
+    {
+      "veracity": "official",
+      "info": "Banner Vivian & Dignus Orb"
     }
   ]
 }
