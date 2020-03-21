@@ -5,7 +5,13 @@
             {{#if title}}<h5 class="card-title">{{title}}</h5>{{/if}}
             <ul>
                 {{#each news}}
-                    <li><span class="badge badge-pill badge-{{veracityBadgeClass}}">{{veracity}}</span> {{info}}{{#if source}} <small class="text-muted">({{source}})</small>{{/if}}</li>
+                    <li>
+                        <span class="badge badge-pill badge-{{veracityBadgeClass}}">{{veracity}}</span> {{info}}
+                        {{#if source}}<small class="text-muted">({{source}})</small>{{/if}}
+                        {{#each images}}
+                            <a href="{{url}}" target="_blank">[{{label}}]</a>
+                        {{/each}}
+                    </li>
                 {{/each}}
             </ul>
         </div>

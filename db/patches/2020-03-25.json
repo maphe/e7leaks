@@ -1,11 +1,52 @@
 {
   "type": "client",
-  "title": "Still unknown at this point...",
+  "title": "New Side Story (Stories?)",
   "news": [
     {
       "veracity": "likely",
-      "info": "New Side Story",
-      "source": "Previous Side Story over"
+      "info": "New Side Story: [April Fools] A Better Left Unrecorded History (main char: Tenebria)",
+      "source": "Datamined",
+      "images": [
+        {
+          "label": "Banner",
+          "url": "datamine/ss_vaf0aa1_banner_kr.png"
+        },
+        {
+          "label": "Poster",
+          "url": "datamine/ss_vaf0aa_poster_kr.png"
+        }
+      ]
+    },
+    {
+      "veracity": "likely",
+      "info": "New Side Story: An Elf's Initiation (main char: Iseria)",
+      "source": "Datamined",
+      "images": [
+        {
+          "label": "Banner",
+          "url": "datamine/ss_v1024a_banner_kr.png"
+        }
+      ]
+    },
+    {
+      "veracity": "likely",
+      "info": "New Hero Banner: Iseria",
+      "source": "Datamined"
+    },
+    {
+      "veracity": "likely",
+      "info": "New Hero Banner: Lilias",
+      "source": "Datamined"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Rose Skin",
+      "source": "Datamined"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Hunt 12 release",
+      "source": "Skills Datamined"
     }
   ]
 }
