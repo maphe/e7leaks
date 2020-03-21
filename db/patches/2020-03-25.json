@@ -6,7 +6,7 @@
       "veracity": "likely",
       "info": "New Side Story: [April Fools] A Better Left Unrecorded History (main char: Tenebria)",
       "source": "Datamined",
-      "images": [
+      "resources": [
         {
           "label": "Banner",
           "url": "datamine/ss_vaf0aa1_banner_kr.png"
@@ -21,7 +21,7 @@
       "veracity": "likely",
       "info": "New Side Story: An Elf's Initiation (main char: Iseria)",
       "source": "Datamined",
-      "images": [
+      "resources": [
         {
           "label": "Banner",
           "url": "datamine/ss_v1024a_banner_kr.png"
@@ -46,7 +46,13 @@
     {
       "veracity": "maybe",
       "info": "Hunt 12 release",
-      "source": "Skills Datamined"
+      "source": "Skills Datamined",
+      "resources": [
+        {
+          "label": "Skills",
+          "url": "datamine/hunt-12-skills.txt"
+        }
+      ]
     }
   ]
 }

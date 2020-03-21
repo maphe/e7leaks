@@ -1,0 +1,11 @@
+Wyvern
+- Now attacking random people if it doesn't have at least 3 debuffs and HP is not at max
+
+Banshee
+- On hp < 30%, it will put curse on one hero, and throw 3 poisons (3turn) randomly instead of hide, just like now
+
+Golem
+- Counter attack will now always stun at least 1 hero, and increase readiness of tree and diamond by 20%
+
+Azimanak
+- It will now put Crit Rate up buff on itself, eggs hatch into enemies that put poison debuff on hero
