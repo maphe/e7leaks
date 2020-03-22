@@ -1,11 +1,24 @@
 Wyvern
 - Now attacking random people if it doesn't have at least 3 debuffs and HP is not at max
+Raw Datamine:
+sk_m9017_4_2_de,"공격 후 공격력이 증가합니다. 해당 효과는 중첩됩니다.\n자신의 생명력이 최대가 아닌 상태에서 자신에게 걸린 약화효과가 2개 이하일 경우, 연발 화염구가 무작위 적을 공격합니다."
 
 Banshee
 - On hp < 30%, it will put curse on one hero, and throw 3 poisons (3turn) randomly instead of hide, just like now
+Raw datamine:
+sk_m9177_3_2_de,"생명력이 일정량 이하로 떨어지면 날카로운 비명으로 적 전체를 공격하여 강화효과를 전부 해제한 후, 자신에게 걸린 모든 약화효과를 해제하고 생명력을 회복합니다. 발동 횟수에 따라 추가로 발생되는 효과가 달라집니다.\n 첫번째 발동 : 공격 후 영혼의 장막을 사용합니다.\n 두번째 발동 : 적 누군가 <#FFFFFF>중독</>상태라면 무작위 적 1명에게 1턴 간 <#FFFFFF>밴시퀸의 저주</>를 발생시킵니다. 3턴 간 3개의 <#FFFFFF>중독</>을 무작위 대상에게 나누어 발생시킵니다."
 
 Golem
 - Counter attack will now always stun at least 1 hero, and increase readiness of tree and diamond by 20%
+Raw Datamine:
+sk_m9007_2_2_de,"적 전체를 공격하여 무작위 1인을 1턴 간<#FFFFFF>기절</>시키고, 자신을 제외한 아군 전체의 행동 게이지를 20% 증가시킵니다. 이 스킬이 사용 가능한 상태라면, 석상의 분노로 반격합니다.\n피격 시 자신의 스킬 쿨타임이 1턴 감소합니다."
 
 Azimanak
 - It will now put Crit Rate up buff on itself, eggs hatch into enemies that put poison debuff on hero
+Raw Datamine:
+bk_m9211_hun_12_1_de,적을 공격하고 자신에게 2턴 간 <#FFFFFF>치명확률 증가</>를 발생시킵니다. 대상의 강화 효과가 3개 이상일 경우 죽음의 덫을 사용합니다.,
+bk_m9211_hun_12_2_de,적 전체를 공격하고 각 70% 확률로 3턴 간 2개의 <#FFFFFF>출혈</>을 발생시킵니다. 사망한 아지마누스 주시자를 부활시킵니다.,
+bk_m9211_hun_12_3_de,"적 전체를 공격하여 강화 효과를 전부 해제시킵니다. 추가적으로 1턴 간 <#FFFFFF>침묵</>을 발생시킵니다. 공격 후 턴 종료 시 대상에게 걸린 <#FFFFFF>중독</>, <#FFFFFF>출혈</>을 <#FFFFFF>격폭</> 시킵니다.",
+bk_m9211_hun_12_4_de,"적 전체를 공격하여 강화 효과를 전부 해제시킵니다. 추가적으로 1턴 간 <#FFFFFF>침묵</>을 발생시킵니다. 공격 후 턴 종료 시 대상에게 걸린 <#FFFFFF>중독</>, <#FFFFFF>출혈</>을 <#FFFFFF>격폭</> 시킵니다.",
+bk_m9211_hun_12_5_de,자신이 피격 후 약화 효과가 3개 이상일 경우 약화 효과를 전부 해제하고 턴 시작 시 아지마누스 주시자가 있을 경우 아군 전체가 받는 단일 공격 피해가 80% 감소됩니다. 추가적으로 피격 후 자신의 생명력이 30% 이하일 경우 상대방의 회복량을 50% 감소시킵니다.,
+bk_m9211_hun_12_6_de,"자신이 4회 피격마다 광폭화가 발생합니다. 광폭화는 총 4단계까지 진행되며 공격력, 방어력, 속도가 크게 상승합니다.\n공격 시, 대상의 수가 적을수록 피해량이 증가합니다."
