@@ -5,6 +5,37 @@
       "veracity": "likely",
       "info": "New Adventure Chapter opening (either chapter 10 or 6S/7S)",
       "source": "4 week release pattern"
+    },
+    {
+      "veracity": "likely",
+      "info": "New Side Story: [April Fools] A Better Left Unrecorded History (main char: Tenebria)",
+      "source": "Datamined",
+      "resources": [
+        {
+          "label": "Banner",
+          "url": "datamine/ss_vaf0aa1_banner_kr.png"
+        },
+        {
+          "label": "Poster",
+          "url": "datamine/ss_vaf0aa_poster_kr.png"
+        }
+      ]
+    },
+    {
+      "veracity": "maybe",
+      "info": "Rose Skin",
+      "source": "Datamined"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Hunt 12 release",
+      "source": "Skills Datamined",
+      "resources": [
+        {
+          "label": "Skills",
+          "url": "datamine/hunt-12-skills.txt"
+        }
+      ]
     }
   ],
   "stream": [
