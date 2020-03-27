@@ -1,0 +1,10 @@
+{
+  "type": "server",
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "New Side Story",
+      "source": "Previous Side Story over"
+    }
+  ]
+}
