@@ -1,5 +1,5 @@
 {
-  "type": "server",
+  "type": "client",
   "news": [
     {
       "veracity": "likely",
