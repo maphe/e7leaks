@@ -1,12 +1,23 @@
 {
   "news": [
     {
+      "veracity": "maybe",
+      "info": "Rose Skin",
+      "source": "Datamined"
+    },
+    {
       "veracity": "official",
       "info": "Japanese voices available on Global (April)"
     },
     {
       "veracity": "official",
-      "info": "Hunts 12 & 13, Level 90 gear, Equipment Reforging"
+      "info": "Hunts 12 & 13, Level 90 gear, Equipment Reforging",
+      "resources": [
+        {
+          "label": "Hunt 12",
+          "url": "datamine/hunt-12-skills.txt"
+        }
+      ]
     },
     {
       "veracity": "official",

@@ -2,13 +2,19 @@
   "type": "server",
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Adventure Chapter opening (either chapter 10 or 6S/7S)",
-      "source": "4 week release pattern"
+      "veracity": "official",
+      "info": "New Adventure Chapter opening (Chapter 10)",
+      "source": "4 week release pattern, Facebook teaser",
+      "resources": [
+        {
+          "label": "FB Post",
+          "url": "https://www.facebook.com/EpicSevenGlobal/photos/pcb.1110748995931885/1110748729265245/?type=3&theater"
+        }
+      ]
     },
     {
       "veracity": "likely",
-      "info": "New Side Story: [April Fools] A Better Left Unrecorded History (main char: Tenebria)",
+      "info": "New Side Story: [April Fools] A Better Left Unrecorded History",
       "source": "Datamined",
       "resources": [
         {
@@ -20,25 +26,10 @@
           "url": "datamine/ss_vaf0aa_poster_kr.png"
         }
       ]
-    },
-    {
-      "veracity": "maybe",
-      "info": "Rose Skin",
-      "source": "Datamined"
-    },
-    {
-      "veracity": "maybe",
-      "info": "Hunt 12 release",
-      "source": "Skills Datamined",
-      "resources": [
-        {
-          "label": "Skills",
-          "url": "datamine/hunt-12-skills.txt"
-        }
-      ]
     }
   ],
   "stream": [
-    "New ML4 showcase (likely Angelica)"
+    "New ML4 showcase (likely Angelica)",
+    "Roana showcase"
   ]
 }
