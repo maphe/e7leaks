@@ -1,0 +1,15 @@
+{
+  "type": "server",
+  "news": [
+    {
+      "veracity": "official",
+      "info": "ML Angelica in Mystic rotation",
+      "resources": [
+        {
+          "label": "Hero Preview",
+          "url": "https://www.youtube.com/watch?v=lfN9sEemE_c"
+        }
+      ]
+    }
+  ]
+}

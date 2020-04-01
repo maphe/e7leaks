@@ -1,17 +1,8 @@
 {
   "news": [
     {
-      "veracity": "maybe",
-      "info": "Rose Skin",
-      "source": "Datamined"
-    },
-    {
       "veracity": "official",
-      "info": "Japanese voices available on Global (April)"
-    },
-    {
-      "veracity": "official",
-      "info": "Hunts 12 & 13, Level 90 gear, Equipment Reforging",
+      "info": "Hunts 12 & 13, Level 90 gear, Equipment Reforging (April)",
       "resources": [
         {
           "label": "Hunt 12",
@@ -21,15 +12,20 @@
     },
     {
       "veracity": "official",
-      "info": "Stages 4 & 5 of Labyrinth Nixied’s Sanctum"
+      "info": "World Arena season One (April)"
     },
     {
       "veracity": "official",
-      "info": "World Arena season One"
+      "info": "Stages 4 & 5 of Labyrinth Nixied’s Sanctum"
     },
     {
       "veracity": "rumor",
       "info": "New collab (not Guilty Gear) sometime after Episode 2 is over and before Episode 3 begins"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Rose Skin",
+      "source": "Datamined"
     }
   ]
 }

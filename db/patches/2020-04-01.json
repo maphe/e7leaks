@@ -1,9 +1,10 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/5043066",
   "news": [
     {
       "veracity": "official",
-      "info": "New Adventure Chapter opening (Chapter 10)",
+      "info": "New Adventure Chapter (Chapter 10)",
       "source": "4 week release pattern, Facebook teaser",
       "resources": [
         {
@@ -13,8 +14,20 @@
       ]
     },
     {
-      "veracity": "likely",
-      "info": "New Side Story: [April Fools] A Better Left Unrecorded History",
+      "veracity": "official",
+      "info": "Guild War Season 2"
+    },
+    {
+      "veracity": "official",
+      "info": "Kise & Alabastron Banner"
+    },
+    {
+      "veracity": "official",
+      "info": "Japanese Madia Pack"
+    },
+    {
+      "veracity": "official",
+      "info": "Side Story: [April Fools] A Better Left Unrecorded History (in progress)",
       "source": "Datamined",
       "resources": [
         {
@@ -29,7 +42,7 @@
     }
   ],
   "stream": [
-    "New ML4 showcase (likely Angelica)",
+    "New ML4 showcase (Angelica)",
     "Roana showcase"
   ]
 }

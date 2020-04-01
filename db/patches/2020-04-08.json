@@ -2,9 +2,20 @@
   "type": "client",
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Side Story",
-      "source": "Previous Side Story over"
+      "veracity": "official",
+      "info": "New Hero Banner: Roana",
+      "source": "Announced on Korean stream",
+      "resources": [
+        {
+          "label": "Hero Preview",
+          "url": "https://www.youtube.com/watch?v=EO4jm4FDn9k"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Roana Side Story",
+      "source": "Announced on Korean stream"
     }
   ]
 }
