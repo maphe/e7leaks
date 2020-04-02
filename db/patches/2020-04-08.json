@@ -3,19 +3,29 @@
   "news": [
     {
       "veracity": "official",
-      "info": "New Hero Banner: Roana",
+      "info": "New Hero Banner: Roana & Touch of Rekos",
       "source": "Announced on Korean stream",
       "resources": [
         {
           "label": "Hero Preview",
           "url": "https://www.youtube.com/watch?v=EO4jm4FDn9k"
+        },
+        {
+          "label": "Banner",
+          "url": "datamine/roana_banner.png"
         }
       ]
     },
     {
       "veracity": "official",
-      "info": "Roana Side Story",
-      "source": "Announced on Korean stream"
+      "info": "Roana Side Story: Beyond the Boundary",
+      "source": "Announced on Korean stream",
+      "resources": [
+        {
+          "label": "Banner",
+          "url": "datamine/roana_ss_banner.png"
+        }
+      ]
     }
   ]
 }
