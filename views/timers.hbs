@@ -1,0 +1,77 @@
+<div class="row mb-4 justify-content-end">
+    <div class="col-4">
+        <div class="card align-items-end">
+            <div class="card-body p-2">
+                <i>This applies to Global Server only.</i>
+            </div>
+        </div>
+    </div>
+    <div class="col-4">
+        <div class="card">
+            <div class="card-body p-2">
+                Legend:
+                <span class="badge badge-info">Cycling</span>
+                <span class="badge badge-success">Open</span>
+                <span class="badge badge-danger">Closed</span>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        <table class="table table-bordered">
+            <tr>
+                <td>Daily Missions, Guild Aid, Abyss Entries</td>
+                <td>{{>timer allTimers.daily}}</td>
+            </tr>
+            <tr>
+                <td>Shop Reset, Normal Raid</td>
+                <td>{{>timer allTimers.weekly}}</td>
+            </tr>
+            <tr>
+                <td>Hell Raid, Automaton Tower</td>
+                <td>{{>timer allTimers.monthly}}</td>
+            </tr>
+        </table>
+    </div>
+    <div class="col-6">
+        <table class="table table-bordered">
+            <tr>
+                <td>Guild War</td>
+                <td>{{>timer allTimers.gw}}</td>
+            </tr>
+            <tr>
+                <td>World Boss Period</td>
+                <td>{{>timer allTimers.wbPeriod}}</td>
+            </tr>
+            <tr>
+                <td>World Boss Entry</td>
+                <td>{{>timer allTimers.wbToken}}</td>
+            </tr>
+            <tr>
+                <td>Hall of Trial</td>
+                <td>{{>timer allTimers.hall}}</td>
+            </tr>
+        </table>
+    </div>
+    <div class="col-12">
+        <table class="table table-bordered">
+            <tr>
+                <th></th>
+                <th>Fire</th>
+                <th>Ice</th>
+                <th>Earth</th>
+                <th>Dark</th>
+                <th>Light</th>
+            </tr>
+            <tr>
+                <td>Spirit Altar</td>
+                <td>{{>timer allTimers.fire}}</td>
+                <td>{{>timer allTimers.ice}}</td>
+                <td>{{>timer allTimers.earth}}</td>
+                <td>{{>timer allTimers.dark}}</td>
+                <td>{{>timer allTimers.light}}</td>
+            </tr>
+        </table>
+    </div>
+</div>
