@@ -1,0 +1,18 @@
+{
+  "type": "server",
+  "news": [
+    {
+      "veracity": "maybe",
+      "info": "Ras Specialty Change",
+      "source": "Dev Notes without a date of release"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Stage 4 Labyrinth Nixied’s Sanctum",
+      "source": "Dev Notes without a date of release"
+    }
+  ],
+  "stream": [
+    "New ML5 showcase"
+  ]
+}

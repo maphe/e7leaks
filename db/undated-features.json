@@ -2,20 +2,6 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Hunts 12 & 13, Level 90 gear, Equipment Reforging (April)",
-      "resources": [
-        {
-          "label": "Hunt 12",
-          "url": "datamine/hunt-12-skills.txt"
-        }
-      ]
-    },
-    {
-      "veracity": "official",
-      "info": "World Arena season One (April)"
-    },
-    {
-      "veracity": "official",
       "info": "Ras Specialty Change",
       "source": "Korean Stream 04/01"
     },

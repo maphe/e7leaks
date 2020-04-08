@@ -20,6 +20,32 @@
           "url": "https://page.onstove.com/epicseven/global/view/5057481"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hunt 12 & 13",
+      "source": "Dev Notes",
+      "resources": [
+        {
+          "label": "Datamine",
+          "url": "datamine/hunt-13-skills.txt"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Equipment Reforging",
+      "source": "Dev Notes"
+    },
+    {
+      "veracity": "official",
+      "info": "World Arena Season 1",
+      "source": "Dev Notes"
+    },
+    {
+      "veracity": "official",
+      "info": "Side Stories Journal",
+      "source": "Dev Notes"
     }
   ]
 }
