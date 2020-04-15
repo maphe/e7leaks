@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/5123027",
   "news": [
     {
       "veracity": "official",
@@ -48,14 +49,12 @@
       "source": "Dev Notes"
     },
     {
-      "veracity": "likely",
-      "info": "Hero Banner: Kayron & Alexa's Basket",
-      "source": "French Stove draft post"
+      "veracity": "official",
+      "info": "Hero Banner: Kayron & Alexa's Basket"
     },
     {
-      "veracity": "likely",
-      "info": "Hero Banner: Krau & Holy Sacrifice",
-      "source": "French Stove draft post"
+      "veracity": "official",
+      "info": "Hero Banner: Krau & Holy Sacrifice"
     }
   ]
 }
