@@ -1,6 +1,12 @@
 [
   {
-    "name": "Roana Banner",
-    "start": "2020-04-09 03:00:00Z"
+    "name": "Patch Maintenance",
+    "start": "2020-04-16 03:00:00Z",
+    "end": "2020-04-16 08:00:00Z"
+  },
+  {
+    "name": "Free Unequip",
+    "start": "2020-04-16 07:00:00Z",
+    "end": "2020-04-19 15:00:00Z"
   }
 ]
