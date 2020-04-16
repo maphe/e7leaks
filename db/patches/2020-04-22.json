@@ -3,8 +3,18 @@
   "news": [
     {
       "veracity": "likely",
-      "info": "New Side Story",
-      "source": "Previous Side Story over"
+      "info": "Surin Side Story",
+      "source": "Datamined"
+    },
+    {
+      "veracity": "likely",
+      "info": "Hero Banner: Luluca",
+      "source": "Datamined"
+    },
+    {
+      "veracity": "likely",
+      "info": "Hero Banner: Melissa",
+      "source": "Datamined"
     }
   ]
 }
