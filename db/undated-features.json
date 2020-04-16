@@ -10,13 +10,23 @@
       "info": "Stages 4 & 5 of Labyrinth Nixied’s Sanctum"
     },
     {
-      "veracity": "rumor",
-      "info": "New collab (not Guilty Gear) sometime after Episode 2 is over and before Episode 3 begins"
+      "veracity": "maybe",
+      "info": "Straze Dark ML5",
+      "resources": [
+        {
+          "label": "Leak",
+          "url": "datamine/straze_rta_ban.jpg"
+        }
+      ]
     },
     {
       "veracity": "maybe",
       "info": "Rose Skin",
       "source": "Datamined"
+    },
+    {
+      "veracity": "rumor",
+      "info": "New collab (not Guilty Gear) sometime after Episode 2 is over and before Episode 3 begins"
     }
   ]
 }

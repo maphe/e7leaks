@@ -3,18 +3,44 @@
   "news": [
     {
       "veracity": "likely",
-      "info": "Surin Side Story",
-      "source": "Datamined"
+      "info": "Surin Side Story: Scattered Memories",
+      "source": "Datamined",
+      "resources": [
+        {
+          "label": "Banner",
+          "url": "datamine/ss_v1065a_banner_kr.png"
+        }
+      ]
     },
     {
       "veracity": "likely",
-      "info": "Hero Banner: Luluca",
-      "source": "Datamined"
+      "info": "Hero Banner: Luluca & Spirit's Breath",
+      "source": "Datamined",
+      "resources": [
+        {
+          "label": "Banner",
+          "url": "datamine/gacha_banner_pickup61a_kr.png"
+        },
+        {
+          "label": "Background",
+          "url": "datamine/gacha_bg_pickup61a.png"
+        }
+      ]
     },
     {
       "veracity": "likely",
-      "info": "Hero Banner: Melissa",
-      "source": "Datamined"
+      "info": "Hero Banner: Melissa & Bloody Rose",
+      "source": "Datamined",
+      "resources": [
+        {
+          "label": "Banner",
+          "url": "datamine/gacha_banner_pickup48d_kr.png"
+        },
+        {
+          "label": "Background",
+          "url": "datamine/gacha_bg_pickup48d.png"
+        }
+      ]
     }
   ]
 }
