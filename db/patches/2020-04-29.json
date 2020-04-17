@@ -2,6 +2,16 @@
   "type": "server",
   "news": [
     {
+      "veracity": "official",
+      "info": "Hunt 11-13 Adjustments",
+      "resources": [
+        {
+          "label": "Details",
+          "url": "https://page.onstove.com/epicseven/global/view/5147593"
+        }
+      ]
+    },
+    {
       "veracity": "maybe",
       "info": "Ras Specialty Change",
       "source": "Dev Notes without a date of release"
