@@ -12,6 +12,11 @@
       ]
     },
     {
+      "veracity": "likely",
+      "info": "New Adventure Chapter (6S and/or 7S)",
+      "source": "4 week release pattern"
+    },
+    {
       "veracity": "maybe",
       "info": "Ras Specialty Change",
       "source": "Dev Notes without a date of release"
@@ -23,6 +28,6 @@
     }
   ],
   "stream": [
-    "New ML5 showcase"
+    "New ML5 showcase (Straze???)"
   ]
 }
