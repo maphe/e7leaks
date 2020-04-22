@@ -11,6 +11,17 @@
     },
     {
       "veracity": "maybe",
+      "info": "Surin Side Story: Scattered Memories",
+      "source": "Datamined",
+      "resources": [
+        {
+          "label": "Banner",
+          "url": "datamine/ss_v1065a_banner_kr.png"
+        }
+      ]
+    },
+    {
+      "veracity": "maybe",
       "info": "Straze Dark ML5",
       "resources": [
         {

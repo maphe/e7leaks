@@ -1,19 +1,13 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/5171486",
   "news": [
     {
-      "veracity": "likely",
-      "info": "Surin Side Story: Scattered Memories",
-      "source": "Datamined",
-      "resources": [
-        {
-          "label": "Banner",
-          "url": "datamine/ss_v1065a_banner_kr.png"
-        }
-      ]
+      "veracity": "official",
+      "info": "Luluca Side Story: A chosen Shaman"
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Hero Banner: Luluca & Spirit's Breath",
       "source": "Datamined",
       "resources": [
@@ -28,7 +22,7 @@
       ]
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Hero Banner: Melissa & Bloody Rose",
       "source": "Datamined",
       "resources": [
