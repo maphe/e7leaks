@@ -12,7 +12,21 @@
       ]
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
+      "info": "Guilty Gear Collab Rerun",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://page.onstove.com/epicseven/global/view/5185450"
+        },
+        {
+          "label": "Quiz",
+          "url": "https://page.onstove.com/epicseven/global/view/5186751"
+        }
+      ]
+    },
+    {
+      "veracity": "maybe",
       "info": "New Adventure Chapter (6S and/or 7S)",
       "source": "4 week release pattern"
     },
