@@ -34,6 +34,8 @@ export class TimelineService {
     const filenames = (fs.readdirSync(join(__dirname, '..', '..', 'db', 'patches')));
     filenames.forEach((filename) => {
       const data = JSON.parse(fs.readFileSync(join(__dirname, '..', '..', 'db', 'patches', filename), 'utf8'));
+      if (data.display === false) return;
+
       const date = moment(path.basename(filename, '.json')+' 19:00-0800');
 
       const enrichedData = this.enrichPatchData(data, date);
