@@ -26,24 +26,47 @@
       ]
     },
     {
+      "veracity": "official",
+      "info": "Stage 4 Labyrinth Nixied’s Sanctum",
+      "source": "Dev Notes",
+      "resources": [
+        {
+          "label": "Teaser",
+          "url": "teaser/nixied_sanctum_4.jpg"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Ras Specialty Change",
+      "source": "Dev Notes",
+      "resources": [
+        {
+          "label": "Teaser",
+          "url": "teaser/sc_ras.jpg"
+        }
+      ]
+    },
+    {
+      "veracity": "likely",
+      "info": "Destina Skin",
+      "source": "Facebook",
+      "resources": [
+        {
+          "label": "Teaser",
+          "url": "teaser/destina_skin.png"
+        }
+      ]
+    },
+    {
       "veracity": "maybe",
       "info": "New Adventure Chapter (6S and/or 7S)",
       "source": "4 week release pattern"
-    },
-    {
-      "veracity": "maybe",
-      "info": "Ras Specialty Change",
-      "source": "Dev Notes without a date of release"
-    },
-    {
-      "veracity": "maybe",
-      "info": "Stage 4 Labyrinth Nixied’s Sanctum",
-      "source": "Dev Notes without a date of release"
     }
   ],
   "stream": [
     "Simultaneous English & Korean official Streams",
-    "New ML5 showcase (Straze???)",
-    "Elphelt Valentine showcase"
+    "Elphelt Valentine showcase",
+    "New ML5 showcase"
   ]
 }
