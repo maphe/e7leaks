@@ -1,0 +1,27 @@
+{
+  "type": "server",
+  "news": [
+    {
+      "veracity": "official",
+      "info": "ML Haste (Blood Moon Haste) in Mystic Rotation (alongside Shadow Rose)",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=AleG3IT4128"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Guilty Gear Side Story: Week 3 - Elphelt Valentine"
+    },
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Elphelt Valentine & her artifact",
+      "source": "Stream"
+    }
+  ],
+  "stream": [
+    "Elphelt Valentine showcase"
+  ]
+}

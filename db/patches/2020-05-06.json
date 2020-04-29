@@ -1,7 +1,15 @@
 {
-  "display": false,
   "type": "client",
   "news": [
+    {
+      "veracity": "official",
+      "info": "Guilty Gear Side Story: Week 2 - Dizzy"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Dizzy & Necro and Undine",
+      "source": "Stream"
+    },
     {
       "veracity": "official",
       "info": "Powder Shop refresh"

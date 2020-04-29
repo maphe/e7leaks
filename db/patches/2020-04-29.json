@@ -13,7 +13,7 @@
     },
     {
       "veracity": "official",
-      "info": "Guilty Gear Collab Rerun",
+      "info": "Guilty Gear Side Story: Week 1 - Sol and Baiken",
       "resources": [
         {
           "label": "Preview",
@@ -27,7 +27,7 @@
     },
     {
       "veracity": "official",
-      "info": "Stage 4 Labyrinth Nixied’s Sanctum",
+      "info": "Labyrinth Nixied’s Sanctum: Zone 4",
       "source": "Dev Notes",
       "resources": [
         {
@@ -38,35 +38,47 @@
     },
     {
       "veracity": "official",
-      "info": "Ras Specialty Change",
+      "info": "Ras Specialty Change: Adventurer Ras",
       "source": "Dev Notes",
       "resources": [
         {
           "label": "Teaser",
           "url": "teaser/sc_ras.jpg"
+        },
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=ljkmTA6sjAM"
         }
       ]
     },
     {
-      "veracity": "likely",
-      "info": "Destina Skin",
+      "veracity": "official",
+      "info": "Epic Pass & Destina Skin",
       "source": "Facebook",
       "resources": [
         {
           "label": "Teaser",
           "url": "teaser/destina_skin.png"
+        },
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=v_FUh6cQxgQ"
         }
       ]
     },
     {
-      "veracity": "maybe",
-      "info": "New Adventure Chapter (6S and/or 7S)",
-      "source": "4 week release pattern"
+      "veracity": "official",
+      "info": "Hero Banner: Destina & Shimadra Staff",
+      "source": "Stream"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Baiken & Torn Sleeve",
+      "source": "Stream"
     }
   ],
   "stream": [
     "Simultaneous English & Korean official Streams",
-    "Elphelt Valentine showcase",
     "New ML5 showcase"
   ]
 }
