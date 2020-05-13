@@ -1,0 +1,21 @@
+{
+  "type": "client",
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Ray & Doctor's Bag",
+      "source": "Livestream 5/13",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=eohNELcWng0"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Ray Side Story: A Healing Breeze",
+      "source": "Livestream 5/13"
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/5331153",
+  "twitch": "https://www.twitch.tv/videos/619603871",
   "news": [
     {
       "veracity": "official",
@@ -19,7 +21,13 @@
     {
       "veracity": "official",
       "info": "New Hero Banner: Elphelt Valentine & Ms. Confille",
-      "source": "Livestream 4/29"
+      "source": "Livestream 4/29",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=UH7m-RcyFfA"
+        }
+      ]
     }
   ],
   "stream": [
