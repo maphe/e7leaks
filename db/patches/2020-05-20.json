@@ -15,7 +15,13 @@
     {
       "veracity": "official",
       "info": "Ray Side Story: A Healing Breeze",
-      "source": "Livestream 5/13"
+      "source": "Livestream 5/13",
+      "resources": [
+        {
+          "label": "Banner",
+          "url": "datamine/ray_ss_banner.png"
+        }
+      ]
     }
   ]
 }
