@@ -1,13 +1,29 @@
 {
   "type": "server",
-  "title": "No info",
   "news": [
     {
-      "veracity": "maybe",
-      "info": "Expecting a teaser on Facebook ~24h before the live stream"
+      "veracity": "official",
+      "info": "Episode 2 last Areas (6S and 7S)",
+      "source": "Facebook Teaser"
+    },
+    {
+      "veracity": "official",
+      "info": "New Hero (possibly Specialty Change for Tieria)",
+      "source": "Facebook Teaser",
+      "resources": [
+        {
+          "label": "Silhouette",
+          "url": "teaser/sc_tieria.png"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Exclusive Equipments (Luluca & Vivian)",
+      "source": "Facebook Teaser"
     }
   ],
   "stream": [
-    "Some sort of Dev Note"
+    "New Hero/SC showcase"
   ]
 }
