@@ -1,8 +1,22 @@
 [
   {
-    "name": "Live Stream",
-    "url": "https://www.twitch.tv/epicseven",
-    "start": "2020-05-27 10:00:00Z",
-    "end": "2020-05-27 11:00:00Z"
+    "name": "Patch Maintenance",
+    "start": "2020-05-28 03:00:00Z",
+    "end": "2020-05-28 08:00:00Z"
+  },
+  {
+    "name": "+50%AP/+30%XP",
+    "start": "2020-05-29 10:00:00Z",
+    "end": "2020-05-30 10:00:00Z"
+  },
+  {
+    "name": "x2 Rune Drop",
+    "start": "2020-05-30 10:00:00Z",
+    "end": "2020-05-31 10:00:00Z"
+  },
+  {
+    "name": "+50% Hunt Mat/+30% Gold",
+    "start": "2020-05-31 10:00:00Z",
+    "end": "2020-06-01 10:00:00Z"
   }
 ]
