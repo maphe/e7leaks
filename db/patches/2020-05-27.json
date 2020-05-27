@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/5414988",
+  "twitch": "https://www.twitch.tv/videos/633317383",
   "news": [
     {
       "veracity": "official",
@@ -8,22 +10,16 @@
     },
     {
       "veracity": "official",
-      "info": "New Hero (possibly Specialty Change for Tieria)",
-      "source": "Facebook Teaser",
-      "resources": [
-        {
-          "label": "Silhouette",
-          "url": "teaser/sc_tieria.png"
-        }
-      ]
+      "info": "New Exclusive Equipments (Luluca & Vivian)",
+      "source": "Facebook Teaser"
     },
     {
       "veracity": "official",
-      "info": "New Exclusive Equipments (Luluca & Vivian)",
-      "source": "Facebook Teaser"
+      "info": "Hero Banner: Elena & Stella Harpa"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ludwig & Time Matter"
     }
-  ],
-  "stream": [
-    "New Hero/SC showcase"
   ]
 }
