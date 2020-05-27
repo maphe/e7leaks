@@ -9,7 +9,7 @@ export class EventService {
     const data = JSON.parse(fs.readFileSync(join(__dirname, '..', '..', 'db', 'events.json'), 'utf8'));
     const events = [];
     data.forEach(rawEvent => {
-      const event: any = {name: rawEvent.name};
+      const event: any = { name: rawEvent.name, url: rawEvent.url };
       const start = moment(rawEvent.start);
       const end = moment(rawEvent.end);
 

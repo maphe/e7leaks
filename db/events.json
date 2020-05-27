@@ -1,6 +1,8 @@
 [
   {
     "name": "Live Stream",
-    "start": "2020-05-27 10:00:00Z"
+    "url": "https://www.twitch.tv/epicseven",
+    "start": "2020-05-27 10:00:00Z",
+    "end": "2020-05-27 11:00:00Z"
   }
 ]

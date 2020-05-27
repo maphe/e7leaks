@@ -7,7 +7,7 @@
     <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1 px-3 mb-3">
         {{#each events}}
             <div class="col border p-2 border-secondary">
-                <b>{{name}}</b> {{type}}
+            <b>{{#if url}}<a href="{{url}}" target="_blank">{{name}}</a>{{else}}{{name}}{{/if}}</b> {{type}}
                 <span class="badge badge-{{style}}">
                     <span class="time-target" data-target="{{target}}">
                         <span class="hour"></span>:<span class="min"></span>:<span class="sec"></span>
