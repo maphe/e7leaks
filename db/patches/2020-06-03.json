@@ -4,7 +4,13 @@
     {
       "veracity": "official",
       "info": "Sigret Side Story: Dark Side of the Moon",
-      "source": "Livestream 5/27"
+      "source": "Livestream 5/27",
+      "resources": [
+        {
+          "label": "Banner",
+          "url": "datamine/sigret_ss_banner.png"
+        }
+      ]
     },
     {
       "veracity": "official",
