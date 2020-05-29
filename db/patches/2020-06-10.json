@@ -3,6 +3,16 @@
   "news": [
     {
       "veracity": "official",
+      "info": "Balance Adjustment and Exclusive Equipment Option Change",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://page.onstove.com/epicseven/global/view/5432434"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "New 4* ML Hero: Free Spirit Tieria (Connection Hero)",
       "source": "5/27 Live Stream"
     }
