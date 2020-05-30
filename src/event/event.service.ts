@@ -7,6 +7,21 @@ const fs = require('fs');
 export class EventService {
   public getOngoingEvents() {
     const data = JSON.parse(fs.readFileSync(join(__dirname, '..', '..', 'db', 'events.json'), 'utf8'));
+    const events = {};
+    for (const server of ['global', 'europe', 'asia']) {
+      if (data[server] !== undefined) {
+        events[server] = this.prepareServerEvents(data[server]);
+      }
+    }
+
+    return events;
+  }
+
+  public getCurrentAlerts() {
+    return JSON.parse(fs.readFileSync(join(__dirname, '..', '..', 'db', 'alerts.json'), 'utf8'));
+  }
+
+  private prepareServerEvents(data) {
     const events = [];
     data.forEach(rawEvent => {
       const event: any = { name: rawEvent.name, url: rawEvent.url };
@@ -26,9 +41,5 @@ export class EventService {
       }
     });
     return events;
-  }
-
-  public getCurrentAlerts() {
-    return JSON.parse(fs.readFileSync(join(__dirname, '..', '..', 'db', 'alerts.json'), 'utf8'));
   }
 }

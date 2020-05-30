@@ -1,20 +1,67 @@
-{{#if events}}
-    <ul class="nav nav-tabs mb-1">
+{{#if events.global}}
+    <ul class="nav nav-tabs mb-1" id="eventsTab" role="tablist">
+        <li class="nav-item"><a class="nav-link disabled">Ongoing Events</a></li>
         <li class="nav-item">
-            <a class="nav-link active">Ongoing Events</a>
+            <a class="nav-link active" data-toggle="tab" href="#eventsGlobal" id="events-global-tab" role="tab" aria-controls="eventsGlobal" aria-selected="true">Global</a>
         </li>
+        {{#if events.europe}}
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#eventsEurope" id="events-europe-tab" role="tab" aria-controls="eventsEurope" aria-selected="false">Europe</a>
+        </li>
+        {{/if}}
+        {{#if events.asia}}
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#eventsAsia" id="events-asia-tab" role="tab" aria-controls="eventsAsia" aria-selected="false">Asia</a>
+        </li>
+        {{/if}}
     </ul>
-    <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1 px-3 mb-3">
-        {{#each events}}
-            <div class="col border p-2 border-secondary">
-            <b>{{#if url}}<a href="{{url}}" target="_blank">{{name}}</a>{{else}}{{name}}{{/if}}</b> {{type}}
-                <span class="badge badge-{{style}}">
-                    <span class="time-target" data-target="{{target}}">
-                        <span class="hour"></span>:<span class="min"></span>:<span class="sec"></span>
-                    </span>
-                </span>
+    <div class="tab-content" id="eventsTabContent">
+        <div class="tab-pane fade show active" id="eventsGlobal" role="tabpanel" aria-labelledby="events-global-tab">
+            <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1 px-3 mb-3">
+                {{#each events.global}}
+                    <div class="col border p-2 border-secondary">
+                        <b>{{#if url}}<a href="{{url}}" target="_blank">{{name}}</a>{{else}}{{name}}{{/if}}</b> {{type}}
+                        <span class="badge badge-{{style}}">
+                            <span class="time-target" data-target="{{target}}">
+                                <span class="hour"></span>:<span class="min"></span>:<span class="sec"></span>
+                            </span>
+                        </span>
+                    </div>
+                {{/each}}
             </div>
-        {{/each}}
+        </div>
+        {{#if events.europe}}
+        <div class="tab-pane fade" id="eventsEurope" role="tabpanel" aria-labelledby="events-europe-tab">
+            <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1 px-3 mb-3">
+                {{#each events.europe}}
+                    <div class="col border p-2 border-secondary">
+                        <b>{{#if url}}<a href="{{url}}" target="_blank">{{name}}</a>{{else}}{{name}}{{/if}}</b> {{type}}
+                        <span class="badge badge-{{style}}">
+                            <span class="time-target" data-target="{{target}}">
+                                <span class="hour"></span>:<span class="min"></span>:<span class="sec"></span>
+                            </span>
+                        </span>
+                    </div>
+                {{/each}}
+            </div>
+        </div>
+        {{/if}}
+        {{#if events.asia}}
+        <div class="tab-pane fade" id="eventsAsia" role="tabpanel" aria-labelledby="events-asia-tab">
+            <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1 px-3 mb-3">
+                {{#each events.asia}}
+                    <div class="col border p-2 border-secondary">
+                        <b>{{#if url}}<a href="{{url}}" target="_blank">{{name}}</a>{{else}}{{name}}{{/if}}</b> {{type}}
+                        <span class="badge badge-{{style}}">
+                            <span class="time-target" data-target="{{target}}">
+                                <span class="hour"></span>:<span class="min"></span>:<span class="sec"></span>
+                            </span>
+                        </span>
+                    </div>
+                {{/each}}
+            </div>
+        </div>
+        {{/if}}
     </div>
     <hr />
 {{/if}}
