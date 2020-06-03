@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/5462294",
   "news": [
     {
       "veracity": "official",
@@ -16,6 +17,10 @@
       "veracity": "official",
       "info": "Hero Banner: Sigret & Cradle of Life",
       "source": "Livestream 5/27"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Vildred & Wind Rider"
     }
   ]
 }

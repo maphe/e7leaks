@@ -2,6 +2,16 @@
   "news": [
     {
       "veracity": "official",
+      "info": "Kizuna AI Collab",
+      "resources": [
+        {
+          "label": "Teaser",
+          "url": "https://www.youtube.com/watch?v=EpiGUABJjSI"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "Labyrinth Nixied’s Sanctum: Zone 5",
       "source": "Dev Notes"
     },
@@ -30,10 +40,6 @@
       "veracity": "maybe",
       "info": "Rose Skin",
       "source": "Datamined"
-    },
-    {
-      "veracity": "rumor",
-      "info": "New collab (not Guilty Gear) sometime after Episode 2 is over and before Episode 3 begins"
     }
   ]
 }
