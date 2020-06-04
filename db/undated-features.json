@@ -2,11 +2,15 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Kizuna AI Collab",
+      "info": "Kizuna AI Collab (free SSS Hero)",
       "resources": [
         {
           "label": "Teaser",
           "url": "https://www.youtube.com/watch?v=EpiGUABJjSI"
+        },
+        {
+          "label": "Notice",
+          "url": "https://page.onstove.com/epicseven/global/view/5468945"
         }
       ]
     },
