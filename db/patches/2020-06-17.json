@@ -2,6 +2,16 @@
   "type": "client",
   "news": [
     {
+      "veracity": "likely",
+      "info": "New Hero Banner: Celine & her Artifact",
+      "source": "Showcased on 6/10 stream"
+    },
+    {
+      "veracity": "likely",
+      "info": "Celine Side Story",
+      "source": "Showcased on 6/10 stream"
+    },
+    {
       "veracity": "maybe",
       "info": "Kizuna AI Collab Event Kickoff",
       "source": "Just a guess..."

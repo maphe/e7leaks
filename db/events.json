@@ -1,53 +1,11 @@
 {
   "global": [
     {
-      "name": "Free Unequip",
-      "start": "2020-05-28 08:00:00Z",
-      "end": "2020-05-31 15:00:00Z"
-    },
-    {
-      "name": "x2 Rune Drop",
-      "start": "2020-05-30 10:00:00Z",
-      "end": "2020-05-31 10:00:00Z"
-    },
-    {
-      "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2020-05-31 10:00:00Z",
-      "end": "2020-06-01 10:00:00Z"
+      "name": "Live Stream",
+      "url": "https://page.onstove.com/epicseven/global/view/5499987",
+      "start": "2020-06-10 10:00:00Z"
     }
   ],
-  "europe": [
-    {
-      "name": "Free Unequip",
-      "start": "2020-05-28 08:00:00Z",
-      "end": "2020-05-31 15:00:00Z"
-    },
-    {
-      "name": "x2 Rune Drop",
-      "start": "2020-05-30 03:00:00Z",
-      "end": "2020-05-31 03:00:00Z"
-    },
-    {
-      "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2020-05-31 03:00:00Z",
-      "end": "2020-06-01 03:00:00Z"
-    }
-  ],
-  "asia": [
-    {
-      "name": "Free Unequip",
-      "start": "2020-05-28 08:00:00Z",
-      "end": "2020-05-31 15:00:00Z"
-    },
-    {
-      "name": "x2 Rune Drop",
-      "start": "2020-05-29 18:00:00Z",
-      "end": "2020-05-30 18:00:00Z"
-    },
-    {
-      "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2020-05-30 18:00:00Z",
-      "end": "2020-05-31 18:00:00Z"
-    }
-  ]
+  "europe": [],
+  "asia": []
 }
