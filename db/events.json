@@ -1,11 +1,38 @@
 {
   "global": [
     {
-      "name": "Live Stream",
-      "url": "https://page.onstove.com/epicseven/global/view/5499987",
-      "start": "2020-06-10 10:00:00Z"
+      "name": "Patch Maintenance",
+      "start": "2020-06-11 03:00:00Z",
+      "end": "2020-06-11 09:00:00Z"
+    },
+    {
+      "name": "Free Unequip",
+      "start": "2020-06-11 03:00:00Z",
+      "end": "2020-06-14 15:00:00Z"
     }
   ],
-  "europe": [],
-  "asia": []
+  "europe": [
+    {
+      "name": "Patch Maintenance",
+      "start": "2020-06-11 03:00:00Z",
+      "end": "2020-06-11 09:00:00Z"
+    },
+    {
+      "name": "Free Unequip",
+      "start": "2020-06-11 03:00:00Z",
+      "end": "2020-06-14 15:00:00Z"
+    }
+  ],
+  "asia": [
+    {
+      "name": "Patch Maintenance",
+      "start": "2020-06-11 03:00:00Z",
+      "end": "2020-06-11 09:00:00Z"
+    },
+    {
+      "name": "Free Unequip",
+      "start": "2020-06-11 03:00:00Z",
+      "end": "2020-06-14 15:00:00Z"
+    }
+  ]
 }

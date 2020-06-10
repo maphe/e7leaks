@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/5500537",
+  "twitch": "https://www.twitch.tv/videos/646639348",
   "news": [
     {
       "veracity": "official",
@@ -18,16 +20,26 @@
     },
     {
       "veracity": "official",
-      "info": "Powder Shop Refresh"
+      "info": "Equipment Conversion Reorganization"
     },
     {
-      "veracity": "likely",
-      "info": "Equipment Conversion Points",
-      "source": "Announced for Early-Mid June"
-    },
-    {
-      "veracity": "maybe",
+      "veracity": "official",
       "info": "Kizuna AI Collab"
+    },
+    {
+      "veracity": "official",
+      "info": "Summer Night Sky Epic Pass + Tamarinne Skin",
+
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=PjvgAFXCsFE"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop Refresh"
     }
   ],
   "stream": [

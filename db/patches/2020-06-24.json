@@ -1,0 +1,17 @@
+{
+  "type": "server",
+  "news": [
+    {
+      "veracity": "official",
+      "info": "ML Violet (Remnant Violet) in Mystic Rotation (alongside Crimson Armin)",
+      "source": "Livestream 6/10",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=qPgI85Dpyyk"
+        }
+      ]
+    }
+  ],
+  "stream": []
+}

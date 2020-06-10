@@ -2,13 +2,19 @@
   "type": "client",
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Hero Banner: Celine & her Artifact",
-      "source": "Showcased on 6/10 stream"
+      "veracity": "official",
+      "info": "New Hero Banner: Celine & Secret Art - Storm Sword",
+      "source": "Showcased on 6/10 stream",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=uQviq7whDcY"
+        }
+      ]
     },
     {
-      "veracity": "likely",
-      "info": "Celine Side Story",
+      "veracity": "official",
+      "info": "Celine Side Story: To Catch a Thief",
       "source": "Showcased on 6/10 stream"
     }
   ]
