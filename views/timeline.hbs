@@ -6,7 +6,7 @@
             <ul>
                 {{#each news}}
                     <li>
-                        <span class="badge badge-pill badge-{{veracityBadgeClass}}">{{veracity}}</span> {{info}}
+                        <span class="badge badge-pill badge-{{veracityBadgeClass}}">{{veracity}}</span> {{{info}}}
                         {{#if source}}<small class="text-muted">({{source}})</small>{{/if}}
                         {{#each resources}}
                             <a href="{{url}}" target="_blank">[{{label}}]</a>
