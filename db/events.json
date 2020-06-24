@@ -1,11 +1,41 @@
 {
   "global": [
     {
-      "name": "Patch Stream",
-      "start": "2020-06-24 10:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/5570825"
+      "name": "Patch Maintenance",
+      "start": "2020-06-25 03:00:00Z",
+      "end": "2020-06-25 09:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/5575547"
+    },
+    {
+      "name": "Free Unequip",
+      "start": "2020-06-25 03:00:00Z",
+      "end": "2020-06-28 15:00:00Z"
     }
   ],
-  "europe": [],
-  "asia": []
+  "europe": [
+    {
+      "name": "Patch Maintenance",
+      "start": "2020-06-25 03:00:00Z",
+      "end": "2020-06-25 09:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/5575547"
+    },
+    {
+      "name": "Free Unequip",
+      "start": "2020-06-25 03:00:00Z",
+      "end": "2020-06-28 15:00:00Z"
+    }
+  ],
+  "asia": [
+    {
+      "name": "Patch Maintenance",
+      "start": "2020-06-25 03:00:00Z",
+      "end": "2020-06-25 09:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/5575547"
+    },
+    {
+      "name": "Free Unequip",
+      "start": "2020-06-25 03:00:00Z",
+      "end": "2020-06-28 15:00:00Z"
+    }
+  ]
 }

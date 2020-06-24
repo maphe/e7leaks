@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/5570923",
+  "twitch": "https://www.twitch.tv/videos/659982630",
   "news": [
     {
       "veracity": "official",
@@ -11,6 +13,18 @@
           "url": "https://www.youtube.com/watch?v=qPgI85Dpyyk"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Rerun: Special Side Story – Song of the Sea"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Seaside Bellona & Reingar's Special Drink"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Lilibet & Creation & Destruction"
     }
   ],
   "stream": [
