@@ -2,6 +2,16 @@
   "news": [
     {
       "veracity": "official",
+      "info": "New Summer Event (End of July)",
+      "source": "6/24 Stream"
+    },
+    {
+      "veracity": "likely",
+      "info": "ML5 duplicates trading system (August or later)",
+      "source": "6/24 Stream"
+    },
+    {
+      "veracity": "official",
       "info": "Labyrinth Nixied’s Sanctum: Zone 5",
       "source": "Dev Notes"
     },
