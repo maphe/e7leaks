@@ -2,14 +2,14 @@
   "type": "client",
   "news": [
     {
+      "veracity": "official",
+      "info": "Rerun: Special Side Story – Song of the Sea - Week 2",
+      "source": "No other Side Story Datamined"
+    },
+    {
       "veracity": "likely",
       "info": "Hero Banner: Haste & Rhianna & Luciella",
       "source": "Datamine"
-    },
-    {
-      "veracity": "maybe",
-      "info": "New Side Story",
-      "source": "Celine Side Story over"
     }
   ]
 }
