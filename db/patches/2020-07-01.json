@@ -3,6 +3,11 @@
   "news": [
     {
       "veracity": "likely",
+      "info": "Hero Banner: Haste & Rhianna & Luciella",
+      "source": "Datamine"
+    },
+    {
+      "veracity": "maybe",
       "info": "New Side Story",
       "source": "Celine Side Story over"
     }
