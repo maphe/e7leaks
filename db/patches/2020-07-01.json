@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/5608880",
   "news": [
     {
       "veracity": "official",
@@ -7,12 +8,12 @@
       "source": "No other Side Story Datamined"
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Hero Banner: Haste & Rhianna & Luciella",
       "source": "Datamine"
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Hero Banner: Lilias & Bastion of Perlutia",
       "source": "Datamine"
     }

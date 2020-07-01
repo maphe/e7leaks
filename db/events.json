@@ -1,23 +1,6 @@
 {
-  "global": [
-    {
-      "name": "Temporary Maintenance",
-      "start": "2020-06-25 15:30:00Z",
-      "end": "2020-06-25 16:30:00Z"
-    },
-    {
-      "name": "Free Unequip",
-      "start": "2020-06-25 03:00:00Z",
-      "end": "2020-06-28 15:00:00Z"
-    }
-  ],
-  "europe": [
-    {
-      "name": "Free Unequip",
-      "start": "2020-06-25 03:00:00Z",
-      "end": "2020-06-28 15:00:00Z"
-    }
-  ],
+  "global": [],
+  "europe": [],
   "asia": [
     {
       "name": "Free Unequip",
