@@ -1,0 +1,14 @@
+{
+  "type": "server",
+  "title": "Summer Event?",
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "Kick off New Summer Event",
+      "source": "Last maintenance patch of July"
+    }
+  ],
+  "stream": [
+    "Showcase new ML5"
+  ]
+}
