@@ -1,11 +1,11 @@
 {
-  "global": [],
-  "europe": [],
-  "asia": [
+  "global": [
     {
-      "name": "Free Unequip",
-      "start": "2020-06-25 03:00:00Z",
-      "end": "2020-06-28 15:00:00Z"
+      "name": "Patch Stream",
+      "url": "https://page.onstove.com/epicseven/global/view/5638760",
+      "start": "2020-07-08 10:00:00Z"
     }
-  ]
+  ],
+  "europe": [],
+  "asia": []
 }

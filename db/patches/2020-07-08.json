@@ -1,6 +1,6 @@
 {
   "type": "server",
-  "title": "Expedition?",
+  "title": "Expedition",
   "news": [
     {
       "veracity": "official",
@@ -8,10 +8,18 @@
       "source": "6/24 Stream"
     },
     {
-      "veracity": "maybe",
+      "veracity": "likely",
       "info": "New PvE Mode: Expedition",
-      "source": "Announced for July on 6/24 Stream"
+      "source": "7/08 Stream"
+    },
+    {
+      "veracity": "likely",
+      "info": "New Exclusive Equipments",
+      "source": "7/08 Stream"
     }
   ],
-  "stream": []
+  "stream": [
+    "New Hero Showcase",
+    "Expedition"
+  ]
 }

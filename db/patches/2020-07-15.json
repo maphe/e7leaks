@@ -3,7 +3,9 @@
   "title": "???",
   "news": [
     {
-      "info": "No data at this point; waiting for 7/07 stream and 7/08 patch"
+      "veracity": "maybe",
+      "info": "New Hero with Side Story",
+      "source": "Silhouette"
     },
     {
       "veracity": "official",
