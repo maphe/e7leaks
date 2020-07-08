@@ -1,6 +1,8 @@
 {
   "type": "server",
   "title": "Expedition",
+  "link": "https://page.onstove.com/epicseven/global/view/5642185",
+  "twitch": "https://www.twitch.tv/videos/673427784",
   "news": [
     {
       "veracity": "official",
@@ -8,14 +10,31 @@
       "source": "6/24 Stream"
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "New PvE Mode: Expedition",
       "source": "7/08 Stream"
     },
     {
-      "veracity": "likely",
-      "info": "New Exclusive Equipments",
+      "veracity": "official",
+      "info": "Labyrinth Nixied’s Sanctum: Zone 5"
+    },
+    {
+      "veracity": "official",
+      "info": "New Exclusive Equipments (Kawerik & Ravi)",
       "source": "7/08 Stream"
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story: Seaside Showdown",
+      "source": "7/08 Stream"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Aramintha & Etica’s Scepter"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ravi & Durandal"
     }
   ],
   "stream": [

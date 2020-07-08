@@ -1,11 +1,14 @@
 {
   "type": "client",
-  "title": "???",
+  "title": "Mui",
   "news": [
     {
+      "veracity": "official",
+      "info": "Hero Banner: Mui & Circus Fantasia"
+    },
+    {
       "veracity": "maybe",
-      "info": "New Hero with Side Story",
-      "source": "Silhouette"
+      "info": "Mui Side Story"
     },
     {
       "veracity": "official",
