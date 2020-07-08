@@ -5,7 +5,13 @@
     {
       "veracity": "likely",
       "info": "New Summer Event: The Holy Order of the Blue Cross and the Mysterious Island",
-      "source": "Preview on 7/08 Stream"
+      "source": "Preview on 7/08 Stream",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "teaser/2020_summer_event.png"
+        }
+      ]
     }
   ],
   "stream": [
