@@ -101,6 +101,10 @@ footer {
   color: dodgerblue;
 }
 
+[data-theme="dark"] a.btn, [data-theme="dark"] a.btn:hover {
+  color: #eee;
+}
+
 [data-theme="dark"] .table td, [data-theme="dark"] .table th {
   color: #eee;
 }
