@@ -22,15 +22,37 @@
     <link rel="stylesheet" href="style/timeline.css" />
 </head>
 <body class="container">
-    <div class="row mt-3">
-        <h1 class="col-md-9">
-            E7 Leaks
-            <small class="text-muted">Upcoming Epic 7 patches</small>
-        </h1>
-        <div class="col-3">
-            <a class="btn btn-secondary float-right btn-sm" data-toggle="collapse" href="#disclaimer" role="button" aria-expanded="false" aria-controls="disclaimer">Disclaimer</a>
-        </div>
-    </div>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3 pb-0">
+        <h1 class="navbar-brand pt-1">E7 Leaks</h1>
+        <h3 class="navbar-brand text-muted pt-1">Upcoming Epic 7 patches</h3>
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item nav-link">
+                <a class="nav-link pt-1" target="_blank" href="https://www.buymeacoffee.com/maphe" data-toggle="tooltip" title="Buy me a Coffee" data-placement="left">
+                    <i class="fas fa-mug-hot fa-lg"></i>
+                </a>
+            </li>
+            <li class="nav-item nav-link">
+                <div class="custom-control custom-switch pt-1">
+                    <input type="checkbox" class="custom-control-input" id="dark-switch">
+                    <label class="custom-control-label" for="dark-switch">
+                        <i class="fas fa-adjust mt-1"></i>
+                    </label>
+                </div>
+            </li>
+            <li class="nav-item nav-link">
+                <a class="btn btn-secondary btn-sm" data-toggle="collapse" href="#disclaimer" role="button" aria-expanded="false" aria-controls="disclaimer">Disclaimer</a>
+            </li>
+<!--            <li class="nav-item nav-link">-->
+<!--                <div class="custom-control custom-switch">-->
+<!--                    <input type="checkbox" class="custom-control-input" id="dark-switch">-->
+<!--                    <label class="custom-control-label" for="dark-switch">-->
+<!--                        <span class="d-none d-sm-inline">Dark Mode</span>-->
+<!--                        <i class="fas fa-adjust d-inline d-sm-none mt-1"></i>-->
+<!--                    </label>-->
+<!--                </div>-->
+<!--            </li>-->
+        </ul>
+    </nav>
 
     <blockquote id="disclaimer" class="blockquote collapse multi-collapse">
         <p><small class="text-muted">
@@ -60,6 +82,7 @@
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.1/js/all.min.js"></script>
 <script type="application/javascript">
     const countdown = (elem) => {
         let hours, minutes, seconds;
@@ -103,5 +126,33 @@
             countdown(timeTargets.item(i));
         }
     })
+
+    $(function () {
+        let darkSwitch = document.getElementById('dark-switch');
+        if (darkSwitch) {
+            initTheme();
+            darkSwitch.addEventListener('change', function(event) {
+                applyTheme();
+            });
+            function initTheme() {
+                const darkThemeSelected =
+                        localStorage.getItem('dark-switch') !== null &&
+                        localStorage.getItem('dark-switch') === 'dark';
+                darkSwitch.checked = darkThemeSelected;
+                darkThemeSelected
+                        ? document.body.setAttribute('data-theme', 'dark')
+                        : document.body.removeAttribute('data-theme');
+            }
+            function applyTheme() {
+                if (darkSwitch.checked) {
+                    document.body.setAttribute('data-theme', 'dark');
+                    localStorage.setItem('dark-switch', 'dark');
+                } else {
+                    document.body.removeAttribute('data-theme');
+                    localStorage.removeItem('dark-switch');
+                }
+            }
+        }
+    });
 </script>
 </html>
