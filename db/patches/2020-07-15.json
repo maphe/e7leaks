@@ -1,29 +1,15 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/5687739",
   "title": "Mui",
   "news": [
     {
       "veracity": "official",
-      "info": "Hero Banner: Mui & Circus Fantasia",
+      "info": "New Hero Banner: Mui & Circus Fantasia",
       "resources": [
         {
           "label": "Preview",
           "url": "https://www.youtube.com/watch?v=nsKA5s4aIBg"
-        }
-      ]
-    },
-    {
-      "veracity": "official",
-      "info": "Side Story: The Holy Order of the Blue Cross and the Mysterious Island",
-      "source": "Preview on 7/08 Stream",
-      "resources": [
-        {
-          "label": "Banner",
-          "url": "datamine/ss_mui_banner.png"
-        },
-        {
-          "label": "Poster",
-          "url": "datamine/ss_vyupia_poster.png"
         }
       ]
     },
