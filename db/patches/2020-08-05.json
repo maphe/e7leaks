@@ -1,0 +1,19 @@
+{
+  "type": "server",
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Champion Zerato and Carrot Skill Fix",
+      "resources": [
+        {
+          "label": "Details",
+          "url": "https://page.onstove.com/epicseven/global/view/5656903"
+        }
+      ]
+    },
+    {
+      "veracity": "likely",
+      "info": "New ML5 in Mystic Rotation"
+    }
+  ]
+}
