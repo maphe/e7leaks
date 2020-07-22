@@ -12,8 +12,18 @@
       ]
     },
     {
-      "veracity": "likely",
-      "info": "New ML5 in Mystic Rotation"
+      "veracity": "official",
+      "info": "Briar Witch Iseria in Mystic Rotation (alongside Fighter Maya)",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=loKWBDAldBg"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Special Side Story - Week 3"
     }
   ]
 }

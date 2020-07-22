@@ -2,8 +2,18 @@
   "type": "client",
   "news": [
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Special Side Story - Week 2"
+    },
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Holiday Yufine & Champion's Trophy",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=q5YivLAqVtg&t=201s"
+        }
+      ]
     }
   ]
 }

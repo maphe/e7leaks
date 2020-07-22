@@ -1,6 +1,8 @@
 {
   "type": "server",
   "title": "Summer Event Kick Off",
+  "link": "https://page.onstove.com/epicseven/global/view/5722308",
+  "twitch": "https://www.twitch.tv/videos/687169175",
   "news": [
     {
       "veracity": "official",
@@ -16,6 +18,22 @@
           "url": "datamine/ss_vyupia_poster.png"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Epic Pass - Vacation 2020 (Achates Skin)"
+    },
+    {
+      "veracity": "official",
+      "info": "Summer Limited Pets"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Bellona & Iron Fan"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Violet & Violet’s Talisman"
     }
   ],
   "stream": [
