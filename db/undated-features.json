@@ -1,6 +1,11 @@
 {
   "news": [
     {
+      "veracity": "official",
+      "info": "Skill Enhance System improvement from Friendship (August?)",
+      "source": "7/26 Stream"
+    },
+    {
       "veracity": "likely",
       "info": "ML5 duplicates trading system (August or later)",
       "source": "6/24 Stream"
