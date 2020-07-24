@@ -13,6 +13,16 @@
     },
     {
       "veracity": "official",
+      "info": "Hero Balance Adjustment",
+      "resources": [
+        {
+          "label": "Details",
+          "url": "https://page.onstove.com/epicseven/global/view/5735873"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "Briar Witch Iseria in Mystic Rotation (alongside Fighter Maya)",
       "resources": [
         {
