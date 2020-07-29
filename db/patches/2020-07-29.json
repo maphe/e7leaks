@@ -9,13 +9,17 @@
     },
     {
       "veracity": "official",
-      "info": "New Hero Banner: Holiday Yufine & Champion's Trophy",
+      "info": "New Limited Hero Banner: Holiday Yufine & Champion's Trophy",
       "resources": [
         {
           "label": "Intro",
           "url": "https://www.youtube.com/watch?v=q5YivLAqVtg&t=201s"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Amazon Prime Login Event"
     }
   ]
 }
