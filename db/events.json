@@ -1,19 +1,9 @@
 {
   "global": [
     {
-      "name": "Patch Maintenance",
-      "url": "https://page.onstove.com/epicseven/global/view/5724194",
-      "start": "2020-07-23 03:00:00Z",
-      "end": "2020-07-23 09:00:00Z"
-    },
-    {
-      "name": "Free Unequip",
-      "start": "2020-07-23 03:00:00Z",
-      "end": "2020-07-26 15:00:00Z"
-    },
-    {
-      "name": "Holiday Yufine Banner",
-      "start": "2020-07-30 03:00:00Z"
+      "name": "Patch Livestream",
+      "url": "https://page.onstove.com/epicseven/global/view/5794352",
+      "start": "2020-08-05 10:00:00Z"
     }
   ],
   "europe": [],
