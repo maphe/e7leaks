@@ -1,0 +1,20 @@
+{
+  "type": "client",
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Cecilia Side Story: A Long Way Home",
+      "source": "8/5 Stream"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Cecilia & Rise of a Monarch (New Artifact)",
+      "source": "8/5 Stream"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Kise & Alabastron",
+      "source": "8/5 Stream"
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/5795285",
+  "twitch": "https://www.twitch.tv/videos/700999084",
   "news": [
     {
       "veracity": "official",
@@ -36,9 +38,23 @@
       "info": "Special Side Story - Week 3"
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Skill Enhance System improvement from Friendship",
       "source": "7/26 Stream"
+    },
+    {
+      "veracity": "official",
+      "info": "Pearlhorizon Specialty Change: Doll Maker Pearlhorizon",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=uHvCcpS407U"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Cermia & Border Coin"
     }
   ],
   "stream": [
