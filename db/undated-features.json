@@ -2,8 +2,14 @@
   "news": [
     {
       "veracity": "likely",
-      "info": "ML5 duplicates trading system (August or later)",
-      "source": "6/24 Stream"
+      "info": "ML5 duplicates trading system (Second Half of the Year)",
+      "source": "6/24 Stream",
+      "resources": [
+      {
+        "label": "Dev Notes",
+        "url": "https://page.onstove.com/epicseven/global/view/5811767"
+      }
+    ]
     },
     {
       "veracity": "maybe",
