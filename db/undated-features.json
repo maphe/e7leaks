@@ -1,9 +1,8 @@
 {
   "news": [
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "ML5 duplicates trading system (Second Half of the Year)",
-      "source": "6/24 Stream",
       "resources": [
       {
         "label": "Dev Notes",
