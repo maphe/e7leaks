@@ -1,19 +1,37 @@
 {{#each timeline}}
     <div class="card mb-4">
-        <h5 class="card-header">{{formattedDate}}{{#if link}} [<a href="{{link}}" target="_blank">Patch Note</a>]{{/if}}{{#if twitch}} [<a href="{{twitch}}" target="_blank">Patch Stream</a>]{{/if}}{{#if patchType}} <span class="badge badge-{{patchTypeBadgeClass}} float-right" data-toggle="tooltip" title="{{patchTypeTooltip}}">{{patchType}}</span>{{/if}}</h5>
+        <h5 class="card-header">
+            {{formattedDate}}
+            {{#if link}} [<a href="{{link}}" target="_blank">Patch Note</a>]{{/if}}
+            {{#if twitch}} [<a href="{{twitch}}" target="_blank">Patch Stream</a>]{{/if}}
+            {{#if patchType}}
+                <span class="badge badge-{{patchTypeBadgeClass}} float-right" data-toggle="tooltip" title="{{patchTypeTooltip}}">{{patchType}}</span>
+            {{/if}}
+        </h5>
         <div class="card-body">
-            {{#if title}}<h5 class="card-title">{{title}}</h5>{{/if}}
-            <ul>
-                {{#each news}}
-                    <li>
-                        <span class="badge badge-pill badge-{{veracityBadgeClass}}">{{veracity}}</span> {{{info}}}
-                        {{#if source}}<small class="text-muted">({{source}})</small>{{/if}}
-                        {{#each resources}}
-                            <a href="{{url}}" target="_blank">[{{label}}]</a>
+            <div class="row">
+                <div class="col-{{#if images}}9{{else}}12{{/if}}">
+                    {{#if title}}<h5 class="card-title">{{title}}</h5>{{/if}}
+                    <ul>
+                        {{#each news}}
+                            <li>
+                                <span class="badge badge-pill badge-{{veracityBadgeClass}}">{{veracity}}</span> {{{info}}}
+                                {{#if source}}<small class="text-muted">({{source}})</small>{{/if}}
+                                {{#each resources}}
+                                    <a href="{{url}}" target="_blank">[{{label}}]</a>
+                                {{/each}}
+                            </li>
                         {{/each}}
-                    </li>
-                {{/each}}
-            </ul>
+                    </ul>
+                </div>
+                {{#if images}}
+                    <div class="col-3">
+                        {{#each images}}
+                            <img src="{{this}}" height="50" class="float-right" />
+                        {{/each}}
+                    </div>
+                {{/if}}
+            </div>
         </div>
         {{#if stream}}
             <div class="card-footer">

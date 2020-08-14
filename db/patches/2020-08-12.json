@@ -1,6 +1,11 @@
 {
   "type": "client",
   "link": "https://page.onstove.com/epicseven/global/view/5844142",
+  "images": [
+    "datamine/gacha_banner_cecilia.png",
+    "datamine/ss_cecilia_banner.png",
+    "datamine/gacha_banner_kise.png"
+  ],
   "news": [
     {
       "veracity": "official",

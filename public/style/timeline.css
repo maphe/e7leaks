@@ -4,6 +4,7 @@
 }
 
 .card-body ul, .card-footer ul {
+  padding-left: 30px;
   margin-bottom: 0;
 }
 
