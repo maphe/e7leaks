@@ -3,7 +3,7 @@
   "title": "No info, All Speculation",
   "news": [
     {
-      "info": "We might or might not get some info during E7 Online Fest on (8/15)",
+      "info": "We may or may not get some info during E7 Online Fest on (8/15)",
       "resources": [
         {
           "label": "E7 Official Twitch",
@@ -13,12 +13,13 @@
     },
     {
       "veracity": "maybe",
-      "info": "2nd Anniversary Event"
-    },
-    {
-      "veracity": "maybe",
       "info": "Episode 3 Opening",
       "source": "Prologue done"
+    },
+    {
+      "veracity": "unlikely",
+      "info": "2nd Anniversary Event",
+      "source": "Event Stream happening on 8/30"
     }
   ],
   "stream": [
