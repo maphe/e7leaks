@@ -1,0 +1,19 @@
+{
+  "type": "client",
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "New Hero Banner (new Dragon)",
+      "source": "Silhouette revealed"
+    },
+    {
+      "veracity": "likely",
+      "info": "New Side Story for new Dragon hero",
+      "source": "Cecilia Side Story over"
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop Refresh"
+    }
+  ]
+}

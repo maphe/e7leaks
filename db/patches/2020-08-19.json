@@ -1,18 +1,9 @@
 {
   "type": "server",
-  "title": "No info, All Speculation",
+  "title": "No info",
   "news": [
     {
-      "veracity": "maybe",
-      "info": "Episode 3 Opening",
-      "source": "Prologue done"
-    },
-    {
-      "veracity": "unlikely",
-      "info": "2nd Anniversary Event",
-      "source": "Anniversary Stream on 8/30"
+      "info": "No stream + Anniversary later this month = likely a light update"
     }
-  ],
-  "stream": [
   ]
 }
