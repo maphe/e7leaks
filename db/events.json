@@ -1,9 +1,10 @@
 {
   "global": [
     {
-      "name": "Silhouette Reveal",
-      "url": "https://page.onstove.com/epicseven/global/view/5895853",
-      "start": "2020-08-19 10:00:00Z"
+      "name": "Patch Maintenance",
+      "url": "https://page.onstove.com/epicseven/global/view/5901232",
+      "start": "2020-08-20 03:00:00Z",
+      "end": "2020-08-20 09:00:00Z"
     },
     {
       "name": "Epic Together Event",

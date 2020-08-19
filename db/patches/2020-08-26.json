@@ -2,13 +2,18 @@
   "type": "client",
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Hero Banner (new Dragon)",
-      "source": "Silhouette revealed"
+      "veracity": "official",
+      "info": "New Hero Banner: Choux and Snow Crystal",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=ko8h46pqjuw"
+        }
+      ]
     },
     {
       "veracity": "likely",
-      "info": "New Side Story for new Dragon hero",
+      "info": "Choux Side Story",
       "source": "Cecilia Side Story over"
     },
     {

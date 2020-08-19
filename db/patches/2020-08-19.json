@@ -1,9 +1,31 @@
 {
   "type": "server",
-  "title": "No info",
+  "title": "QoL improvements",
+  "link": "https://page.onstove.com/epicseven/global/view/5902090",
   "news": [
     {
-      "info": "No stream + Anniversary later this month = likely a light update"
+      "veracity": "official",
+      "info": "Guild War New Season"
+    },
+    {
+      "veracity": "official",
+      "info": "New World Arena Mock Battle Mode Added - No Duplicate Classes"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Lidica & Sword of Judgment"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Lidica & Sword of Judgment"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Tywin & Crown of Glory (New Artifact)"
+    },
+    {
+      "veracity": "official",
+      "info": "Expedition Improvements"
     }
   ]
 }
