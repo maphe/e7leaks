@@ -1,5 +1,8 @@
 {
   "type": "client",
+  "images": [
+    "datamine/ss_new_beginning_banner.png"
+  ],
   "news": [
     {
       "veracity": "official",
@@ -13,8 +16,13 @@
     },
     {
       "veracity": "likely",
-      "info": "Choux Side Story",
-      "source": "Cecilia Side Story over"
+      "info": "Side Story: A New Beginning",
+      "source": "Datamine"
+    },
+    {
+      "veracity": "likely",
+      "info": "Yuna Skin: Afterschool Party! (could be new Epic Pass)",
+      "source": "Datamine"
     },
     {
       "veracity": "official",
