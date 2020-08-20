@@ -1,0 +1,9 @@
+Rewards for Side Story: A New Beginning
+
+Necklace lvl 78
+Main Stat: Cri Damage
+Sub Stats: Crit Chance / Atk / Speed / HP%
+
+Ring lvl 78
+Main Stat: Atk%
+Sub Stats: Crit Chance / Crit Damage / Speed / Def%

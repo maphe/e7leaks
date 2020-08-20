@@ -2,6 +2,10 @@
   "type": "server",
   "title": "QoL improvements",
   "link": "https://page.onstove.com/epicseven/global/view/5902090",
+  "images": [
+    "datamine/gacha_banner_tywin_kr.png",
+    "datamine/gacha_banner_lidica_kr.png"
+  ],
   "news": [
     {
       "veracity": "official",

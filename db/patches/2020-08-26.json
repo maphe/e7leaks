@@ -1,7 +1,8 @@
 {
   "type": "client",
   "images": [
-    "datamine/ss_new_beginning_banner.png"
+    "datamine/ss_new_beginning_banner.png",
+    "datamine/gacha_banner_choux_kr.png"
   ],
   "news": [
     {
@@ -17,7 +18,13 @@
     {
       "veracity": "likely",
       "info": "Side Story: A New Beginning",
-      "source": "Datamine"
+      "source": "Datamine",
+      "resources": [
+        {
+          "label": "Gear Rewards",
+          "url": "datamine/ss-new-beginning-rewards.txt"
+        }
+      ]
     },
     {
       "veracity": "likely",
