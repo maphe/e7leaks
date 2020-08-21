@@ -7,11 +7,31 @@
       "end": "2020-08-20 09:00:00Z"
     },
     {
+      "name": "10 Free Covenant Summons",
+      "url": "https://page.onstove.com/epicseven/global/view/5913012",
+      "start": "2020-08-22 10:00:00Z",
+      "end": "2020-08-23 10:00:00Z"
+    },
+    {
       "name": "Epic Together Event",
       "url": "https://page.onstove.com/epicseven/global/view/5848331",
       "start": "2020-08-30 02:30:00Z"
     }
   ],
-  "europe": [],
-  "asia": []
+  "europe": [
+    {
+      "name": "10 Free Summons",
+      "url": "https://page.onstove.com/epicseven/global/view/5913012",
+      "start": "2020-08-22 03:00:00Z",
+      "end": "2020-08-23 03:00:00Z"
+    }
+  ],
+  "asia": [
+    {
+      "name": "10 Free Summons",
+      "url": "https://page.onstove.com/epicseven/global/view/5913012",
+      "start": "2020-08-21 18:00:00Z",
+      "end": "2020-08-22 18:00:00Z"
+    }
+  ]
 }
