@@ -29,7 +29,13 @@
     {
       "veracity": "likely",
       "info": "Epic Pass: Afterschool Party! (featuring Yuna Skin)",
-      "source": "Datamine"
+      "source": "Datamine",
+      "resources": [
+        {
+          "label": "Poster",
+          "url": "datamine/sp_season_high_yuna.png"
+        }
+      ]
     },
     {
       "veracity": "official",
