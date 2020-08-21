@@ -68,7 +68,9 @@ footer {
   color: #ddd;
 }
 
-[data-theme="dark"] #eventsGlobal .row .col {
+[data-theme="dark"] #eventsGlobal .row .col,
+[data-theme="dark"] #eventsEurope .row .col,
+[data-theme="dark"] #eventsAsia .row .col {
   background-color: #333;
   color: #ddd;
 }
