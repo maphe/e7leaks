@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/5940028",
   "images": [
     "datamine/ss_new_beginning_banner.png",
     "datamine/gacha_banner_choux_kr.png"
@@ -16,7 +17,7 @@
       ]
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Side Story: A New Beginning",
       "source": "Datamine",
       "resources": [
@@ -27,7 +28,7 @@
       ]
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Epic Pass: Afterschool Party! (featuring Yuna Skin)",
       "source": "Datamine",
       "resources": [

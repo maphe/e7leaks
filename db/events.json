@@ -1,37 +1,98 @@
 {
   "global": [
     {
-      "name": "Patch Maintenance",
-      "url": "https://page.onstove.com/epicseven/global/view/5901232",
-      "start": "2020-08-20 03:00:00Z",
-      "end": "2020-08-20 09:00:00Z"
-    },
-    {
-      "name": "10 Free Covenant Summons",
-      "url": "https://page.onstove.com/epicseven/global/view/5913012",
-      "start": "2020-08-22 10:00:00Z",
-      "end": "2020-08-23 10:00:00Z"
+      "name": "Free Unequip",
+      "start": "2020-08-27 03:00:00Z",
+      "end": "2020-08-30 15:00:00Z"
     },
     {
       "name": "Epic Together Event",
       "url": "https://page.onstove.com/epicseven/global/view/5848331",
       "start": "2020-08-30 02:30:00Z"
+    },
+    {
+      "name": "+30% Gold/+50% Hunt Mat",
+      "start": "2020-08-27 10:00:00Z",
+      "end": "2020-08-28 10:00:00Z"
+    },
+    {
+      "name": "x2 Rune Drop",
+      "start": "2020-08-28 10:00:00Z",
+      "end": "2020-08-29 10:00:00Z"
+    },
+    {
+      "name": "+50% AP/+30% XP",
+      "start": "2020-08-29 10:00:00Z",
+      "end": "2020-08-30 10:00:00Z"
+    },
+    {
+      "name": "All Buffs at once",
+      "start": "2020-08-30 10:00:00Z",
+      "end": "2020-08-31 10:00:00Z"
     }
   ],
   "europe": [
     {
-      "name": "10 Free Covenant Summons",
-      "url": "https://page.onstove.com/epicseven/global/view/5913012",
-      "start": "2020-08-22 03:00:00Z",
-      "end": "2020-08-23 03:00:00Z"
+      "name": "Free Unequip",
+      "start": "2020-08-27 03:00:00Z",
+      "end": "2020-08-30 15:00:00Z"
+    },
+    {
+      "name": "Epic Together Event",
+      "url": "https://page.onstove.com/epicseven/global/view/5848331",
+      "start": "2020-08-30 02:30:00Z"
+    },
+    {
+      "name": "+30% Gold/+50% Hunt Mat",
+      "start": "2020-08-27 03:00:00Z",
+      "end": "2020-08-28 03:00:00Z"
+    },
+    {
+      "name": "x2 Rune Drop",
+      "start": "2020-08-28 03:00:00Z",
+      "end": "2020-08-29 03:00:00Z"
+    },
+    {
+      "name": "+50% AP/+30% XP",
+      "start": "2020-08-29 03:00:00Z",
+      "end": "2020-08-30 03:00:00Z"
+    },
+    {
+      "name": "All Buffs at once",
+      "start": "2020-08-30 03:00:00Z",
+      "end": "2020-08-31 03:00:00Z"
     }
   ],
   "asia": [
     {
-      "name": "10 Free Covenant Summons",
-      "url": "https://page.onstove.com/epicseven/global/view/5913012",
-      "start": "2020-08-21 18:00:00Z",
-      "end": "2020-08-22 18:00:00Z"
+      "name": "Free Unequip",
+      "start": "2020-08-27 03:00:00Z",
+      "end": "2020-08-30 15:00:00Z"
+    },
+    {
+      "name": "Epic Together Event",
+      "url": "https://page.onstove.com/epicseven/global/view/5848331",
+      "start": "2020-08-30 02:30:00Z"
+    },
+    {
+      "name": "+30% Gold/+50% Hunt Mat",
+      "start": "2020-08-26 18:00:00Z",
+      "end": "2020-08-27 18:00:00Z"
+    },
+    {
+      "name": "x2 Rune Drop",
+      "start": "2020-08-27 18:00:00Z",
+      "end": "2020-08-28 18:00:00Z"
+    },
+    {
+      "name": "+50% AP/+30% XP",
+      "start": "2020-08-28 18:00:00Z",
+      "end": "2020-08-29 18:00:00Z"
+    },
+    {
+      "name": "All Buffs at once",
+      "start": "2020-08-29 18:00:00Z",
+      "end": "2020-08-30 18:00:00Z"
     }
   ]
 }
