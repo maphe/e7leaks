@@ -1,0 +1,14 @@
+{
+  "type": "client",
+  "images": [],
+  "news": [
+    {
+      "veracity": "maybe",
+      "info": "New Hero Banner (Ep 3 related)"
+    },
+    {
+      "veracity": "likely",
+      "info": "New Side Story"
+    }
+  ]
+}
