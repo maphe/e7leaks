@@ -2,39 +2,49 @@
   "news": [
     {
       "veracity": "official",
-      "info": "ML5 duplicates trading system (Second Half of the Year)",
-      "resources": [
-      {
-        "label": "Dev Notes",
-        "url": "https://page.onstove.com/epicseven/global/view/5811767"
-      }
-    ]
-    },
-    {
-      "veracity": "maybe",
-      "info": "Surin Side Story: Scattered Memories",
-      "source": "Datamined",
+      "info": "ML5 duplicates trading system: Coin Shop (October)",
       "resources": [
         {
-          "label": "Banner",
-          "url": "datamine/ss_v1065a_banner_kr.png"
+          "label": "Dev Notes",
+          "url": "https://page.onstove.com/epicseven/global/view/5811767"
         }
       ]
     },
     {
-      "veracity": "maybe",
-      "info": "Straze Dark ML5",
-      "resources": [
-        {
-          "label": "Leak",
-          "url": "datamine/straze_rta_ban.jpg"
-        }
-      ]
+      "veracity": "official",
+      "info": "Halloween Special Side Story: Blood and Roses (October)"
+    },
+    {
+      "veracity": "official",
+      "info": "New Hunt + New Equipment Sets (November)"
+    },
+    {
+      "veracity": "official",
+      "info": "Dagger Sicar Reputations (November)"
+    },
+    {
+      "veracity": "official",
+      "info": "Christmas Special Side Story (December)"
+    },
+    {
+      "veracity": "official",
+      "info": "Friendship Gift System (December)"
+    },
+    {
+      "veracity": "official",
+      "info": "Mass Summoning System (December)"
+    },
+    {
+      "veracity": "official",
+      "info": "Abyss Floor 110 (TBD)"
     },
     {
       "veracity": "maybe",
-      "info": "Rose Skin",
-      "source": "Datamined"
+      "info": "Archdemon Mercedes playable character (TBD)"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Pity for Limited Artifact (TBD)"
     }
   ]
 }

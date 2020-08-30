@@ -1,16 +1,43 @@
 {
   "type": "server",
-  "title": "Episode 3?",
+  "title": "Episode 3",
   "news": [
     {
-      "info": "First patch after \"Epic Anniversary\""
+      "veracity": "official",
+      "info": "Episode 3, Hymn of a Wailing Tundra - Chapter 1, South Lefundos",
+      "resources": [
+        {
+          "label": "Presentation",
+          "url": "https://page.onstove.com/epicseven/global/view/5961586"
+        }
+      ]
     },
     {
-      "veracity": "maybe",
-      "info": "Episode 3 kickoff"
+      "veracity": "official",
+      "info": "Artifact Dedicated Inventory",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/2f5e66d069c949b289ebf83c383e7b06/86cb415961ea4f38b2da698183fa36ab_1598681802.jpg"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Mass Hero Promotion System",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/0d2203bb40f64e558d984e906e8d11e2/67a16c45ed9842ccad4eb9cab5b03884_1598682338.jpg"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "+10% Gold from selling Equipment"
     }
   ],
   "stream": [
-    "New ML5 Reveal"
+    "New ML5 Reveal (potentially Last Rider Krau)"
   ]
 }
