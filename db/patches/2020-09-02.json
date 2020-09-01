@@ -14,6 +14,14 @@
     },
     {
       "veracity": "official",
+      "info": "World Arena Season 2"
+    },
+    {
+      "veracity": "official",
+      "info": "2 New Exclusive Equipment"
+    },
+    {
+      "veracity": "official",
       "info": "Artifact Dedicated Inventory",
       "resources": [
         {
@@ -38,6 +46,6 @@
     }
   ],
   "stream": [
-    "New ML5 Reveal (potentially Last Rider Krau)"
+    "New ML5 Reveal (Last Rider Krau)"
   ]
 }

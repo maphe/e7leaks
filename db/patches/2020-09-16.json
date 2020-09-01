@@ -2,6 +2,10 @@
   "type": "server",
   "news": [
     {
+      "veracity": "likely",
+      "info": "New Mystic Rotation: Last Rider Krau"
+    },
+    {
       "veracity": "maybe",
       "info": "Episode 3 - Chapter 2, West Politia",
       "source": "Cyborgs being released"
