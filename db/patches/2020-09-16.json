@@ -2,8 +2,14 @@
   "type": "server",
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Mystic Rotation: Last Rider Krau"
+      "veracity": "official",
+      "info": "New Mystic Rotation: Last Rider Krau",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=EBqjjIrbWRU"
+        }
+      ]
     },
     {
       "veracity": "maybe",

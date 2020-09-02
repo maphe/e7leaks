@@ -1,6 +1,8 @@
 {
   "type": "server",
   "title": "Episode 3",
+  "link": "https://page.onstove.com/epicseven/global/view/5982429",
+  "twitch": "https://www.twitch.tv/videos/728944526",
   "news": [
     {
       "veracity": "official",
@@ -14,11 +16,11 @@
     },
     {
       "veracity": "official",
-      "info": "World Arena Season 2"
+      "info": "World Arena Season 2 (Faithless Lidica Skin as Main Reward)"
     },
     {
       "veracity": "official",
-      "info": "2 New Exclusive Equipment"
+      "info": "New Exclusive Equipment: Cecilia & Rin"
     },
     {
       "veracity": "official",
@@ -42,7 +44,11 @@
     },
     {
       "veracity": "official",
-      "info": "+10% Gold from selling Equipment"
+      "info": "Hero Banner: Vivian & Dignus Orb"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Kawerik & Black Hand of the Goddess"
     }
   ],
   "stream": [

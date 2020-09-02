@@ -3,8 +3,16 @@
   "images": [],
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Side Story"
+      "veracity": "official",
+      "info": "Chloe Side Story: I'm the Queen of Everything"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Chloe & A Little Queen's Huge Crown (New Artifact)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Kayron & Shepherd of the Hollow (New Artifact)"
     }
   ]
 }
