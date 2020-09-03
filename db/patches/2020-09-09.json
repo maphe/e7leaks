@@ -1,6 +1,10 @@
 {
   "type": "client",
-  "images": [],
+  "images": [
+    "datamine/gacha_banner_chloe_kr.png",
+    "datamine/ss_chloe_banner.png",
+    "datamine/gacha_banner_kayron_kr.png"
+  ],
   "news": [
     {
       "veracity": "official",
