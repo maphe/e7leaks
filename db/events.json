@@ -1,6 +1,11 @@
 {
   "global": [
     {
+      "name": "Patch Maintenance",
+      "start": "2020-09-03 03:00:00Z",
+      "end": "2020-09-03 08:00:00Z"
+    },
+    {
       "name": "Patch Stream",
       "url": "https://page.onstove.com/epicseven/global/view/5975732",
       "start": "2020-09-02 10:00:00Z"
