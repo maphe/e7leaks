@@ -12,9 +12,8 @@
       ]
     },
     {
-      "veracity": "maybe",
-      "info": "Episode 3 - Chapter 2, West Politia",
-      "source": "Cyborgs being released"
+      "veracity": "official",
+      "info": "Episode 3 - Chapter 2, West Politia"
     },
     {
       "veracity": "official",
@@ -25,6 +24,15 @@
           "url": "https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/a7ec8bb1b23f4ab4b6ef0915ffe29070/86c5e03843684e2bba89467621d5d9c2_1598681520.jpg"
         }
       ]
+    },
+    {
+      "veracity": "maybe",
+      "info": "New Hero Banner: Landy",
+      "source": "Either then or the week after"
+    },
+    {
+      "veracity": "official",
+      "info": "Freee Spirit Tieria Skill Enhance Improvements"
     }
   ],
   "stream": []
