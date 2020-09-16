@@ -4,12 +4,17 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Special Side Story: Full Moon Festival - Thieves under the Light of the Full Moon"
+      "info": "New Limited Hero Banner: Landy",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=rsDSmHr6T8o"
+        }
+      ]
     },
     {
-      "veracity": "maybe",
-      "info": "New Hero Banner: Landy",
-      "source": "Either then or the week before"
+      "veracity": "official",
+      "info": "Special Side Story: Full Moon Festival - Thieves under the Light of the Full Moon"
     }
   ]
 }

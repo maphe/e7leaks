@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/6065713",
+  "twitch": "https://www.twitch.tv/videos/742620778",
   "news": [
     {
       "veracity": "official",
@@ -17,17 +19,26 @@
     },
     {
       "veracity": "official",
+      "info": "Free Spirit Tieria Skill Enhance Improvements"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Sez & Manica of Control (New Artifact)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ludwig & Time Matter"
+    },
+    {
+      "veracity": "official",
       "info": "Five new 3★ heroes: Cyborgs",
+      "source": "In-game but not playable yet",
       "resources": [
         {
           "label": "Preview",
           "url": "https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/a7ec8bb1b23f4ab4b6ef0915ffe29070/86c5e03843684e2bba89467621d5d9c2_1598681520.jpg"
         }
       ]
-    },
-    {
-      "veracity": "official",
-      "info": "Free Spirit Tieria Skill Enhance Improvements"
     }
   ],
   "stream": []
