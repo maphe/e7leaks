@@ -1,6 +1,9 @@
 {
   "type": "client",
-  "images": [],
+  "images": [
+    "datamine/ss_20_moonfest_1_banner.png",
+    "datamine/gacha_banner_landy_kr.png"
+  ],
   "news": [
     {
       "veracity": "official",
@@ -14,7 +17,21 @@
     },
     {
       "veracity": "official",
-      "info": "Special Side Story: Full Moon Festival - Thieves under the Light of the Full Moon"
+      "info": "Special Side Story: Full Moon Festival - Thieves under the Light of the Full Moon - Week 1",
+      "resources": [
+        {
+          "label": "Background",
+          "url": "datamine/20_moonfes_bg.png"
+        },
+        {
+          "label": "Art 1",
+          "url": "datamine/20_moonfest_art_1.png"
+        },
+        {
+          "label": "Art 2",
+          "url": "datamine/20_moonfest_art_2.png"
+        }
+      ]
     }
   ]
 }

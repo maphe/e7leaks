@@ -1,6 +1,14 @@
 {
-  "type": "server",
+  "images": [
+    "datamine/gacha_banner_tenebria_kr.png",
+    "datamine/gacha_banner_ken_kr.png",
+    "datamine/ss_20_moonfest_2_banner.png"
+  ],
   "news": [
+    {
+      "veracity": "official",
+      "info": "Special Side Story: Full Moon Festival - Week 2"
+    },
     {
       "veracity": "official",
       "info": "Hero Banner: Tenebria & Crimson Moon of Nightmares (New Artifact)"

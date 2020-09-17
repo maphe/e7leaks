@@ -1,5 +1,4 @@
 {
-  "type": "server",
   "images": [],
   "news": [
     {
@@ -12,8 +11,5 @@
         }
       ]
     }
-  ],
-  "stream": [
-    "New ML5 Reveal"
   ]
 }

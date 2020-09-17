@@ -2,6 +2,9 @@
   "type": "server",
   "link": "https://page.onstove.com/epicseven/global/view/6065713",
   "twitch": "https://www.twitch.tv/videos/742620778",
+  "images": [
+    "datamine/gacha_banner_sez_kr.png"
+  ],
   "news": [
     {
       "veracity": "official",

@@ -1,7 +1,12 @@
 {
-  "type": "client",
-  "images": [],
+  "images": [
+    "datamine/ss_20_moonfest_3_banner.png"
+  ],
   "news": [
+    {
+      "veracity": "official",
+      "info": "Special Side Story: Full Moon Festival - Week 3"
+    },
     {
       "veracity": "official",
       "info": "Five new 3★ heroes : Cyborgs",
