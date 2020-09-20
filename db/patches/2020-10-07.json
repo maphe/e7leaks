@@ -1,8 +1,19 @@
 {
+  "type": "server",
   "images": [
     "datamine/ss_20_moonfest_3_banner.png"
   ],
   "news": [
+    {
+      "veracity": "official",
+      "info": "Hero Balance Adjustment",
+      "resources": [
+        {
+          "label": "Dev Note",
+          "url": "https://page.onstove.com/epicseven/global/view/6075429"
+        }
+      ]
+    },
     {
       "veracity": "official",
       "info": "Special Side Story: Full Moon Festival - Week 3"
