@@ -32,6 +32,20 @@
     {
       "veracity": "official",
       "info": "Powder Shop refresh"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Coin Shop: ML5 duplicates trading system",
+      "source": "October",
+      "resources": [
+        {
+          "label": "Dev Note",
+          "url": "https://page.onstove.com/epicseven/global/view/5811767"
+        }
+      ]
     }
+  ],
+  "stream": [
+    "Specialty Change Doris Intro"
   ]
 }
