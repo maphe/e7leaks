@@ -20,6 +20,10 @@
     },
     {
       "veracity": "official",
+      "info": "Episode 3 - Chapter 3, South Wintenberg"
+    },
+    {
+      "veracity": "official",
       "info": "Five new 3★ heroes : Cyborgs",
       "source": "Playable",
       "resources": [
@@ -31,21 +35,14 @@
     },
     {
       "veracity": "official",
-      "info": "Powder Shop refresh"
+      "info": "New Abyss Floors - 101 to 110"
     },
     {
-      "veracity": "maybe",
-      "info": "Coin Shop: ML5 duplicates trading system",
-      "source": "October",
-      "resources": [
-        {
-          "label": "Dev Note",
-          "url": "https://page.onstove.com/epicseven/global/view/5811767"
-        }
-      ]
+      "veracity": "official",
+      "info": "Powder Shop refresh"
     }
   ],
   "stream": [
-    "Specialty Change Doris Intro"
+    "Ervalen Showcase"
   ]
 }
