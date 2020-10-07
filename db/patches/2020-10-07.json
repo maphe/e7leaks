@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/6178209",
+  "twitch": "https://www.twitch.tv/videos/763134960",
   "images": [
     "datamine/ss_20_moonfest_3_banner.png"
   ],
@@ -36,6 +38,14 @@
     {
       "veracity": "official",
       "info": "New Abyss Floors - 101 to 110"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Baal & Sezan and Last Teatime (New Artifact)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Yufine & Merciless Glutton"
     },
     {
       "veracity": "official",

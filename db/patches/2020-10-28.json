@@ -1,0 +1,48 @@
+{
+  "type": "server",
+  "images": [],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Top Model Luluca & Assassin Cidd",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=qKIpHm3aYss"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Artifact Acquisition Improvement (On Banner Artifact in Powder Shop)"
+    },
+    {
+      "veracity": "likely",
+      "info": "Halloween Special Side Story: Blood and Roses",
+      "source": "October"
+    },
+    {
+      "veracity": "likely",
+      "info": "Specialty Change: Doris",
+      "resources": [
+        {
+          "label": "Concept",
+          "url": "https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/b999392f28e64e82bdf46be35387af9a/8f8ab74b73164feaa17304d6aff46264_1598681567.jpg"
+        }
+      ]
+    },
+    {
+      "veracity": "maybe",
+      "info": "Coin Shop: ML5 duplicates trading system",
+      "source": "October",
+      "resources": [
+        {
+          "label": "Dev Note",
+          "url": "https://page.onstove.com/epicseven/global/view/5811767"
+        }
+      ]
+    }
+  ],
+  "stream": [
+  ]
+}

@@ -3,8 +3,18 @@
   "images": [],
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Hero Banner: Ervalen"
+      "veracity": "official",
+      "info": "New Hero Banner: Ervalen & Double-Edged Decrescent",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=1XtG8ZXz56A"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Krau & Holy Sacrifice"
     },
     {
       "veracity": "maybe",
