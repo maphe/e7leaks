@@ -4,7 +4,13 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Epic Pass - Halloween 2020 (Charles Skin)"
+      "info": "Epic Pass - Halloween 2020 (Charles Skin)",
+      "resources": [
+        {
+          "label": "Poster",
+          "url": "datamine/2020_sp_season_halloween.png"
+        }
+      ]
     },
     {
       "veracity": "official",

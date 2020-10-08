@@ -1,6 +1,9 @@
 {
   "type": "client",
-  "images": [],
+  "images": [
+    "datamine/ss_ervalen_banner.png",
+    "datamine/gacha_banner_ervalen_kr.png"
+  ],
   "news": [
     {
       "veracity": "official",
@@ -13,12 +16,13 @@
       ]
     },
     {
-      "veracity": "official",
-      "info": "Hero Banner: Krau & Holy Sacrifice"
+      "veracity": "likely",
+      "info": "Ervalen Side Story: Bloodthirsty Ambition",
+      "source": "Datamine"
     },
     {
-      "veracity": "maybe",
-      "info": "New Side Story"
+      "veracity": "official",
+      "info": "Hero Banner: Krau & Holy Sacrifice"
     }
   ]
 }
