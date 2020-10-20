@@ -28,7 +28,7 @@ export class EventService {
       const start = moment(rawEvent.start);
       const end = moment(rawEvent.end);
 
-      if (start > moment() && start < moment().add(48, 'hours')) {
+      if (start > moment() && start < moment().add(24, 'hours')) {
         event.target = start.format();
         event.type = 'in';
         event.style = 'danger';
