@@ -36,7 +36,7 @@
       ]
     },
     {
-      "veracity": "maybe",
+      "veracity": "likely",
       "info": "Coin Shop: ML5 duplicates trading system",
       "source": "October",
       "resources": [
@@ -45,6 +45,14 @@
           "url": "https://page.onstove.com/epicseven/global/view/5811767"
         }
       ]
+    },
+    {
+      "veracity": "likely",
+      "info": "2 new Exclusive Equipments"
+    },
+    {
+      "veracity": "likely",
+      "info": "New Expedition Boss - Destructive Gigantes"
     }
   ],
   "stream": [

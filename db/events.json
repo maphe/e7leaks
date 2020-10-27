@@ -1,15 +1,9 @@
 {
   "global": [
     {
-      "name": "Free Unequip",
-      "start": "2020-10-22 03:00:00Z",
-      "end": "2020-10-25 15:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6239648"
-    },
-    {
-      "name": "F.Lidica Skin Reveal",
-      "start": "2020-10-23 10:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6236762"
+      "name": "Patch Stream",
+      "start": "2020-10-28 10:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6264398"
     }
   ],
   "europe": [],
