@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/6268111",
+  "twitch": "https://www.twitch.tv/videos/784321522",
   "images": [],
   "news": [
     {
@@ -17,13 +19,12 @@
       "info": "Artifact Acquisition Improvement (On Banner Artifact in Powder Shop)"
     },
     {
-      "veracity": "likely",
-      "info": "Halloween Special Side Story: Blood and Roses",
-      "source": "October"
+      "veracity": "official",
+      "info": "Halloween Special Side Story: Blood and Roses - Chapter 1"
     },
     {
-      "veracity": "likely",
-      "info": "Specialty Change: Doris",
+      "veracity": "official",
+      "info": "Specialty Change: Doris (Magic Scholar Doris)",
       "resources": [
         {
           "label": "Concept",
@@ -36,9 +37,8 @@
       ]
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Coin Shop: ML5 duplicates trading system",
-      "source": "October",
       "resources": [
         {
           "label": "Dev Note",
@@ -47,12 +47,21 @@
       ]
     },
     {
-      "veracity": "likely",
-      "info": "2 new Exclusive Equipments"
+      "veracity": "official",
+      "info": "2 new Exclusive Equipments - Luna & Celine"
     },
     {
-      "veracity": "likely",
-      "info": "New Expedition Boss - Destructive Gigantes"
+      "veracity": "official",
+      "info": "New Expedition Boss - Destructive Gigantes",
+      "source": "Starting November 1st"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Luna & Draco Plate"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Haste - Rhianna & Luciella"
     }
   ],
   "stream": [

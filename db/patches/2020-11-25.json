@@ -1,0 +1,27 @@
+{
+  "type": "server",
+  "images": [],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Light Hunt - Caides",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://www.youtube.com/watch?v=V0DV6s_3-eM"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Equipment Sets: Revenge Set, Injury Set, Penetration Set"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Dagger Sicar Reputations",
+      "source": "November"
+    }
+  ],
+  "stream": [
+  ]
+}

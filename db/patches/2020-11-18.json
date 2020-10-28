@@ -1,0 +1,15 @@
+{
+  "type": "client",
+  "images": [],
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "New Side Story"
+    },
+    {
+      "veracity": "maybe",
+      "info": "New Hero Banner: <i>Some Hero from the Story</i>"
+    }
+  ],
+  "stream": []
+}
