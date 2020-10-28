@@ -5,8 +5,25 @@
       "start": "2020-10-29 03:00:00Z",
       "end": "2020-10-29 09:00:00Z",
       "url": "https://page.onstove.com/epicseven/global/view/6268621"
+    },
+    {
+      "name": "RTA Season End",
+      "start": "2020-11-14 10:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6267503"
     }
   ],
-  "europe": [],
-  "asia": []
+  "europe": [
+    {
+      "name": "RTA Season End",
+      "start": "2020-11-14 03:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6267503"
+    }
+  ],
+  "asia": [
+    {
+      "name": "RTA Season End",
+      "start": "2020-11-13 18:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6267503"
+    }
+  ]
 }
