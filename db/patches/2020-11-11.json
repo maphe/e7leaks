@@ -1,6 +1,8 @@
 {
   "type": "server",
-  "images": [],
+  "images": [
+    "datamine/ss_20_halloween_3_banner.png"
+  ],
   "news": [
     {
       "veracity": "official",

@@ -2,7 +2,9 @@
   "type": "server",
   "link": "https://page.onstove.com/epicseven/global/view/6268111",
   "twitch": "https://www.twitch.tv/videos/784321522",
-  "images": [],
+  "images": [
+    "datamine/ss_20_halloween_1_banner.png"
+  ],
   "news": [
     {
       "veracity": "official",
@@ -20,7 +22,17 @@
     },
     {
       "veracity": "official",
-      "info": "Halloween Special Side Story: Blood and Roses - Chapter 1"
+      "info": "Halloween Special Side Story: Blood and Roses - Chapter 1",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=0hJpEzpWVLA"
+        },
+        {
+          "label": "Poster",
+          "url": "datamine/ss_20_halloween_poster.png"
+        }
+      ]
     },
     {
       "veracity": "official",
@@ -33,6 +45,10 @@
         {
           "label": "Model",
           "url": "datamine/sc_doris_model.png"
+        },
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=SHd1k87k8hM"
         }
       ]
     },
