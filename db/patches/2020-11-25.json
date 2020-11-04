@@ -4,6 +4,16 @@
   "news": [
     {
       "veracity": "official",
+      "info": "Hero & Artifact Balance Adjustment",
+      "resources": [
+        {
+          "label": "Details",
+          "url": "https://page.onstove.com/epicseven/global/view/6295764"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "New Light Hunt - Caides",
       "resources": [
         {
