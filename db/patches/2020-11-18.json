@@ -4,11 +4,11 @@
   "news": [
     {
       "veracity": "likely",
-      "info": "New Side Story"
+      "info": "New Hero Banner: Flan"
     },
     {
-      "veracity": "maybe",
-      "info": "New Hero Banner: <i>Some Hero from the Story</i>"
+      "veracity": "likely",
+      "info": "Flan Side Story"
     }
   ],
   "stream": []
