@@ -4,6 +4,10 @@
   "news": [
     {
       "veracity": "official",
+      "info": "End of World Arena Season 2"
+    },
+    {
+      "veracity": "official",
       "info": "Hero & Artifact Balance Adjustment",
       "resources": [
         {

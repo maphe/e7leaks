@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/6320819",
+  "twitch": "https://www.twitch.tv/videos/799074319",
   "images": [
     "datamine/ss_20_halloween_3_banner.png"
   ],
@@ -9,9 +11,20 @@
       "info": "Halloween Special Side Story: Blood and Roses - Chapter 3"
     },
     {
-      "veracity": "likely",
-      "info": "Dagger Sicar Reputations",
-      "source": "November"
+      "veracity": "official",
+      "info": "Dagger Sicar Reputations"
+    },
+    {
+      "veracity": "official",
+      "info": "Mass Summoning System (x10)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Pavel & Dux Noctis"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Vildred & Sword of Summer Twilight (New Artifact)"
     }
   ],
   "stream": [

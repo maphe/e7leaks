@@ -3,12 +3,22 @@
   "images": [],
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Hero Banner: Flan"
+      "veracity": "official",
+      "info": "Mystic Rotation: Maid Chloe & Assassin Cartuja"
     },
     {
-      "veracity": "likely",
-      "info": "Flan Side Story"
+      "veracity": "official",
+      "info": "New Hero Banner: Flan & Unseen Observer",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=_Pn2D0_3cyQ"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Flan Side Story: How to be a Sister"
     }
   ],
   "stream": []
