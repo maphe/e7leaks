@@ -1,6 +1,9 @@
 {
   "type": "client",
-  "images": [],
+  "images": [
+    "datamine/gacha_banner_flan_kr.png",
+    "datamine/ss_flan_banner.png"
+  ],
   "news": [
     {
       "veracity": "official",
