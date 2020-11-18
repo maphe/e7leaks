@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/6342887",
   "images": [
     "datamine/gacha_banner_flan_kr.png",
     "datamine/ss_flan_banner.png"
@@ -22,6 +23,10 @@
     {
       "veracity": "official",
       "info": "Flan Side Story: How to be a Sister"
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop Refresh"
     }
   ],
   "stream": []
