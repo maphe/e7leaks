@@ -4,7 +4,13 @@
   "news": [
     {
       "veracity": "official",
-      "info": "End of World Arena Season 2"
+      "info": "End of World Arena Season 2",
+      "resources": [
+        {
+          "label": "Details",
+          "url": "https://page.onstove.com/epicseven/global/view/6326858"
+        }
+      ]
     },
     {
       "veracity": "official",
@@ -29,13 +35,9 @@
     {
       "veracity": "official",
       "info": "New Equipment Sets: Revenge Set, Injury Set, Penetration Set"
-    },
-    {
-      "veracity": "maybe",
-      "info": "Episode 3 - Chapter 4, Dragon Valley"
     }
   ],
   "stream": [
-    "New ML5 Preview"
+    "New ML5 Preview (Sigret)"
   ]
 }

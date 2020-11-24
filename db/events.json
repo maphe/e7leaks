@@ -1,33 +1,18 @@
 {
   "global": [
     {
-      "name": "Patch Maintenance",
-      "start": "2020-11-12 03:00:00Z",
-      "end": "2020-11-12 07:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6318200"
-    },
-    {
-      "name": "Flan Banner",
-      "start": "2020-11-19 03:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6346774"
+      "name": "Patch Live Stream",
+      "start": "2020-11-25 10:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6375766"
     },
     {
       "name": "RTA Season End",
-      "start": "2020-11-26 03:00:00Z"
+      "start": "2020-11-26 03:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6326858"
     }
   ],
   "europe": [
-    {
-      "name": "GW Season End",
-      "start": "2020-11-14 03:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6267503"
-    }
   ],
   "asia": [
-    {
-      "name": "GW Season End",
-      "start": "2020-11-13 18:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6267503"
-    }
   ]
 }
