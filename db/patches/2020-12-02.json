@@ -1,0 +1,20 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Side Story: Mystical Moonlight Theater"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Basar & Abyssal Crown"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Lidica & Sword of Judgment"
+    }
+  ],
+  "stream": []
+}

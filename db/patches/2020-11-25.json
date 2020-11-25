@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/6376959",
+  "twitch": "https://www.twitch.tv/videos/815112644",
   "images": [],
   "news": [
     {
@@ -24,7 +26,7 @@
     },
     {
       "veracity": "official",
-      "info": "New Light Hunt - Caides",
+      "info": "New Light Hunt - Caides (1 -11)",
       "resources": [
         {
           "label": "Preview",
@@ -35,6 +37,18 @@
     {
       "veracity": "official",
       "info": "New Equipment Sets: Revenge Set, Injury Set, Penetration Set"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Bellona & Iron Fan"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Charlotte & Noble Oath"
+    },
+    {
+      "veracity": "official",
+      "info": "Huche's Pop-Up-Shop Sales Event"
     }
   ],
   "stream": [
