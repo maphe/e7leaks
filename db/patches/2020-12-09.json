@@ -1,0 +1,33 @@
+{
+  "type": "server",
+  "images": [],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Operator Sigret (& Guider Aither?)",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=RXtsjftJTjA"
+        }
+      ]
+    },
+    {
+      "veracity": "maybe",
+      "info": "Episode 3 - Chapter 4, Dragon Valley"
+    },
+    {
+      "veracity": "maybe",
+      "info": "New Tenebria Skin",
+      "source": "December",
+      "resources": [
+        {
+          "label": "Pixiv Contest Winner",
+          "url": "https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/ea8eba8e0624401aaca887f7a6e29f8e/244c88fecd2c4578b7b99871c035f537_1595483184.png"
+        }
+      ]
+    }
+  ],
+  "stream": [
+  ]
+}

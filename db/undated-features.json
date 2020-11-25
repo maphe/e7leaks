@@ -2,19 +2,23 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Christmas Special Side Story (December)"
+      "info": "Christmas Special Side Story",
+      "source": "December"
     },
     {
       "veracity": "official",
-      "info": "Friendship Gift System (December)"
+      "info": "Friendship Gift System",
+      "source": "December"
     },
     {
       "veracity": "maybe",
-      "info": "Archdemon Mercedes playable character (TBD)"
+      "info": "Archdemon Mercedes playable character",
+      "source": "TBD"
     },
     {
       "veracity": "maybe",
-      "info": "New Collaboration with a \"well-known IP\" (First Half 2021)"
+      "info": "New Collaboration with a \"well-known IP\"",
+      "source": "First Half 2021"
     }
   ]
 }
