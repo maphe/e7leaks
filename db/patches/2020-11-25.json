@@ -2,7 +2,9 @@
   "type": "server",
   "link": "https://page.onstove.com/epicseven/global/view/6376959",
   "twitch": "https://www.twitch.tv/videos/815112644",
-  "images": [],
+  "images": [
+    "datamine/gacha_banner_charlotte_kr.png"
+  ],
   "news": [
     {
       "veracity": "official",
