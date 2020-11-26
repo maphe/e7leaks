@@ -6,7 +6,13 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Side Story: Mystical Moonlight Theater"
+      "info": "Side Story: Mystical Moonlight Theater",
+      "resources": [
+        {
+          "label": "Art/Spoiler",
+          "url": "datamine/ss_sbs_art_1.png"
+        }
+      ]
     },
     {
       "veracity": "official",
