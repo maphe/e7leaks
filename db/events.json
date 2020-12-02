@@ -1,21 +1,10 @@
 {
   "global": [
     {
-      "name": "Patch Maintenance",
-      "start": "2020-11-26 03:00:00Z",
-      "end": "2020-11-26 07:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6379969"
-    },
-    {
-      "name": "RTA Season End",
-      "start": "2020-11-26 03:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6326858"
-    },
-    {
-      "name": "Free Unequip",
-      "start": "2020-11-26 03:00:00Z",
-      "end": "2020-11-29 15:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6379754"
+      "name": "Temporary Maintenance",
+      "start": "2020-12-02 06:00:00Z",
+      "end": "2020-12-02 08:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6410149"
     }
   ],
   "europe": [
