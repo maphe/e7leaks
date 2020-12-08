@@ -1,8 +1,18 @@
 {
   "type": "server",
   "images": [],
-  "title": "???",
   "news": [
+    {
+      "veracity": "maybe",
+      "info": "New Tenebria Skin",
+      "source": "December",
+      "resources": [
+        {
+          "label": "Pixiv Contest Winner",
+          "url": "https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/ea8eba8e0624401aaca887f7a6e29f8e/244c88fecd2c4578b7b99871c035f537_1595483184.png"
+        }
+      ]
+    }
   ],
   "stream": [
     "New ML4 Showcase (Inferno Khawazu)"

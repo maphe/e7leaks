@@ -1,0 +1,16 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "New Hero Banner: Mortelix"
+    },
+    {
+      "veracity": "likely",
+      "info": "Mortelix Side Story"
+    }
+  ],
+  "stream": []
+}
