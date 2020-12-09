@@ -1,9 +1,10 @@
 {
   "global": [
     {
-      "name": "Patch Livestream",
-      "start": "2020-12-09 10:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6445600"
+      "name": "Patch Maintenance",
+      "start": "2020-12-10 03:00:00Z",
+      "end": "2020-12-10 10:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6455869"
     }
   ],
   "europe": [

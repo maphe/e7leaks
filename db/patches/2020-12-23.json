@@ -4,7 +4,7 @@
   "news": [
     {
       "veracity": "maybe",
-      "info": "New Tenebria Skin",
+      "info": "New Tenebria Hero",
       "source": "December",
       "resources": [
         {
@@ -15,6 +15,7 @@
     }
   ],
   "stream": [
+    "\"Wonderland\" Tenebria Showcase",
     "New ML4 Showcase (Inferno Khawazu)"
   ]
 }

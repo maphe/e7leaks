@@ -4,12 +4,20 @@
   ],
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Hero Banner: Mortelix"
+      "veracity": "official",
+      "info": "New Hero Banner: Mortelix & Ancient's Dragon Legacy"
     },
     {
-      "veracity": "likely",
-      "info": "Mortelix Side Story"
+      "veracity": "official",
+      "info": "New Side Story: The Rise of the Great Mortelix"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Elena & Stella Harpa"
+    },
+    {
+      "veracity": "official",
+      "info": "Epic Pass - Snowflake Festival (Elena Skin)"
     }
   ],
   "stream": []
