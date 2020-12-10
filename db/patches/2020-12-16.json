@@ -1,6 +1,8 @@
 {
   "type": "client",
   "images": [
+    "datamine/ss_mort_banner.png",
+    "datamine/gacha_banner_mort_kr.png"
   ],
   "news": [
     {
@@ -17,7 +19,13 @@
     },
     {
       "veracity": "official",
-      "info": "Epic Pass - Snowflake Festival (Elena Skin)"
+      "info": "Epic Pass - Snowflake Festival (Elena Skin)",
+      "resources": [
+        {
+          "label": "Poster",
+          "url": "datamine/2020_sp_season_chrismas.png"
+        }
+      ]
     }
   ],
   "stream": []
