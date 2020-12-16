@@ -3,6 +3,14 @@
   "images": [],
   "news": [
     {
+      "veracity": "likely",
+      "info": "Christmas Special Side Story"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Friendship Gift System"
+    },
+    {
       "veracity": "maybe",
       "info": "New Tenebria Hero",
       "source": "December",
