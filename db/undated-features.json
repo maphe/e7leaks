@@ -1,6 +1,25 @@
 {
   "news": [
     {
+      "veracity": "official",
+      "info": "Automaton Tower Revamp",
+      "source": "February"
+    },
+    {
+      "veracity": "likely",
+      "info": "Inferno Khawazu (ML4)",
+      "resources": [
+        {
+          "label": "Portrait",
+          "url": "datamine/ml_khawazu_portrait.png"
+        },
+        {
+          "label": "Full",
+          "url": "datamine/ml_khawazu_normal.png"
+        }
+      ]
+    },
+    {
       "veracity": "maybe",
       "info": "Archdemon Mercedes playable character",
       "source": "TBD"

@@ -1,26 +1,45 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/6529791",
+  "twitch": "https://www.twitch.tv/videos/847252062",
   "images": [],
   "news": [
     {
-      "veracity": "likely",
-      "info": "Christmas Special Side Story"
+      "veracity": "official",
+      "info": "Christmas Special Side Story: Adventures in a Winter Wonderland - Week 1"
     },
     {
-      "veracity": "likely",
-      "info": "2 New Exclusive Equipments"
+      "veracity": "official",
+      "info": "New Hero Banner: Fairytale Tenebria + Fairy Tale for a Nightmare",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=a1x1NzDacpo"
+        },
+        {
+          "label": "Pixiv Contest Winner",
+          "url": "https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/ea8eba8e0624401aaca887f7a6e29f8e/244c88fecd2c4578b7b99871c035f537_1595483184.png"
+        }
+      ]
     },
     {
-      "veracity": "likely",
-      "info": "World Arena Season 3"
+      "veracity": "official",
+      "info": "2 New Exclusive Equipments: Assassin Coli & Mui"
     },
     {
-      "veracity": "maybe",
+      "veracity": "official",
+      "info": "World Arena Season 3 (Skin: Fallen Cecilia)"
+    },
+    {
+      "veracity": "official",
       "info": "Friendship Gift System"
+    },
+    {
+      "veracity": "official",
+      "info": "New Adventurer's Path"
     }
   ],
   "stream": [
-    "\"Wonderland\" Tenebria Showcase",
-    "New ML4 Showcase (Inferno Khawazu)"
+    "Fairytale Tenebria Showcase"
   ]
 }

@@ -4,28 +4,20 @@
   ],
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Mystic Rotation: [ML5 rerun] & Inferno Khawazu",
-      "resources": [
-        {
-          "label": "Portrait",
-          "url": "datamine/ml_khawazu_portrait.png"
-        },
-        {
-          "label": "Full",
-          "url": "datamine/ml_khawazu_normal.png"
-        }
-      ]
+      "veracity": "official",
+      "info": "New Mystic Rotation: Silver Blade Aramintha & Kitty Clarissa"
     },
     {
-      "veracity": "likely",
-      "info": "New Tenebria Hero",
-      "resources": [
-        {
-          "label": "Pixiv Contest Winner",
-          "url": "https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/ea8eba8e0624401aaca887f7a6e29f8e/244c88fecd2c4578b7b99871c035f537_1595483184.png"
-        }
-      ]
+      "veracity": "official",
+      "info": "Christmas Special Side Story: Adventures in a Winter Wonderland - Week 2"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Sigret + Cradle of Life"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Lilibet + Creation & Destruction"
     }
   ],
   "stream": []
