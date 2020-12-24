@@ -1,6 +1,7 @@
 {
   "type": "client",
   "images": [
+    "datamine/ss_christmas_2020_banner_2.png"
   ],
   "news": [
     {
@@ -9,7 +10,13 @@
     },
     {
       "veracity": "official",
-      "info": "Christmas Special Side Story: Adventures in a Winter Wonderland - Week 2"
+      "info": "Christmas Special Side Story: Adventures in a Winter Wonderland - Week 2",
+      "resources": [
+        {
+          "label": "Home",
+          "url": "datamine/ss_christmas_2020_home_2.png"
+        }
+      ]
     },
     {
       "veracity": "official",

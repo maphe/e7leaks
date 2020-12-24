@@ -2,11 +2,32 @@
   "type": "server",
   "link": "https://page.onstove.com/epicseven/global/view/6529791",
   "twitch": "https://www.twitch.tv/videos/847252062",
-  "images": [],
+  "images": [
+    "datamine/gacha_fairytale_tenebria.png",
+    "datamine/ss_christmas_2020_banner_1.png"
+  ],
   "news": [
     {
       "veracity": "official",
-      "info": "Christmas Special Side Story: Adventures in a Winter Wonderland - Week 1"
+      "info": "Christmas Special Side Story: Adventures in a Winter Wonderland - Week 1",
+      "resources": [
+        {
+          "label": "Poster",
+          "url": "datamine/ss_christmas_2020_poster.png"
+        },
+        {
+          "label": "Home",
+          "url": "datamine/ss_christmas_2020_home_1.png"
+        },
+        {
+          "label": "Art 1",
+          "url": "datamine/art_christmas_2020_1.png"
+        },
+        {
+          "label": "Art 2",
+          "url": "datamine/art_christmas_2020_2.png"
+        }
+      ]
     },
     {
       "veracity": "official",
