@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/6574360",
   "images": [
     "datamine/ss_christmas_2020_banner_2.png"
   ],
@@ -25,6 +26,10 @@
     {
       "veracity": "official",
       "info": "Hero Banner: Lilibet + Creation & Destruction"
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop Refresh"
     }
   ],
   "stream": []
