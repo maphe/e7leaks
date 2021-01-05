@@ -15,11 +15,15 @@
       ]
     },
     {
-      "veracity": "maybe",
+      "veracity": "official",
       "info": "Episode 3 - Chapter 5, Wintenberg of the Past"
+    },
+    {
+      "veracity": "likely",
+      "info": "New Specialty Change (One of the Banshees)"
     }
   ],
   "stream": [
-    "New ML5 Showcase"
+    "New ML5 Showcase (Archdemon Mercedes)"
   ]
 }
