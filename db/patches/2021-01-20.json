@@ -1,0 +1,29 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Archdemon's Shadow & Crescent Moon Rin",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=1sDEwr6qmS0"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "January Automaton Tower Closing Early",
+      "resources": [
+        {
+          "label": "Dev Notes",
+          "url": "https://page.onstove.com/epicseven/global/view/6573825"
+        }
+      ]
+    }
+  ],
+  "stream": [
+  ]
+}

@@ -4,8 +4,16 @@
   ],
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Side Story"
+      "veracity": "official",
+      "info": "New Side Story: Memories of a Remorseful (Alencia)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Vivian + Dignus Orb"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Alencia + Alencinos's Wrath"
     }
   ],
   "stream": []

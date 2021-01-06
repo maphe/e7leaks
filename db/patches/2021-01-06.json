@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/6612508",
+  "twitch": "https://www.twitch.tv/videos/863221246",
   "images": [
     "datamine/ss_christmas_2020_banner_3.png"
   ],
@@ -19,11 +21,25 @@
       "info": "Episode 3 - Chapter 5, Wintenberg of the Past"
     },
     {
-      "veracity": "likely",
-      "info": "New Specialty Change (One of the Banshees)"
+      "veracity": "official",
+      "info": "New Specialty Change (Zealot Carmainerose)",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=yH0w4j3xXE4"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Cermia + Border Coin"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Celine + Secret Art - Storm Sword"
     }
   ],
   "stream": [
-    "New ML5 Showcase (Archdemon Mercedes)"
+    "New ML5 Showcase (Archdemon's Shadow)"
   ]
 }
