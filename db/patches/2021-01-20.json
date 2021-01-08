@@ -15,6 +15,16 @@
     },
     {
       "veracity": "official",
+      "info": "Hero Balance Adjustment",
+      "resources": [
+        {
+          "label": "Dev Notes",
+          "url": "https://page.onstove.com/epicseven/global/view/6622566"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "January Automaton Tower Closing Early",
       "resources": [
         {
