@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/6698870",
+  "twitch": "https://www.twitch.tv/videos/880809148",
   "images": [
   ],
   "news": [
@@ -32,6 +34,14 @@
           "url": "https://page.onstove.com/epicseven/global/view/6573825"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Cecilia + Rise of a Monarch"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ludwig + Time Matter"
     }
   ],
   "stream": [

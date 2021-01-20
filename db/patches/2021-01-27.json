@@ -1,0 +1,26 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Politis + Knowledge Seed",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=TA8MJaK-ZnY"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story: A Civilization's Final Transmission"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Tywin + Crown of Glory"
+    }
+  ],
+  "stream": []
+}
