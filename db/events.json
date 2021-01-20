@@ -14,19 +14,9 @@
     },
     {
       "name": "January Automaton Closing",
-      "start": "2021-01-21 10:00:00Z"
-    }
-  ],
-  "europe": [
-    {
-      "name": "January Automaton Closing",
       "start": "2021-01-21 03:00:00Z"
     }
   ],
-  "asia": [
-    {
-      "name": "January Automaton Closing",
-      "start": "2021-01-20 18:00:00Z"
-    }
-  ]
+  "europe": [],
+  "asia": []
 }
