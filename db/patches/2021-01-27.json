@@ -1,6 +1,7 @@
 {
   "type": "client",
   "images": [
+    "datamine/ss_politis_banner.png"
   ],
   "news": [
     {
@@ -15,7 +16,13 @@
     },
     {
       "veracity": "official",
-      "info": "New Side Story: A Civilization's Final Transmission"
+      "info": "New Side Story: A Civilization's Final Transmission",
+      "resources": [
+        {
+          "label": "Art",
+          "url": "datamine/art_politis_1.png"
+        }
+      ]
     },
     {
       "veracity": "official",
