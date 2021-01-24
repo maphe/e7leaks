@@ -1,11 +1,6 @@
 {
   "news": [
     {
-      "veracity": "official",
-      "info": "Automaton Tower Revamp",
-      "source": "February"
-    },
-    {
       "veracity": "likely",
       "info": "Inferno Khawazu (ML4)",
       "resources": [
