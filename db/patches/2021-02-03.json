@@ -2,8 +2,12 @@
   "type": "server",
   "images": [
   ],
-  "title": "No clue... ¯\\_(ツ)_/¯",
-  "news": [],
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "Episode 3 - Chapter 6, Epitaph Wilderness of the Past"
+    }
+  ],
   "stream": [
     "Potentially new ML4 showcase (if they decide to stop ML4 reruns)"
   ]
