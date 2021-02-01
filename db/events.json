@@ -1,20 +1,10 @@
 {
   "global": [
     {
-      "name": "Patch Maintenance",
-      "start": "2021-01-21 03:00:00Z",
-      "end": "2021-01-21 07:30:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6701227"
-    },
-    {
-      "name": "Free Unequip",
-      "start": "2021-01-28 03:00:00Z",
-      "end": "2021-01-31 15:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6739673"
-    },
-    {
-      "name": "January Automaton Closing",
-      "start": "2021-01-21 03:00:00Z"
+      "name": "E7:A Kickstarter Campaign",
+      "start": "2021-01-04 03:00:00Z",
+      "end": "2021-02-01 15:00:00Z",
+      "url": "https://www.kickstarter.com/projects/farsidegames/epic-seven-arise-the-board-game"
     }
   ],
   "europe": [],
