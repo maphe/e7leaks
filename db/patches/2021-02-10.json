@@ -1,0 +1,22 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "New Side Story: Valentine's Day",
+      "resources": []
+    },
+    {
+      "veracity": "likely",
+      "info": "Epic Pass",
+      "resources": []
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop Refresh"
+    }
+  ],
+  "stream": []
+}
