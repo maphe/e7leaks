@@ -4,14 +4,21 @@
   ],
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Side Story: Valentine's Day",
+      "veracity": "official",
+      "info": "New Mystic Rotation: Fallen Cecilia & Champion Zerato"
+    },
+    {
+      "veracity": "official",
+      "info": "Side Story Rerun: Bittersweet Dessert Festival",
       "resources": []
     },
     {
-      "veracity": "likely",
-      "info": "Epic Pass",
-      "resources": []
+      "veracity": "official",
+      "info": "Triple Limited Banner: Landy / Diene / Cerise"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Kise + Alabastron"
     },
     {
       "veracity": "official",

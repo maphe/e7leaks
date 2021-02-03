@@ -1,15 +1,35 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/6767979",
+  "twitch": "https://www.twitch.tv/videos/899158365",
   "images": [
   ],
   "news": [
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Episode 3 - Chapter 6, Epitaph Wilderness of the Past"
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Caides Hunt - Floors 12 & 13"
+    },
+    {
+      "veracity": "official",
+      "info": "Epic Pass - Young Love 2021 (Luluca Skin)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Luluca + Spirit's Breath"
+    },
+    {
+      "veracity": "official",
+      "info": "Huche’s Pop-Up-Shop",
+      "resources": [
+        {
+          "label": "Details",
+          "url": "https://page.onstove.com/epicseven/global/view/6771809"
+        }
+      ]
     }
   ],
   "stream": [
