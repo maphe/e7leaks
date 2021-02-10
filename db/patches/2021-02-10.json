@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/6780713",
   "images": [
   ],
   "news": [
@@ -9,12 +10,18 @@
     },
     {
       "veracity": "official",
-      "info": "Side Story Rerun: Bittersweet Dessert Festival",
+      "info": "Side Story Rerun: Bittersweet Dessert Festival - Week 1",
       "resources": []
     },
     {
       "veracity": "official",
-      "info": "Triple Limited Banner: Landy / Diene / Cerise"
+      "info": "Triple Limited Banner: Landy / Diene / Cerise",
+      "resources": [
+        {
+          "label": "Rates",
+          "url": "https://page.onstove.com/epicseven/global/view/6803943"
+        }
+      ]
     },
     {
       "veracity": "official",
@@ -23,6 +30,10 @@
     {
       "veracity": "official",
       "info": "Powder Shop Refresh"
+    },
+    {
+      "veracity": "official",
+      "info": "Amazon Prime Login Event - Season 2 Kickoff"
     }
   ],
   "stream": []
