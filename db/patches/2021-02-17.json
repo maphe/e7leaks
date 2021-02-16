@@ -9,12 +9,20 @@
       "resources": []
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Valentine's Day Special Side Story: Seven Sweethearts",
       "resources": []
+    },
+    {
+      "veracity": "official",
+      "info": "New 3★ Hero"
+    },
+    {
+      "veracity": "official",
+      "info": "2 new Exclusive Equipments"
     }
   ],
   "stream": [
-    "New ML5 Showcase"
+    "New ML5 Showcase (Lilibet)"
   ]
 }
