@@ -7,6 +7,29 @@
       "veracity": "official",
       "info": "Side Story Rerun: Bittersweet Dessert Festival - Week 3",
       "resources": []
+    },
+    {
+      "veracity": "official",
+      "info": "Valentine's Day Special Side Story: Seven Sweethearts - Week 1",
+      "resources": []
+    },
+    {
+      "veracity": "official",
+      "info": "New 3★ Hero - Lucy",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=-mNB96ONIa4"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Pavel + Dux Noctis"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Kayron + Alexa's Basket"
     }
   ],
   "stream": []

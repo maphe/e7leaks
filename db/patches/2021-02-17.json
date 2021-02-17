@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/6831585",
+  "twitch": "https://www.youtube.com/watch?v=93BcolbOaew",
   "images": [
   ],
   "news": [
@@ -10,16 +12,11 @@
     },
     {
       "veracity": "official",
-      "info": "Valentine's Day Special Side Story: Seven Sweethearts",
-      "resources": []
+      "info": "2 new Exclusive Equipments: Pavel & Clarissa"
     },
     {
       "veracity": "official",
-      "info": "New 3★ Hero"
-    },
-    {
-      "veracity": "official",
-      "info": "2 new Exclusive Equipments"
+      "info": "Hero Banner: Tenebria + Crimson Moon of Nightmares"
     }
   ],
   "stream": [

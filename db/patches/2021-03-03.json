@@ -1,0 +1,24 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Designer Lilibet & Roaming Warrior Leo",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=jhZ2JTmggCs"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Valentine's Day Special Side Story: Seven Sweethearts - Week 2",
+      "resources": []
+    }
+  ],
+  "stream": [
+  ]
+}

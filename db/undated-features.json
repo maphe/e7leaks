@@ -1,9 +1,15 @@
 {
   "news": [
     {
+      "veracity": "official",
+      "info": "Equipment Substat Adjustment Stones",
+      "source": "April"
+    },
+    {
       "veracity": "likely",
       "info": "Inferno Khawazu (ML4)",
       "resources": [
+
         {
           "label": "Portrait",
           "url": "datamine/ml_khawazu_portrait.png"

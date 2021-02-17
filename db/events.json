@@ -2,88 +2,11 @@
   "global": [
     {
       "name": "Patch Maintenance",
-      "start": "2021-02-04 03:00:00Z",
-      "end": "2021-02-04 07:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6771925"
-    },
-    {
-      "name": "Free Unequip",
-      "start": "2021-02-11 03:00:00Z",
-      "end": "2021-02-14 15:00:00Z"
-    },
-    {
-      "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2021-02-11 10:00:00Z",
-      "end": "2021-02-12 10:00:00Z"
-    },
-    {
-      "name": "+50% AP/+30% XP",
-      "start": "2021-02-12 10:00:00Z",
-      "end": "2021-02-13 10:00:00Z"
-    },
-    {
-      "name": "x2 Rune Drop Rate",
-      "start": "2021-02-13 10:00:00Z",
-      "end": "2021-02-14 10:00:00Z"
-    },
-    {
-      "name": "All Buffs at Once",
-      "start": "2021-02-14 10:00:00Z",
-      "end": "2021-02-15 10:00:00Z"
+      "start": "2021-02-18 03:00:00Z",
+      "end": "2021-02-18 08:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6837382"
     }
   ],
-  "europe": [
-    {
-      "name": "Free Unequip",
-      "start": "2021-02-11 03:00:00Z",
-      "end": "2021-02-14 15:00:00Z"
-    },
-    {
-      "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2021-02-11 03:00:00Z",
-      "end": "2021-02-12 03:00:00Z"
-    },
-    {
-      "name": "+50% AP/+30% XP",
-      "start": "2021-02-12 03:00:00Z",
-      "end": "2021-02-13 03:00:00Z"
-    },
-    {
-      "name": "x2 Rune Drop Rate",
-      "start": "2021-02-13 03:00:00Z",
-      "end": "2021-02-14 03:00:00Z"
-    },
-    {
-      "name": "All Buffs at Once",
-      "start": "2021-02-14 03:00:00Z",
-      "end": "2021-02-15 03:00:00Z"
-    }
-  ],
-  "asia": [
-    {
-      "name": "Free Unequip",
-      "start": "2021-02-11 03:00:00Z",
-      "end": "2021-02-14 15:00:00Z"
-    },
-    {
-      "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2021-02-10 18:00:00Z",
-      "end": "2021-02-11 18:00:00Z"
-    },
-    {
-      "name": "+50% AP/+30% XP",
-      "start": "2021-02-11 18:00:00Z",
-      "end": "2021-02-12 18:00:00Z"
-    },
-    {
-      "name": "x2 Rune Drop Rate",
-      "start": "2021-02-12 18:00:00Z",
-      "end": "2021-02-13 18:00:00Z"
-    },
-    {
-      "name": "All Buffs at Once",
-      "start": "2021-02-13 18:00:00Z",
-      "end": "2021-02-14 18:00:00Z"
-    }
-  ]
+  "europe": [],
+  "asia": []
 }
