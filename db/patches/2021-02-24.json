@@ -1,6 +1,8 @@
 {
   "type": "client",
   "images": [
+    "datamine/2021-valentine-ss/ss_valentine_2021_banner_1.png",
+    "datamine/2021-valentine-ss/ss_valentine_2021_logo.png"
   ],
   "news": [
     {
@@ -11,7 +13,48 @@
     {
       "veracity": "official",
       "info": "Valentine's Day Special Side Story: Seven Sweethearts - Week 1",
-      "resources": []
+      "resources": [
+        {
+          "label": "Poster",
+          "url": "datamine/2021-valentine-ss/ss_valentine_2021_poster.png"
+        },
+        {
+          "label": "Violet Skin",
+          "url": "datamine/2021-valentine-ss/violet_valentine_2021_idle_normal.png"
+        },
+        {
+          "label": "Art 1",
+          "url": "datamine/2021-valentine-ss/img_valentine_2021_0.png"
+        },
+        {
+          "label": "2",
+          "url": "datamine/2021-valentine-ss/img_valentine_2021_1.png"
+        },
+        {
+          "label": "3",
+          "url": "datamine/2021-valentine-ss/img_valentine_2021_2.png"
+        },
+        {
+          "label": "4",
+          "url": "datamine/2021-valentine-ss/img_valentine_2021_3.png"
+        },
+        {
+          "label": "5",
+          "url": "datamine/2021-valentine-ss/img_valentine_2021_4.png"
+        },
+        {
+          "label": "6",
+          "url": "datamine/2021-valentine-ss/img_valentine_2021_5.png"
+        },
+        {
+          "label": "7",
+          "url": "datamine/2021-valentine-ss/img_valentine_2021_6.png"
+        },
+        {
+          "label": "8",
+          "url": "datamine/2021-valentine-ss/img_valentine_2021_7.png"
+        }
+      ]
     },
     {
       "veracity": "official",

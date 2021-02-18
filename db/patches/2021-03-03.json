@@ -1,6 +1,8 @@
 {
   "type": "server",
   "images": [
+    "datamine/2021-valentine-ss/ss_valentine_2021_banner_3.png",
+    "datamine/2021-valentine-ss/ss_valentine_2021_banner_2.png"
   ],
   "news": [
     {
@@ -17,6 +19,10 @@
       "veracity": "official",
       "info": "Valentine's Day Special Side Story: Seven Sweethearts - Week 2",
       "resources": []
+    },
+    {
+      "veracity": "maybe",
+      "info": "Episode 3 - Chapter 7, North Lefundos"
     }
   ],
   "stream": [
