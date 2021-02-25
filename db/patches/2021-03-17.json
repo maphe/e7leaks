@@ -1,0 +1,19 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "maybe",
+      "info": "End of World Arena Season 3",
+      "source": "12 week seasons"
+    },
+    {
+      "veracity": "maybe",
+      "info": "New Specialty Change",
+      "source": "10 week cycle"
+    }
+  ],
+  "stream": [
+  ]
+}
