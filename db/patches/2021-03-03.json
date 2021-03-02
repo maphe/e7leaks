@@ -20,10 +20,25 @@
       "resources": []
     },
     {
-      "veracity": "maybe",
+      "veracity": "likely",
+      "info": "Epic Pass - Violet Skin",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "datamine/2021-valentine-ss/violet_valentine_2021_idle_normal.png"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "Episode 3 - Chapter 7, North Lefundos"
+    },
+    {
+      "veracity": "likely",
+      "info": "Level 3 Expeditions Nerf"
     }
   ],
   "stream": [
+    "Equipment Substat Adjustment Stones Update"
   ]
 }
