@@ -16,29 +16,25 @@
     },
     {
       "veracity": "official",
-      "info": "Valentine's Day Special Side Story: Seven Sweethearts - Week 2",
-      "resources": []
-    },
-    {
-      "veracity": "likely",
-      "info": "Epic Pass - Violet Skin",
-      "resources": [
-        {
-          "label": "Preview",
-          "url": "datamine/2021-valentine-ss/violet_valentine_2021_idle_normal.png"
-        }
-      ]
+      "info": "Valentine's Day Special Side Story: Seven Sweethearts - Week 2"
     },
     {
       "veracity": "official",
       "info": "Episode 3 - Chapter 7, North Lefundos"
     },
     {
-      "veracity": "likely",
-      "info": "Level 3 Expeditions Nerf"
+      "veracity": "official",
+      "info": "Equipment Substat Change Stones + Level 3 Expeditions Nerf"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ray + Doctor's Bag"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Chloe + A Little Queen's Huge Crown"
     }
   ],
   "stream": [
-    "Equipment Substat Adjustment Stones Update"
   ]
 }

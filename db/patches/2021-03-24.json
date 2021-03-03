@@ -1,0 +1,18 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: ML5 Rerun & Great Chief Khawana",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=AkKCPOB3G3Y"
+        }
+      ]
+    }
+  ],
+  "stream": []
+}

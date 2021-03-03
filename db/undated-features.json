@@ -1,11 +1,6 @@
 {
   "news": [
     {
-      "veracity": "official",
-      "info": "Equipment Substat Adjustment Stones",
-      "source": "April"
-    },
-    {
       "veracity": "likely",
       "info": "Inferno Khawazu (ML4)",
       "resources": [
@@ -21,9 +16,14 @@
       ]
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
+      "info": "Guilty Gear Collab Rerun",
+      "source": "April"
+    },
+    {
+      "veracity": "official",
       "info": "New Collaboration with a \"well-known IP\"",
-      "source": "First Half 2021"
+      "source": "End of June"
     }
   ]
 }

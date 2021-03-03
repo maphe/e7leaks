@@ -4,7 +4,11 @@
   ],
   "news": [
     {
-      "veracity": "maybe",
+      "veracity": "official",
+      "info": "Book of Memories (Ability to replay some Side Stories)"
+    },
+    {
+      "veracity": "official",
       "info": "End of World Arena Season 3",
       "source": "12 week seasons"
     },

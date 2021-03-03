@@ -9,12 +9,28 @@
       "info": "Valentine's Day Special Side Story: Seven Sweethearts - Week 3"
     },
     {
-      "veracity": "likely",
-      "info": "New Hero Banner"
+      "veracity": "official",
+      "info": "Epic Pass - Youthful Spring 2021 (Violet Skin)",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "datamine/2021-valentine-ss/violet_valentine_2021_idle_normal.png"
+        }
+      ]
     },
     {
-      "veracity": "likely",
-      "info": "New Side Story"
+      "veracity": "official",
+      "info": "New Hero Banner: Eda + Twilight Calamity",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=RFbHcUc9rNI"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story: Seeds of Misfortune"
     }
   ],
   "stream": []
