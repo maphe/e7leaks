@@ -5,6 +5,16 @@
   "news": [
     {
       "veracity": "official",
+      "info": "Hero Balance Adjustment",
+      "resources": [
+        {
+          "label": "Dev Notes",
+          "url": "https://page.onstove.com/epicseven/global/view/6909247"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "Book of Memories (Ability to replay some Side Stories)"
     },
     {
