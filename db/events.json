@@ -1,10 +1,9 @@
 {
   "global": [
     {
-      "name": "Patch Maintenance",
-      "start": "2021-03-04 03:00:00Z",
-      "end": "2021-03-04 09:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6902473"
+      "name": "Eda Banner",
+      "start": "2021-03-11 03:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6923382"
     }
   ],
   "europe": [
