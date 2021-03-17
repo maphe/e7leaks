@@ -4,6 +4,23 @@
       "name": "Patch Live Stream",
       "start": "2021-03-17 10:00:00Z",
       "url": "https://page.onstove.com/epicseven/global/view/6946707"
+    },
+    {
+      "name": "RTA Season",
+      "start": "2021-02-18 03:00:00Z",
+      "end": "2021-03-18 03:00:00Z"
+    },
+    {
+      "name": "Patch Maintenance",
+      "start": "2021-03-18 03:00:00Z",
+      "end": "2021-03-18 09:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6949858"
+    },
+    {
+      "name": "Free Unequip",
+      "start": "2021-03-18 03:00:00Z",
+      "end": "2021-03-21 15:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6946528"
     }
   ],
   "europe": [

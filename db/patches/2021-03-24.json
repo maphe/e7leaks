@@ -5,13 +5,25 @@
   "news": [
     {
       "veracity": "official",
-      "info": "New Mystic Rotation: ML5 Rerun & Great Chief Khawana",
+      "info": "New Mystic Rotation: Desert Jewel Basar & Great Chief Khawana",
       "resources": [
         {
           "label": "Intro",
           "url": "https://www.youtube.com/watch?v=AkKCPOB3G3Y"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story: An Uphill Battle (Vivian)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Vivian + Dignus Orb"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Tamarinne + Idol's Cheer"
     }
   ],
   "stream": []

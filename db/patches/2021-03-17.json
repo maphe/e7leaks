@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/6950407",
+  "twitch": "https://www.youtube.com/watch?v=2ULO074YCrQ",
   "images": [
   ],
   "news": [
@@ -23,9 +25,19 @@
       "source": "12 week seasons"
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "New Specialty Change (Rima)",
-      "source": "10 week cycle"
+      "source": "10 week cycle",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=AMrKlRzz26Q"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Charles + Justice for All"
     }
   ],
   "stream": [

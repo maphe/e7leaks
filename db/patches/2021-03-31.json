@@ -1,0 +1,22 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Guilty Gear Collab"
+    },
+    {
+      "veracity": "official",
+      "info": "Triple Limited Banner: Baiken / Dizzy / Elphelt"
+    },
+    {
+      "veracity": "official",
+      "info": "Inventory Size Expansion by 50"
+    }
+  ],
+  "stream": [
+    "New ML5 Showcase"
+  ]
+}
