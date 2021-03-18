@@ -13,7 +13,22 @@
     },
     {
       "veracity": "official",
-      "info": "Inventory Size Expansion by 50"
+      "info": "Hero Balance Adjustment (Sol & Elphelt)",
+      "resources": [
+        {
+          "label": "Dev Notes",
+          "url": "https://page.onstove.com/epicseven/global/view/6950235"
+        }
+      ]
+    },
+    {
+      "veracity": "likely",
+      "info": "Episode 3 - Chapter 8, Lone Tundra",
+      "source": "4 week cycle"
+    },
+    {
+      "veracity": "official",
+      "info": "Inventory Size Expansion by 50 slots"
     }
   ],
   "stream": [

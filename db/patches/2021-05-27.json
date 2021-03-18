@@ -1,0 +1,14 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "maybe",
+      "info": "New Specialty Change",
+      "source": "10 week cycle"
+    }
+  ],
+  "stream": [
+  ]
+}
