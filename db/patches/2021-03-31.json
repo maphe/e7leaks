@@ -29,6 +29,10 @@
     {
       "veracity": "official",
       "info": "Inventory Size Expansion by 50 slots"
+    },
+    {
+      "veracity": "likely",
+      "info": "New Connection Hero: Kanna"
     }
   ],
   "stream": [
