@@ -1,13 +1,79 @@
 {
   "global": [
     {
-      "name": "Patch Live Stream",
-      "start": "2021-03-30 10:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/6990699"
+      "name": "Patch Maintenance",
+      "start": "2021-03-31 03:00:00Z",
+      "end": "2021-03-31 08:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/6994192"
+    },
+    {
+      "name": "Free Unequip",
+      "start": "2021-03-31 10:00:00Z",
+      "end": "2021-04-04 15:00:00Z"
+    },
+    {
+      "name": "+50% Hunt Mat/+30% Gold",
+      "start": "2021-04-01 10:00:00Z",
+      "end": "2021-04-02 10:00:00Z"
+    },
+    {
+      "name": "+50% AP/+30% XP",
+      "start": "2021-04-02 10:00:00Z",
+      "end": "2021-04-03 10:00:00Z"
+    },
+    {
+      "name": "x2 Rune Drop Rate",
+      "start": "2021-04-03 10:00:00Z",
+      "end": "2021-04-04 10:00:00Z"
+    },
+    {
+      "name": "All Buffs at Once",
+      "start": "2021-04-04 10:00:00Z",
+      "end": "2021-04-05 10:00:00Z"
     }
   ],
   "europe": [
+    {
+      "name": "+50% Hunt Mat/+30% Gold",
+      "start": "2021-04-01 03:00:00Z",
+      "end": "2021-04-02 03:00:00Z"
+    },
+    {
+      "name": "+50% AP/+30% XP",
+      "start": "2021-04-02 03:00:00Z",
+      "end": "2021-04-03 03:00:00Z"
+    },
+    {
+      "name": "x2 Rune Drop Rate",
+      "start": "2021-04-03 03:00:00Z",
+      "end": "2021-04-04 03:00:00Z"
+    },
+    {
+      "name": "All Buffs at Once",
+      "start": "2021-04-04 03:00:00Z",
+      "end": "2021-04-05 03:00:00Z"
+    }
   ],
   "asia": [
+    {
+      "name": "+50% Hunt Mat/+30% Gold",
+      "start": "2021-03-31 18:00:00Z",
+      "end": "2021-04-01 18:00:00Z"
+    },
+    {
+      "name": "+50% AP/+30% XP",
+      "start": "2021-04-01 18:00:00Z",
+      "end": "2021-04-02 18:00:00Z"
+    },
+    {
+      "name": "x2 Rune Drop Rate",
+      "start": "2021-04-02 18:00:00Z",
+      "end": "2021-04-03 18:00:00Z"
+    },
+    {
+      "name": "All Buffs at Once",
+      "start": "2021-04-03 18:00:00Z",
+      "end": "2021-04-04 18:00:00Z"
+    }
   ]
 }

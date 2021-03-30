@@ -1,0 +1,18 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Kanna + Air-to-Surface: MISHA",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=ft97d7MdW6Q"
+        }
+      ]
+    }
+  ],
+  "stream": []
+}

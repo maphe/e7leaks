@@ -1,0 +1,56 @@
+{
+  "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/6993206",
+  "twitch": "https://www.youtube.com/watch?v=UoxOruGhfik",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Guilty Gear Collab"
+    },
+    {
+      "veracity": "official",
+      "info": "Triple Limited Banner: Baiken / Dizzy / Elphelt"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Balance Adjustment (Sol & Elphelt)",
+      "resources": [
+        {
+          "label": "Dev Notes",
+          "url": "https://page.onstove.com/epicseven/global/view/6950235"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Inventory Size Expansion by 50 slots"
+    },
+    {
+      "veracity": "official",
+      "info": "New Connection Hero: Kanna",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=ft97d7MdW6Q"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Epic Equipment Crafting Event"
+    },
+    {
+      "veracity": "official",
+      "info": "Expedition Improvements"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ken + Samsara Prayer Beads"
+    }
+  ],
+  "stream": [
+    "New ML5 Showcase"
+  ]
+}
