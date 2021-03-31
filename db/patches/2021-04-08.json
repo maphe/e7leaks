@@ -1,6 +1,8 @@
 {
   "type": "client",
   "images": [
+    "datamine/ss_kanna_banner.png",
+    "datamine/ss_kanna_bi.png"
   ],
   "news": [
     {
@@ -12,6 +14,10 @@
           "url": "https://www.youtube.com/watch?v=ft97d7MdW6Q"
         }
       ]
+    },
+    {
+      "veracity": "likely",
+      "info": "New Side Story: Kanna Takes Flight"
     }
   ],
   "stream": []

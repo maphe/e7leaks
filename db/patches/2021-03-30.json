@@ -39,7 +39,13 @@
     },
     {
       "veracity": "official",
-      "info": "Epic Equipment Crafting Event"
+      "info": "Epic Equipment Crafting Event",
+      "resources": [
+        {
+          "label": "Details",
+          "url": "https://page.onstove.com/epicseven/global/view/6993709"
+        }
+      ]
     },
     {
       "veracity": "official",
