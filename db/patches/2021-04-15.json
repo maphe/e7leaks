@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7036881",
+  "twitch": "https://www.youtube.com/watch?v=BjCZcKbHHjM",
   "images": [
   ],
   "news": [
@@ -14,19 +16,32 @@
       ]
     },
     {
-      "veracity": "likely",
-      "info": "2 New Exclusive Equipments"
+      "veracity": "official",
+      "info": "2 New Exclusive Equipments (Kise and Ludwig)"
     },
     {
-      "veracity": "likely",
-      "info": "World Arena Season 4"
+      "veracity": "official",
+      "info": "World Arena Season 4 (Skin: Ruele of Light)"
     },
     {
-      "veracity": "maybe",
-      "info": "Episode 3 - Chapter 8, Lone Tundra"
+      "veracity": "official",
+      "info": "Hero Banner: Elena + Stella Harpa"
+    },
+    {
+      "veracity": "official",
+      "info": "New Skin: Autumnal Beauty Tempest Surin",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=6NXtii3mMvA"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "The Book of Memories: Eulogy for a Saint"
     }
   ],
   "stream": [
-    "(maybe) New ML4 Showcase"
   ]
 }

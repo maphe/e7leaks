@@ -1,9 +1,10 @@
 {
   "global": [
     {
-      "name": "Patch Live Stream",
-      "start": "2021-04-14 10:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/7036786"
+      "name": "Patch Maintenance",
+      "start": "2021-04-15 03:00:00Z",
+      "end": "2021-04-15 09:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/7039599"
     }
   ],
   "europe": [
