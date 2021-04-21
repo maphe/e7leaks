@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/7061703",
   "images": [
   ],
   "news": [
@@ -16,7 +17,7 @@
       "info": "Hero Banner: Roana + Touch of Rekos"
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Epic Pass - Seven Mysteries 2021 (Dark Angel Rose)",
       "resources": [
         {
