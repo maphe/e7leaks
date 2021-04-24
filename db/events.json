@@ -1,9 +1,10 @@
 {
   "global": [
     {
-      "name": "Free Unequip",
-      "start": "2021-04-22 03:00:00Z",
-      "end": "2021-04-25 15:00:00Z"
+      "name": "E7WC First Round",
+      "start": "2021-04-25 03:00:00Z",
+      "end": "2021-04-25 05:00:00Z",
+      "url": "https://event-epic7.smilegatemegaport.com/e2021/worldChampionship"
     }
   ],
   "europe": [
