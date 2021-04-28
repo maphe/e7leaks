@@ -1,11 +1,24 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7087824",
   "images": [
   ],
   "news": [
     {
-      "veracity": "maybe",
+      "veracity": "official",
       "info": "Episode 3 - Chapter 8, Lone Tundra"
+    },
+    {
+      "veracity": "official",
+      "info": "Expeditions Adjustments"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Vildred + Sword of Summer Twilight"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Lilias + Bastion of Perlutia"
     }
   ],
   "stream": [

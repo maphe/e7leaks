@@ -1,0 +1,26 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Senya + Spear of a new Dawn",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=5i4YWmbGMUo"
+        }
+      ]
+    },
+    {
+      "veracity": "likely",
+      "info": "Senya Side Story"
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop refresh"
+    }
+  ],
+  "stream": []
+}

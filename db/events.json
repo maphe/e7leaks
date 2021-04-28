@@ -1,59 +1,95 @@
 {
   "global": [
     {
-      "name": "Free Unequip",
-      "start": "2021-04-22 03:00:00Z",
-      "end": "2021-04-25 15:00:00Z"
+      "name": "Patch Maintenance",
+      "start": "2021-04-29 02:50:00Z",
+      "end": "2021-04-29 08:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/7089197"
     },
     {
-      "name": "E7WC First Round",
-      "start": "2021-04-25 03:00:00Z",
-      "end": "2021-04-25 05:00:00Z",
-      "url": "https://event-epic7.smilegatemegaport.com/e2021/worldChampionship"
+      "name": "Free Unequip",
+      "start": "2021-04-29 02:50:00Z",
+      "end": "2021-05-02 15:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/7088612"
+    },
+    {
+      "name": "x2 Rune Drop Rate",
+      "start": "2021-05-01 10:00:00Z",
+      "end": "2021-05-02 10:00:00Z"
+    },
+    {
+      "name": "+50% Hunt Mat/+30% Gold",
+      "start": "2021-05-02 10:00:00Z",
+      "end": "2021-05-03 10:00:00Z"
+    },
+    {
+      "name": "+50% AP/+30% XP",
+      "start": "2021-05-03 10:00:00Z",
+      "end": "2021-05-04 10:00:00Z"
+    },
+    {
+      "name": "+50% Hunt Mat/+30% Gold",
+      "start": "2021-05-04 10:00:00Z",
+      "end": "2021-05-05 10:00:00Z"
+    },
+    {
+      "name": "All Buffs at Once",
+      "start": "2021-05-05 10:00:00Z",
+      "end": "2021-05-06 10:00:00Z"
     }
   ],
   "europe": [
     {
+      "name": "x2 Rune Drop Rate",
+      "start": "2021-05-01 03:00:00Z",
+      "end": "2021-05-02 03:00:00Z"
+    },
+    {
       "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2021-04-01 03:00:00Z",
-      "end": "2021-04-02 03:00:00Z"
+      "start": "2021-05-02 03:00:00Z",
+      "end": "2021-05-03 03:00:00Z"
     },
     {
       "name": "+50% AP/+30% XP",
-      "start": "2021-04-02 03:00:00Z",
-      "end": "2021-04-03 03:00:00Z"
+      "start": "2021-05-03 03:00:00Z",
+      "end": "2021-05-04 03:00:00Z"
     },
     {
-      "name": "x2 Rune Drop Rate",
-      "start": "2021-04-03 03:00:00Z",
-      "end": "2021-04-04 03:00:00Z"
+      "name": "+50% Hunt Mat/+30% Gold",
+      "start": "2021-05-04 03:00:00Z",
+      "end": "2021-05-05 03:00:00Z"
     },
     {
       "name": "All Buffs at Once",
-      "start": "2021-04-04 03:00:00Z",
-      "end": "2021-04-05 03:00:00Z"
+      "start": "2021-05-05 03:00:00Z",
+      "end": "2021-05-06 03:00:00Z"
     }
   ],
   "asia": [
     {
+      "name": "x2 Rune Drop Rate",
+      "start": "2021-04-30 18:00:00Z",
+      "end": "2021-05-01 18:00:00Z"
+    },
+    {
       "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2021-03-31 18:00:00Z",
-      "end": "2021-04-01 18:00:00Z"
+      "start": "2021-05-01 18:00:00Z",
+      "end": "2021-05-02 18:00:00Z"
     },
     {
       "name": "+50% AP/+30% XP",
-      "start": "2021-04-01 18:00:00Z",
-      "end": "2021-04-02 18:00:00Z"
+      "start": "2021-05-02 18:00:00Z",
+      "end": "2021-05-03 18:00:00Z"
     },
     {
-      "name": "x2 Rune Drop Rate",
-      "start": "2021-04-02 18:00:00Z",
-      "end": "2021-04-03 18:00:00Z"
+      "name": "+50% Hunt Mat/+30% Gold",
+      "start": "2021-05-03 18:00:00Z",
+      "end": "2021-05-04 18:00:00Z"
     },
     {
       "name": "All Buffs at Once",
-      "start": "2021-04-03 18:00:00Z",
-      "end": "2021-04-04 18:00:00Z"
+      "start": "2021-05-04 18:00:00Z",
+      "end": "2021-05-05 18:00:00Z"
     }
   ]
 }
