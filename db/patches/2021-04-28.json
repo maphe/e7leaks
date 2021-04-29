@@ -6,7 +6,17 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Episode 3 - Chapter 8, Lone Tundra"
+      "info": "Episode 3 - Chapter 8, Lone Tundra",
+      "resources": [
+        {
+          "label": "Art 1",
+          "url": "datamine/img3_8_6_1.png"
+        },
+        {
+          "label": "Art 2",
+          "url": "datamine/img3_8_6_2.png"
+        }
+      ]
     },
     {
       "veracity": "official",

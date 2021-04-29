@@ -1,6 +1,8 @@
 {
   "type": "client",
   "images": [
+    "datamine/gacha_senya_banner.png",
+    "datamine/ss_senya_bi.png"
   ],
   "news": [
     {
@@ -15,7 +17,7 @@
     },
     {
       "veracity": "likely",
-      "info": "Senya Side Story"
+      "info": "Senya Side Story: Spear of Vengeance"
     },
     {
       "veracity": "official",
