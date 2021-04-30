@@ -1,0 +1,21 @@
+{
+  "type": "server",
+  "link": "",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Hero Balance Adjustment",
+      "resources": [
+        {
+          "label": "Dev Notes",
+          "url": "https://page.onstove.com/epicseven/global/view/7095064"
+        }
+      ]
+    }
+  ],
+  "stream": [
+    "New ML5 Showcase"
+  ]
+}
