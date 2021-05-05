@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/7109841",
   "images": [
     "datamine/gacha_senya_banner.png",
     "datamine/ss_senya_bi.png"
@@ -16,8 +17,12 @@
       ]
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Senya Side Story: Spear of Vengeance"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ervalen + Double-Edged Decrescent"
     },
     {
       "veracity": "official",
