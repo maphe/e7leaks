@@ -2,6 +2,66 @@
   "news": [
     {
       "veracity": "likely",
+      "info": "Episode 3 - Chapter 9, North Wintenberg (featuring Ilynav)",
+      "source": "TBD"
+    },
+    {
+      "veracity": "likely",
+      "info": "New skin: Bunny Kayron",
+      "source": "TBD"
+    },
+    {
+      "veracity": "likely",
+      "info": "New skins: Summer Montmorancy, Summer Iseria",
+      "source": "Summer Special Side Story"
+    },
+    {
+      "veracity": "likely",
+      "info": "New ML5s: Charles, Kawerik(?), Straze",
+      "source": "TBD"
+    },
+    {
+      "veracity": "official",
+      "info": "Advent Side Story",
+      "source": "Q3"
+    },
+    {
+      "veracity": "official",
+      "info": "Automaton Level 5",
+      "source": "Q3"
+    },
+    {
+      "veracity": "official",
+      "info": "Ancient Inheritance - Guild PvE",
+      "source": "Q3"
+    },
+    {
+      "veracity": "official",
+      "info": "Abyss Floors 111 - 120",
+      "source": "Q3"
+    },
+    {
+      "veracity": "official",
+      "info": "Expeditions Level 4",
+      "source": "Q4"
+    },
+    {
+      "veracity": "official",
+      "info": "Light Expeditions",
+      "source": "Q4"
+    },
+    {
+      "veracity": "official",
+      "info": "Guardian Level Up",
+      "source": "Q4"
+    },
+    {
+      "veracity": "official",
+      "info": "New Guardians (Kazran)",
+      "source": "TBD"
+    },
+    {
+      "veracity": "likely",
       "info": "Inferno Khawazu (ML4)",
       "resources": [
 

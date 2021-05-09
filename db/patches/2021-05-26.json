@@ -4,6 +4,41 @@
   ],
   "news": [
     {
+      "veracity": "official",
+      "info": "Epic Seven: Rise",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://page.onstove.com/epicseven/global/view/7120497"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Selective Summon Improvements",
+      "source": "Epic Seven: Rise"
+    },
+    {
+      "veracity": "official",
+      "info": "Moonlight Connection (choose among 6 ML5 heroes)",
+      "source": "Epic Seven: Rise"
+    },
+    {
+      "veracity": "official",
+      "info": "Connection and Specialty Change Improvements",
+      "source": "Epic Seven: Rise"
+    },
+    {
+      "veracity": "official",
+      "info": "Penguins moved to item inventory + Penguin Mileage",
+      "source": "Epic Seven: Rise"
+    },
+    {
+      "veracity": "official",
+      "info": "Potion of Ascension (instant 6★) added in Adventurer's Path",
+      "source": "Epic Seven: Rise"
+    },
+    {
       "veracity": "maybe",
       "info": "New Specialty Change",
       "source": "10 week cycle"
