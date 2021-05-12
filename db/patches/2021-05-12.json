@@ -1,6 +1,7 @@
 {
   "type": "server",
-  "link": "",
+  "link": "https://page.onstove.com/epicseven/global/view/7129799",
+  "twitch": "https://www.youtube.com/watch?v=GSQTs9vkgic",
   "images": [
   ],
   "news": [
@@ -13,6 +14,10 @@
           "url": "https://page.onstove.com/epicseven/global/view/7095064"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Kawerik + Black Hand of the Goddess"
     }
   ],
   "stream": [

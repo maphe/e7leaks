@@ -5,6 +5,16 @@
   "news": [
     {
       "veracity": "official",
+      "info": "New Mystic Rotation: Mediator Kawerik & Shooting Start Achates",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=ZDOpmsGpbWk"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "Epic Seven: Rise",
       "resources": [
         {

@@ -2,14 +2,14 @@
   "global": [
     {
       "name": "Patch Maintenance",
-      "start": "2021-04-29 02:50:00Z",
-      "end": "2021-04-29 07:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/7089197"
+      "start": "2021-05-13 03:00:00Z",
+      "end": "2021-05-13 08:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/7130012"
     },
     {
-      "name": "Patch Stream",
-      "start": "2021-05-12 10:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/7127335"
+      "name": "Free Unequip",
+      "start": "2021-05-13 03:00:00Z",
+      "end": "2021-05-16 15:00:00Z"
     },
     {
       "name": "x2 Rune Drop Rate",
