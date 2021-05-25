@@ -1,0 +1,19 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "New Hero Banner: Ilynav",
+      "resources": [
+      ]
+    },
+    {
+      "veracity": "likely",
+      "info": "New Ilynav Side Story",
+      "resources": [
+      ]
+    }
+  ]
+}

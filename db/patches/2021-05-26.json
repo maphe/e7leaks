@@ -49,12 +49,17 @@
       "source": "Epic Seven: Rise"
     },
     {
+      "veracity": "likely",
+      "info": "Episode 3 - Chapter 9, North Wintenberg"
+    },
+    {
       "veracity": "maybe",
       "info": "New Specialty Change",
       "source": "10 week cycle"
     }
   ],
   "stream": [
-    "Inferno Khawazu Showcase"
+    "Inferno Khawazu Showcase",
+    "Ilynav Showcase"
   ]
 }
