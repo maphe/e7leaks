@@ -60,21 +60,6 @@
       "source": "TBD"
     },
     {
-      "veracity": "likely",
-      "info": "Inferno Khawazu (ML4)",
-      "resources": [
-
-        {
-          "label": "Portrait",
-          "url": "datamine/ml_khawazu_portrait.png"
-        },
-        {
-          "label": "Full",
-          "url": "datamine/ml_khawazu_normal.png"
-        }
-      ]
-    },
-    {
       "veracity": "official",
       "info": "New Collaboration with a \"well-known IP\"",
       "source": "End of June"

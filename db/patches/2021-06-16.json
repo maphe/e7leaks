@@ -1,0 +1,22 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "New Mystic Rotation: ML5 Rerun & Inferno Khawazu",
+      "resources": [
+
+        {
+          "label": "Portrait",
+          "url": "datamine/ml_khawazu_portrait.png"
+        },
+        {
+          "label": "Full",
+          "url": "datamine/ml_khawazu_normal.png"
+        }
+      ]
+    }
+  ]
+}
