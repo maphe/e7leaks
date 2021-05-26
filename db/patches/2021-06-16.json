@@ -4,10 +4,13 @@
   ],
   "news": [
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "New Mystic Rotation: ML5 Rerun & Inferno Khawazu",
       "resources": [
-
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=DoujoGg11K0"
+        },
         {
           "label": "Portrait",
           "url": "datamine/ml_khawazu_portrait.png"

@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7167497",
+  "twitch": "https://www.youtube.com/watch?v=nZiVSl5p6KY",
   "images": [
   ],
   "news": [
@@ -49,13 +51,12 @@
       "source": "Epic Seven: Rise"
     },
     {
-      "veracity": "likely",
-      "info": "Episode 3 - Chapter 9, North Wintenberg"
+      "veracity": "official",
+      "info": "Hero Banner: Celine + Secret Art – Storm Sword"
     },
     {
-      "veracity": "maybe",
-      "info": "New Specialty Change",
-      "source": "10 week cycle"
+      "veracity": "official",
+      "info": "Hero Banner: Flan + Unseen Observer"
     }
   ],
   "stream": [

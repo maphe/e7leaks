@@ -4,16 +4,22 @@
   ],
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Hero Banner: Ilynav",
+      "veracity": "official",
+      "info": "New Hero Banner: Ilynav + Wings of Light and Shadow",
       "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=VbTNHHnZfIw"
+        }
       ]
     },
     {
-      "veracity": "likely",
-      "info": "New Ilynav Side Story",
-      "resources": [
-      ]
+      "veracity": "official",
+      "info": "New  Side Story: The Insigna's New Owner"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Mort + Ancient Dragon's Legacy"
     }
   ]
 }
