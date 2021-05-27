@@ -1,6 +1,9 @@
 {
   "type": "client",
   "images": [
+    "datamine/gacha_ilynav_banner.png",
+    "datamine/ss_ilynav_bi.png",
+    "datamine/gacha_mort_banner.png"
   ],
   "news": [
     {
