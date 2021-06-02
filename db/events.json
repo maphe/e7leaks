@@ -1,10 +1,8 @@
 {
   "global": [
     {
-      "name": "Patch Maintenance",
-      "start": "2021-05-27 03:00:00Z",
-      "end": "2021-05-27 09:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/7170062"
+      "name": "Ilynav Banner",
+      "start": "2021-06-03 03:00:00Z"
     },
     {
       "name": "Patch Live Stream",
