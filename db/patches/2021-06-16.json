@@ -20,6 +20,10 @@
           "url": "datamine/ml_khawazu_normal.png"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop Refresh"
     }
   ]
 }
