@@ -5,7 +5,7 @@
   "news": [
     {
       "veracity": "official",
-      "info": "New Mystic Rotation: ML5 Rerun & Inferno Khawazu",
+      "info": "New Mystic Rotation: Ruele of Light & Inferno Khawazu",
       "resources": [
         {
           "label": "Intro",
@@ -20,6 +20,18 @@
           "url": "datamine/ml_khawazu_normal.png"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Side Story: Hatred Blooms Red (Melissa)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Melissa + Bloody Rose"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Iseria + Song of Stars"
     },
     {
       "veracity": "official",

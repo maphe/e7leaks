@@ -1,21 +1,26 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7218344",
+  "twitch": "https://www.youtube.com/watch?v=PRVFLxt6ZnQ",
   "images": [
   ],
   "news": [
     {
-      "veracity": "likely",
-      "info": "Episode 3 - Chapter 9, North Wintenberg"
+      "veracity": "official",
+      "info": "Episode 3 - Chapter 7S, Lefundos of the Past"
     },
     {
-      "veracity": "likely",
-      "info": "New Exclusive Equipments",
+      "veracity": "official",
+      "info": "New Exclusive Equipments: Angelica, Charlotte, Mort",
       "source": "8 week cycle"
     },
     {
-      "veracity": "maybe",
-      "info": "New Specialty Change",
-      "source": "10 week cycle - 2 weeks late"
+      "veracity": "official",
+      "info": "Epic Pass - Tea Party (Time Rabbit Kayron)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Kayron + Shepherd of the Hollow"
     }
   ],
   "stream": [
