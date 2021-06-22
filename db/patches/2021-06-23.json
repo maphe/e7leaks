@@ -9,18 +9,12 @@
       "source": "Q2"
     },
     {
-      "veracity": "maybe",
-      "info": "New Collab Kick Off",
-      "source": "last maintenance of June"
-    },
-    {
-      "veracity": "maybe",
+      "veracity": "unlikely",
       "info": "New Specialty Change",
       "source": "10 week cycle - 4 weeks late"
     }
   ],
   "stream": [
-    "New ML5 Showcase",
-    "Collab Info"
+    "New ML5 Showcase (Straze)"
   ]
 }
