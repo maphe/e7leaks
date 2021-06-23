@@ -1,0 +1,27 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Side Story: The Holy Order of the Blue Cross and the Mysterious Island",
+      "resources": [
+        {
+          "label": "Banner",
+          "url": "datamine/ss_mui_banner.png"
+        },
+        {
+          "label": "Poster",
+          "url": "datamine/ss_vyupia_poster.png"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Holiday Yufine + Champion's Trophy"
+    }
+  ],
+  "stream": [
+  ]
+}

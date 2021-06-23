@@ -1,17 +1,22 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7265112",
+  "twitch": "https://www.youtube.com/watch?v=O55MRxYaqhU",
   "images": [
   ],
   "news": [
     {
-      "veracity": "maybe",
+      "veracity": "official",
       "info": "Equipment Balance Adjustment",
       "source": "Q2"
     },
     {
-      "veracity": "unlikely",
-      "info": "New Specialty Change",
-      "source": "10 week cycle - 4 weeks late"
+      "veracity": "official",
+      "info": "Hero Banner: Krau + Holy Sacrifice"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ravi + Sigurd Scythe"
     }
   ],
   "stream": [

@@ -1,0 +1,20 @@
+{
+  "type": "client",
+  "link": "",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Side Story: Seaside Showdown"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Sez + Manica of Control"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Seaside Bellona + Reingar's Special Drink"
+    }
+  ]
+}
