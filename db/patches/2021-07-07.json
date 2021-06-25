@@ -5,6 +5,16 @@
   "news": [
     {
       "veracity": "official",
+      "info": "Hero and Artifact Balance Adjustment",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://page.onstove.com/epicseven/global/view/7272106"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "New Mystic Rotation: Straze & Benevolent Romann",
       "resources": [
         {
