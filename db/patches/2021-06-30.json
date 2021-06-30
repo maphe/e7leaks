@@ -1,9 +1,13 @@
 {
   "type": "client",
-  "link": "",
+  "link": "https://page.onstove.com/epicseven/global/view/7287061",
   "images": [
   ],
   "news": [
+    {
+      "veracity": "official",
+      "info": "Automaton Tower Season 2"
+    },
     {
       "veracity": "official",
       "info": "Side Story: Seaside Showdown"
