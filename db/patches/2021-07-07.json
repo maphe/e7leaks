@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7315387",
+  "twitch": "https://www.youtube.com/watch?v=s-xGqvaqKvQ",
   "images": [
   ],
   "news": [
@@ -25,8 +27,7 @@
     },
     {
       "veracity": "official",
-      "info": "New PvE: Advent Side Story",
-      "source": "Preview in 6/23 stream"
+      "info": "Episode 3 - Chapter 8S, Dragon Valley of the Past"
     },
     {
       "veracity": "official",
@@ -34,8 +35,16 @@
       "source": "12 week seasons"
     },
     {
-      "veracity": "likely",
-      "info": "Episode 3 - Chapter 8S, Dragon Valley of the Past"
+      "veracity": "official",
+      "info": "Alchemist's Steeple: Modification Gem Conversion"
+    },
+    {
+      "veracity": "official",
+      "info": "New PvE: Advent Side Story (Preview)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Lidica + Sword of Judgement"
     }
   ],
   "stream": [

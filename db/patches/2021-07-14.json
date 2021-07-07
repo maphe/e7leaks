@@ -1,0 +1,20 @@
+{
+  "type": "client",
+  "link": "",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "Advent Side Story: Kiss of Frost"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Roana + Touch of Rekos"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Charlotte + Elbris Ritual Sword"
+    }
+  ]
+}
