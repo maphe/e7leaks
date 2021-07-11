@@ -5,7 +5,7 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Side Story: The Holy Order of the Blue Cross and the Mysterious Island",
+      "info": "Side Story Rerun: The Holy Order of the Blue Cross and the Mysterious Island",
       "resources": [
         {
           "label": "Banner",
@@ -16,6 +16,14 @@
           "url": "datamine/ss_vyupia_poster.png"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Spirit Altar Adjustments (10 levels merged into 4)"
+    },
+    {
+      "veracity": "official",
+      "info": "Forest of Souls 10x Summons"
     },
     {
       "veracity": "official",
