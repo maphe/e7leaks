@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "twitch": "https://www.youtube.com/watch?v=pwJQzMSlnHs",
   "images": [
   ],
   "news": [
@@ -19,6 +20,10 @@
     },
     {
       "veracity": "official",
+      "info": "Epic Pass - Vacation 2021 (Angelic Montmorancy Skin)"
+    },
+    {
+      "veracity": "official",
       "info": "Spirit Altar Adjustments (10 levels merged into 4)"
     },
     {
@@ -28,6 +33,14 @@
     {
       "veracity": "official",
       "info": "Hero Banner: Holiday Yufine + Champion's Trophy"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Mui + Circus Fantasia"
+    },
+    {
+      "veracity": "official",
+      "info": "Guild War New Season"
     }
   ],
   "stream": [

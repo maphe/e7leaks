@@ -1,0 +1,24 @@
+{
+  "type": "client",
+  "link": "",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Specter Tenebria & Crimson Armin"
+    },
+    {
+      "veracity": "official",
+      "info": "Side Story Week 2"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Basar + Abyssal Crown"
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop refresh"
+    }
+  ]
+}
