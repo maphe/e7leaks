@@ -1,0 +1,14 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "New Exclusive Equipments",
+      "source": "8 week cycle"
+    }
+  ],
+  "stream": [
+  ]
+}

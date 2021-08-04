@@ -1,20 +1,54 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7457244",
+  "twitch": "https://www.youtube.com/watch?v=4flXd5ujI_Q",
   "images": [
   ],
   "news": [
     {
-      "veracity": "likely",
-      "info": "Re:ZERO Collab Kick off"
+      "veracity": "official",
+      "info": "Re:ZERO − Starting Life in Another World",
+      "resources": [
+        {
+          "label": "Details",
+          "url": "https://page.onstove.com/epicseven/global/view/7455420"
+        }
+      ]
     },
     {
-      "veracity": "maybe",
-      "info": "New Exclusive Equipments",
+      "veracity": "official",
+      "info": "Limited Hero Banner: Emilia & Guardian Ice Crystals"
+    },
+    {
+      "veracity": "official",
+      "info": "Limited Hero Banner: Rem & Azure Comet"
+    },
+    {
+      "veracity": "official",
+      "info": "Episode 3 - Chapter 9, North Wintenberg"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Luluca & Spirit's Breath"
+    },
+    {
+      "veracity": "official",
+      "info": "New Exclusive Equipments (Choux, Assassin Cartuja, Kitty Clarissa)",
       "source": "8 week cycle"
     },
     {
-      "veracity": "maybe",
-      "info": "World Arena Season 5",
+      "veracity": "official",
+      "info": "New 3* heroes: Dragon Knights of Wintenberg",
+      "resources": [
+        {
+          "label": "Details",
+          "url": "https://page.onstove.com/epicseven/global/view/7457244"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "World Arena Season 5 (Judge Kise skin)",
       "source": "4 week pre-seasons"
     }
   ],
