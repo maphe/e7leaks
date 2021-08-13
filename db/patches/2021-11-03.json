@@ -1,12 +1,12 @@
 {
-  "type": "server",
+  "type": "client",
   "images": [
   ],
   "news": [
     {
       "veracity": "likely",
       "info": "End of World Arena Season 5",
-      "source": "12 week seasons"
+      "source": "on following Saturday - 12 week seasons"
     }
   ],
   "stream": [
