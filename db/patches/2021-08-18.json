@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7623150",
+  "twitch": "https://www.youtube.com/watch?v=VWinpva-ufQ",
   "images": [
   ],
   "news": [
@@ -15,13 +17,21 @@
     },
     {
       "veracity": "official",
-      "info": "New Summer Side Story: The Order of the Sword and the Lord of Summer",
+      "info": "New Summer Side Story: The Order of the Sword and the Lord of Summer - Week 1",
       "resources": [
         {
           "label": "Teaser",
           "url": "https://www.youtube.com/watch?v=wuQFJ4KZ9ds"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Baal & Sezan + Last Teatime"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Cermia + Border Coin"
     }
   ],
   "stream": [

@@ -1,0 +1,17 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Specimen Sez + Angel of Light Angelica",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=e-BxJ60oOVg"
+        }
+      ]
+    }
+  ]
+}

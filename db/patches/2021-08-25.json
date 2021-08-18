@@ -1,0 +1,30 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Summer Side Story: The Order of the Sword and the Lord of Summer - Week 2"
+    },
+    {
+      "veracity": "official",
+      "info": "New Limited Hero Banner: Summertime Iseria + Star of the Deep Sea",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=d0W2IJc-BnY"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Bellona + Iron Fan"
+    },
+    {
+      "veracity": "official",
+      "info": "Automaton Level 5",
+      "source": "from 8/18 stream; applies at next Tower reset on 8/30"
+    }
+  ]
+}
