@@ -5,6 +5,16 @@
   "news": [
     {
       "veracity": "official",
+      "info": "Hero Balance Adjustment",
+      "resources": [
+        {
+          "label": "Dev Note",
+          "url": "https://page.onstove.com/epicseven/global/view/7631847"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "Summer Side Story: The Order of the Sword and the Lord of Summer - Week 3"
     }
   ],
