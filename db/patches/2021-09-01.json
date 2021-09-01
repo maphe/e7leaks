@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7685686",
   "images": [
   ],
   "news": [
@@ -18,14 +19,28 @@
       "info": "Summer Side Story: The Order of the Sword and the Lord of Summer - Week 3"
     },
     {
-      "veracity": "likely",
-      "info": "Episode 3 - Chapter 10, East Politia",
-      "source": "3rd Anniversary Stream"
+      "veracity": "official",
+      "info": "Episode 3 - Chapter 10, East Politia"
     },
     {
-      "veracity": "maybe",
-      "info": "Inventory Expansion - Waiting Room for Inventory (500 slots)",
-      "source": "3rd Anniversary Stream"
+      "veracity": "official",
+      "info": "Selective Summon - Season 2"
+    },
+    {
+      "veracity": "official",
+      "info": "Side Story: A very Special Opening Day"
+    },
+    {
+      "veracity": "official",
+      "info": "New Abyss Floors - 111 to 120"
+    },
+    {
+      "veracity": "official",
+      "info": "Inventory Expansion - Waiting Room for Inventory (500 slots)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Alencia + Alencinos's Wrath"
     }
   ],
   "stream": [
