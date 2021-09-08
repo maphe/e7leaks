@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/7714017",
   "images": [
   ],
   "news": [
@@ -20,6 +21,14 @@
     {
       "veracity": "official",
       "info": "Hero Banner: Vivian + Dignus Orb"
+    },
+    {
+      "veracity": "official",
+      "info": "Automaton Tower Season 3"
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop Refresh"
     }
   ]
 }
