@@ -4,9 +4,23 @@
   ],
   "news": [
     {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Belian + Auxiliary Lots",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=GqoijrDvL2M"
+        }
+      ]
+    },
+    {
       "veracity": "likely",
       "info": "New Exclusive Equipments",
       "source": "8 week cycle"
+    },
+    {
+      "veracity": "official",
+      "info": "Limited Hero Banner: Landy & Wall of Order"
     }
   ],
   "stream": [

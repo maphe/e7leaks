@@ -1,11 +1,24 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7743146",
+  "twitch": "https://www.youtube.com/watch?v=TvkRRy9KeUw",
   "images": [
   ],
-  "title": "¯\\_(ツ)_/¯",
   "news": [
+    {
+      "veracity": "official",
+      "info": "Special Side Story - Thieves under the Light of the Full Moon - Week 1"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Tamarinne + Idol's Cheer"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ken + Samsara Prayer Beads"
+    }
   ],
   "stream": [
-    "New ML5 Showcase"
+    "New ML5 Showcase - Belian"
   ]
 }
