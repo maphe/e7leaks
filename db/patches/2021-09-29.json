@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7801713",
   "images": [
   ],
   "news": [
@@ -14,8 +15,12 @@
       ]
     },
     {
-      "veracity": "likely",
-      "info": "New Exclusive Equipments",
+      "veracity": "official",
+      "info": "Special Side Story - A Single Flame Engulfing the Full Moon - Week 1"
+    },
+    {
+      "veracity": "official",
+      "info": "New Exclusive Equipments - Vildred/Senya/Karin",
       "source": "8 week cycle"
     },
     {
