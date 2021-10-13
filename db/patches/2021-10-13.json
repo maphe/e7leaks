@@ -1,11 +1,31 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7854539",
+  "twitch": "https://www.youtube.com/watch?v=2UPC0NEVqhE",
   "images": [
   ],
   "news": [
     {
       "veracity": "official",
       "info": "Special Side Story - A Single Flame Engulfing the Full Moon - Week 3"
+    },
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Ran + Sword of Winter Shadow",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://www.youtube.com/watch?v=ng-13LRpUfw"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Side Story: Summer and Winter"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Kise + Alabastron"
     }
   ],
   "stream": [

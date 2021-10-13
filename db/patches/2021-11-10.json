@@ -1,0 +1,19 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "maybe",
+      "info": "New Specialty Change (Pyllis?)",
+      "source": "mentioned in 10/13 stream"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Epic Pass",
+      "source": "mentioned in 10/13 stream"
+    }
+  ],
+  "stream": [
+  ]
+}
