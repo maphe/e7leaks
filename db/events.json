@@ -1,6 +1,11 @@
 {
   "global": [
     {
+      "name": "Patch Live Stream",
+      "start": "2021-10-27 11:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/7899055"
+    },
+    {
       "name": "Patch Maintenance",
       "start": "2021-10-14 03:00:00Z",
       "end": "2021-10-14 08:00:00Z",
