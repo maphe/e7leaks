@@ -5,6 +5,20 @@
   "news": [
     {
       "veracity": "official",
+      "info": "New Limited Hero Banner: Milim + Upgraded Dragon Knuckles",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=69wsujep0Qo"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Special Side Story - Solayu Cook-Off - Week 2"
+    },
+    {
+      "veracity": "official",
       "info": "End of World Arena Season 5",
       "source": "on following Saturday - 12 week seasons"
     }

@@ -4,13 +4,27 @@
   ],
   "news": [
     {
-      "veracity": "maybe",
-      "info": "New Specialty Change (Pyllis?)",
+      "veracity": "official",
+      "info": "New Mystic Rotation: Spirit Eye Celine & Blood Blade Karin",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=SyBT3tOcJKE"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Special Side Story - Solayu Cook-Off - Week 3"
+    },
+    {
+      "veracity": "likely",
+      "info": "Epic Pass",
       "source": "mentioned in 10/13 stream"
     },
     {
       "veracity": "maybe",
-      "info": "Epic Pass",
+      "info": "New Specialty Change (Pyllis?)",
       "source": "mentioned in 10/13 stream"
     }
   ],

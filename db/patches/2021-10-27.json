@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7898638",
   "images": [
   ],
   "news": [
@@ -10,6 +11,10 @@
         {
           "label": "Dev Notes",
           "url": "https://page.onstove.com/epicseven/global/view/7862484"
+        },
+        {
+          "label": "Patch Notes",
+          "url": "https://page.onstove.com/epicseven/global/view/7902278"
         }
       ]
     },
@@ -22,6 +27,24 @@
           "url": "https://page.onstove.com/epicseven/global/view/7878555"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Special Side Story - Solayu Cook-Off - Week 1"
+    },
+    {
+      "veracity": "official",
+      "info": "New Limited Hero Banner: Rimuru + Anti-Magic Mask",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=B1GBnD18te4"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Charlotte + Elbris Ritual Sword"
     }
   ],
   "stream": [

@@ -7,14 +7,13 @@
     },
     {
       "name": "Patch Maintenance",
-      "start": "2021-10-14 03:00:00Z",
-      "end": "2021-10-14 08:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/7854489"
+      "start": "2021-10-28 03:00:00Z",
+      "end": "2021-10-28 09:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/7902051"
     },
     {
-      "name": "Summertime Iseria Banner",
-      "start": "2021-08-26 03:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/7654830"
+      "name": "Milim Banner",
+      "start": "2021-11-04 03:00:00Z"
     },
     {
       "name": "Free Unequip",
