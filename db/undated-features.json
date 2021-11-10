@@ -1,11 +1,6 @@
 {
   "news": [
     {
-      "veracity": "maybe",
-      "info": "New Specialty Change",
-      "source": "last 10 week cycle was due on 5/26"
-    },
-    {
       "veracity": "likely",
       "info": "Incoming ML5s: Lilias",
       "source": "TBD"
@@ -17,17 +12,7 @@
     },
     {
       "veracity": "official",
-      "info": "Main Adventure - Episode 4",
-      "source": "~November"
-    },
-    {
-      "veracity": "official",
       "info": "Expeditions Level 4",
-      "source": "Q4"
-    },
-    {
-      "veracity": "official",
-      "info": "Light Expeditions",
       "source": "Q4"
     },
     {

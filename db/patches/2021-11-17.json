@@ -1,0 +1,21 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Tywin Side Story: Unspoken Truth"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Tywin + Crown of Glory"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Roana + Touch of Rekos"
+    }
+  ],
+  "stream": [
+  ]
+}

@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/7947711",
+  "twitch": "https://www.youtube.com/watch?v=3PVV7W66Vtk",
   "images": [
   ],
   "news": [
@@ -18,14 +20,37 @@
       "info": "Special Side Story - Solayu Cook-Off - Week 3"
     },
     {
-      "veracity": "likely",
-      "info": "Epic Pass",
+      "veracity": "official",
+      "info": "Episode 4 - Chapter 1, South Theranhad"
+    },
+    {
+      "veracity": "official",
+      "info": "New 3★ Main Character - Adin",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=qBid5tyvPFA"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Epic Pass - Late Summer Daydream (Vildred Skin)",
       "source": "mentioned in 10/13 stream"
     },
     {
-      "veracity": "maybe",
-      "info": "New Specialty Change (Pyllis?)",
-      "source": "mentioned in 10/13 stream"
+      "veracity": "official",
+      "info": "New Specialty Change - Shadow Knight Pyllis",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=yoDpCW-sQR0"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Vildred + Sword of Summer Twilight"
     }
   ],
   "stream": [

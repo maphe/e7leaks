@@ -4,6 +4,16 @@
   ],
   "news": [
     {
+      "veracity": "official",
+      "info": "New Hero Banner: Zahhak",
+      "resources": [
+        {
+          "label": "Teaser",
+          "url": "https://www.youtube.com/watch?v=QF3KF810MNM"
+        }
+      ]
+    },
+    {
       "veracity": "likely",
       "info": "New Exclusive Equipments",
       "source": "8 week cycle"
