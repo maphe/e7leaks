@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/8004157",
   "images": [
   ],
   "news": [
@@ -15,6 +16,10 @@
       "veracity": "official",
       "info": "World Arena Season 6",
       "source": "on following Saturday"
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop Refresh"
     }
   ],
   "stream": [
