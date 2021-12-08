@@ -1,0 +1,19 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Conqueror Lilias & Sinful Angelica",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://www.youtube.com/watch?v=UWgMN3GsSXU"
+        }
+      ]
+    }
+  ],
+  "stream": [
+  ]
+}

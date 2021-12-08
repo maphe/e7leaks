@@ -1,14 +1,23 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8027044",
+  "twitch": "https://www.youtube.com/watch?v=zxxZGLHTZdM",
   "images": [
   ],
   "news": [
     {
       "veracity": "official",
+      "info": "Side Story Rerun: Adventures in a Winter Wonderland - Chapter 1 & 2"
+    },
+    {
+      "veracity": "official",
       "info": "Limited Hero Banner: Fairytale Tenebria + Fairy Tale for a Nightmare"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ray + Doctor's Bag"
     }
   ],
   "stream": [
-    "New ML5 Showcase"
   ]
 }
