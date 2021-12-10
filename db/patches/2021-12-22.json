@@ -5,6 +5,16 @@
   "news": [
     {
       "veracity": "official",
+      "info": "Hero Balance Adjustment",
+      "resources": [
+        {
+          "label": "Dev Notes",
+          "url": "https://page.onstove.com/epicseven/global/view/8032669"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "New Mystic Rotation: Conqueror Lilias & Sinful Angelica",
       "resources": [
         {
