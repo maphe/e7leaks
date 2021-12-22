@@ -1,0 +1,27 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Command Model Laika + Glo-Wings 21",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=JHYDO-MiKE4"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Special Side Story: Fairy Tale for a Snowy Day - Week 2"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Violet & Violet’s Talisman"
+    }
+  ],
+  "stream": [
+  ]
+}

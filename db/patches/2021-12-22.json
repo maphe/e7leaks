@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8065537",
+  "twitch": "https://www.youtube.com/watch?v=7nu97cQeQ5E",
   "images": [
   ],
   "news": [
@@ -25,7 +27,19 @@
     },
     {
       "veracity": "official",
-      "info": "Special Side Story: Fairy Tale for a Snowy Day"
+      "info": "Special Side Story: Fairy Tale for a Snowy Day - Week 1"
+    },
+    {
+      "veracity": "official",
+      "info": "Epic Pass - Warm Year-End 2021 (Kanna Skin)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Kanna + Air-to-Surface: MISHA"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ilynav + Wings of Light and Shadow"
     }
   ],
   "stream": [
