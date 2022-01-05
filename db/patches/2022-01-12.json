@@ -1,0 +1,21 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Side Story: Thuggish Angel Roseria"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Cermia + Border Coin"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Cecilia + Rise of a Monarch"
+    }
+  ],
+  "stream": [
+  ]
+}

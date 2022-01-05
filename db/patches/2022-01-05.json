@@ -9,7 +9,13 @@
     },
     {
       "veracity": "official",
-      "info": "New 3★ heroes"
+      "info": "Five New 3★ Heroes",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=ACevlp4auCM"
+        }
+      ]
     },
     {
       "veracity": "official",
@@ -20,15 +26,8 @@
       "info": "High-Quality Media Pack"
     },
     {
-      "veracity": "maybe",
-      "info": "New Guardian: Kazran",
-      "source": "January",
-      "resources": [
-        {
-          "label": "Preview",
-          "url": "https://www.youtube.com/watch?v=-bgJrgWdhWY"
-        }
-      ]
+      "veracity": "official",
+      "info": "Hero Banner: Alencia + Alencinos's Wrath"
     }
   ],
   "stream": [

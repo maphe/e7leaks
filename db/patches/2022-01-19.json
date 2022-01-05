@@ -7,6 +7,21 @@
       "veracity": "likely",
       "info": "New Exclusive Equipments",
       "source": "8 week cycle"
+    },
+    {
+      "veracity": "likely",
+      "info": "New Guardian: Kazran",
+      "source": "January",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://www.youtube.com/watch?v=-bgJrgWdhWY"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Limited Hero Banner: Cerise + Guiding Light"
     }
   ],
   "stream": [
