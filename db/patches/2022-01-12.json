@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/8126769",
   "images": [
   ],
   "news": [
@@ -14,6 +15,10 @@
     {
       "veracity": "official",
       "info": "Hero Banner: Cecilia + Rise of a Monarch"
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop Refresh"
     }
   ],
   "stream": [
