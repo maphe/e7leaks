@@ -1,0 +1,29 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Lionheart Cermia & Watcher Schuri",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=l3dEDvdMGnc"
+        }
+      ]
+    },
+    {
+      "veracity": "likely",
+      "info": "Episode 4 - Chapter 4, East Khan"
+    },
+    {
+      "veracity": "likely",
+      "info": "Adin's Awakening (Skill Tree)",
+      "source": "Tied to Chapter 4"
+    }
+  ],
+  "stream": [
+    "New ML5 Showcase"
+  ]
+}

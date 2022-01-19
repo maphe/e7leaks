@@ -1,0 +1,23 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Peira + Goblet of Oath",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=gYeF9kIEcOU"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story: The Path of Vengeance"
+    }
+  ],
+  "stream": [
+  ]
+}

@@ -1,15 +1,16 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8146178",
   "images": [
   ],
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Exclusive Equipments",
+      "veracity": "official",
+      "info": "New Exclusive Equipments (Tenebria, Melissa, Great Chief Khawana)",
       "source": "8 week cycle"
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "New Guardian: Kazran",
       "source": "January",
       "resources": [
@@ -21,10 +22,17 @@
     },
     {
       "veracity": "official",
+      "info": "Expeditions: Open Recruitment"
+    },
+    {
+      "veracity": "official",
       "info": "Limited Hero Banner: Cerise + Guiding Light"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Charles + Justice for All"
     }
   ],
   "stream": [
-    "New ML5 Showcase"
   ]
 }
