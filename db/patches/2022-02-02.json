@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8172747",
   "images": [
   ],
   "news": [
@@ -14,13 +15,8 @@
       ]
     },
     {
-      "veracity": "likely",
-      "info": "Episode 4 - Chapter 4, East Khan"
-    },
-    {
-      "veracity": "likely",
-      "info": "Adin's Awakening (Skill Tree)",
-      "source": "Tied to Chapter 4"
+      "veracity": "official",
+      "info": "Hero Banner: Pavel + Dux Noctis"
     }
   ],
   "stream": [

@@ -1,0 +1,18 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "Episode 4 - Chapter 4, East Khan"
+    },
+    {
+      "veracity": "likely",
+      "info": "Adin's Awakening (Skill Tree)",
+      "source": "Tied to Chapter 4"
+    }
+  ],
+  "stream": [
+  ]
+}
