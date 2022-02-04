@@ -5,10 +5,14 @@
   "news": [
     {
       "veracity": "likely",
+      "info": "New Valentine's Day Side Story - Week 1"
+    },
+    {
+      "veracity": "maybe",
       "info": "Episode 4 - Chapter 4, East Khan"
     },
     {
-      "veracity": "likely",
+      "veracity": "maybe",
       "info": "Adin's Awakening (Skill Tree)",
       "source": "Tied to Chapter 4"
     }
