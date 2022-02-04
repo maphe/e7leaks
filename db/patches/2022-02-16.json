@@ -4,6 +4,16 @@
   ],
   "news": [
     {
+      "veracity": "official",
+      "info": "Hero Balance Adjustment",
+      "resources": [
+        {
+          "label": "Dev Note",
+          "url": "https://page.onstove.com/epicseven/global/view/8198160"
+        }
+      ]
+    },
+    {
       "veracity": "likely",
       "info": "New Valentine's Day Side Story - Week 1"
     },
