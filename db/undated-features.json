@@ -2,8 +2,8 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Ancient Inheritance - Guild PvE",
-      "source": "Q3 2021 - delayed"
+      "info": "Collab - Guilty Gear Strive (one new 5★ Hero)",
+      "source": "\"Coming Soon\""
     },
     {
       "veracity": "official",
@@ -14,11 +14,6 @@
       "veracity": "official",
       "info": "Guardian Level Up",
       "source": "Q4 2021 - delayed"
-    },
-    {
-      "veracity": "official",
-      "info": "Mystic ML4 Pity",
-      "source": "Q1"
     }
   ]
 }

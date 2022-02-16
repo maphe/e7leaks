@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8236894",
   "images": [
   ],
   "news": [
@@ -18,17 +19,27 @@
       "info": "Rerun: Valentine's Day Special Side Story - Seven Sweethearts - Chapters 3 & 4"
     },
     {
-      "veracity": "likely",
-      "info": "New Valentine's Day Side Story - Week 1"
+      "veracity": "official",
+      "info": "Epic Pass - Spring 2022 is Coming! (Vivian Skin)",
+      "resources": [
+        {
+          "label": "Skin Preview",
+          "url": "https://www.youtube.com/watch?v=WPJLf6HALvw"
+        }
+      ]
     },
     {
-      "veracity": "maybe",
-      "info": "Episode 4 - Chapter 4, East Khan"
+      "veracity": "official",
+      "info": "Ancient Inheritance - Guild PvE",
+      "source": "opens on following Monday"
     },
     {
-      "veracity": "maybe",
-      "info": "Adin's Awakening (Skill Tree)",
-      "source": "Tied to Chapter 4"
+      "veracity": "official",
+      "info": "Hero Banner: Vivian + Dignus Orb"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Iseria + Song of Stars"
     }
   ],
   "stream": [

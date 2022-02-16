@@ -4,11 +4,40 @@
   ],
   "news": [
     {
-      "veracity": "likely",
-      "info": "New Valentine's Day Side Story - Week 2"
+      "veracity": "official",
+      "info": "New Mystic Rotation: Arbiter Vildred & Bad Cat Armin",
+      "source": "with 4★ Pity System",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=oWBO3ByCh6U"
+        }
+      ]
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
+      "info": "New Hero Banner: Hwayoung + Indestructible Gaiters",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=CeuwtKEgY44"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story: The Will of the Strong"
+    },
+    {
+      "veracity": "official",
+      "info": "New Valentine's Day Side Story: Game of Princes - Week 1"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Kawerik + Black Hand of the Goddess"
+    },
+    {
+      "veracity": "official",
       "info": "End of World Arena Season 6",
       "source": "on following Saturday - 12 week season"
     }
