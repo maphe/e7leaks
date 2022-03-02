@@ -4,11 +4,22 @@
   ],
   "news": [
     {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Pirate Captain Flan & Fighter Maya",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=3UwXOOW6e4o"
+        }
+      ]
+    },
+    {
       "veracity": "likely",
       "info": "New Exclusive Equipments",
       "source": "8 week cycle"
     }
   ],
   "stream": [
+    "Guilty Gear Strive: Jack-O' Reveal"
   ]
 }

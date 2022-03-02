@@ -2,58 +2,73 @@
   "global": [
     {
       "name": "Patch Maintenance",
-      "start": "2022-02-17 02:55:00Z",
-      "end": "2022-02-17 10:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/8236928"
+      "start": "2022-03-03 03:00:00Z",
+      "end": "2022-03-03 09:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/8283955"
     },
     {
-      "name": "RTA Season Closing",
-      "start": "2022-02-26 03:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/8213646"
+      "name": "x2 Rune Drop Rate",
+      "start": "2022-03-04 10:00:00Z",
+      "end": "2022-03-05 10:00:00Z"
+    },
+    {
+      "name": "+50% AP/+30% XP",
+      "start": "2022-03-05 10:00:00Z",
+      "end": "2022-03-06 10:00:00Z"
     },
     {
       "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2021-12-31 10:00:00Z",
-      "end": "2022-01-03 10:00:00Z"
+      "start": "2022-03-06 10:00:00Z",
+      "end": "2022-03-07 10:00:00Z"
     },
     {
       "name": "All Buffs at Once",
-      "start": "2022-01-03 10:00:00Z",
-      "end": "2022-01-04 10:00:00Z"
+      "start": "2022-03-07 10:00:00Z",
+      "end": "2022-03-08 10:00:00Z"
     }
   ],
   "europe": [
     {
-      "name": "Free Unequip",
-      "start": "2021-12-31 03:00:00Z",
-      "end": "2022-01-04 03:00:00Z"
+      "name": "x2 Rune Drop Rate",
+      "start": "2022-03-04 03:00:00Z",
+      "end": "2022-03-05 03:00:00Z"
+    },
+    {
+      "name": "+50% AP/+30% XP",
+      "start": "2022-03-05 03:00:00Z",
+      "end": "2022-03-06 03:00:00Z"
     },
     {
       "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2021-12-31 03:00:00Z",
-      "end": "2022-01-03 03:00:00Z"
+      "start": "2022-03-06 03:00:00Z",
+      "end": "2022-03-07 03:00:00Z"
     },
     {
       "name": "All Buffs at Once",
-      "start": "2022-01-03 03:00:00Z",
-      "end": "2022-01-04 03:00:00Z"
+      "start": "2022-03-07 03:00:00Z",
+      "end": "2022-03-08 03:00:00Z"
     }
   ],
   "asia": [
     {
-      "name": "Free Unequip",
-      "start": "2021-12-30 18:00:00Z",
-      "end": "2022-12-31 18:00:00Z"
+      "name": "x2 Rune Drop Rate",
+      "start": "2022-03-03 18:00:00Z",
+      "end": "2022-03-04 18:00:00Z"
+    },
+    {
+      "name": "+50% AP/+30% XP",
+      "start": "2022-03-04 18:00:00Z",
+      "end": "2022-03-05 18:00:00Z"
     },
     {
       "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2021-12-30 18:00:00Z",
-      "end": "2022-01-02 18:00:00Z"
+      "start": "2022-03-05 18:00:00Z",
+      "end": "2022-03-06 18:00:00Z"
     },
     {
       "name": "All Buffs at Once",
-      "start": "2022-01-02 18:00:00Z",
-      "end": "2022-01-03 18:00:00Z"
+      "start": "2022-03-06 18:00:00Z",
+      "end": "2022-03-07 18:00:00Z"
     }
   ]
 }

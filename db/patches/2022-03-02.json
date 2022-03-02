@@ -1,23 +1,47 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8285054",
+  "twitch": "https://www.youtube.com/watch?v=4OosYkQ4rac",
   "images": [
   ],
   "news": [
     {
       "veracity": "official",
-      "info": "New Valentine's Day Side Story: Game of Princes - Week 2"
-    },
-    {
-      "veracity": "likely",
       "info": "Episode 4 - Chapter 4, East Khan"
     },
     {
-      "veracity": "likely",
-      "info": "Adin's Awakening (Skill Tree)",
-      "source": "Tied to Chapter 4"
+      "veracity": "official",
+      "info": "New Specialty Change - Verdant Adin",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=S2u_LGcsOvc"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Specialty Change - Vigilante Leader Glenn",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=jD100O_yxu4"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Valentine's Day Side Story: Game of Princes - Week 2"
+    },
+    {
+      "veracity": "official",
+      "info": "RTA Mock Battle: Round Mode"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Tywin + Crown of Glory"
     }
   ],
   "stream": [
-    "New ML5 Showcase"
   ]
 }
