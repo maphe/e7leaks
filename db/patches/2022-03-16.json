@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8321780",
   "images": [
   ],
   "news": [
@@ -14,9 +15,21 @@
       ]
     },
     {
-      "veracity": "likely",
-      "info": "New Exclusive Equipments",
+      "veracity": "official",
+      "info": "Collab: Guilty Gear -Strive-"
+    },
+    {
+      "veracity": "official",
+      "info": "New Exclusive Equipments - Elena, Ray, Watcher Schuri",
       "source": "8 week cycle"
+    },
+    {
+      "veracity": "official",
+      "info": "Limited Hero Banner: Dizzy + Necro & Undine"
+    },
+    {
+      "veracity": "official",
+      "info": "Limited Hero Banner: Baiken + Torn Sleeve"
     }
   ],
   "stream": [

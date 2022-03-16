@@ -1,0 +1,39 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Mystic Rotation: Sage Baal & Sezan / Ambitious Tywin / Briar Witch Iseria"
+    },
+    {
+      "veracity": "official",
+      "info": "Awaken Update",
+      "resources": [
+        {
+          "label": "Dev Notes",
+          "url": "https://page.onstove.com/epicseven/global/view/8321429"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Custom Mystic Summon"
+    },
+    {
+      "veracity": "official",
+      "info": "Equipment: Crafting Mileage / Enhancing QoL / Auto-Equip"
+    },
+    {
+      "veracity": "official",
+      "info": "Adventure: Episodes 3 & 4 Difficulty Decrease / Urgent Mission Revamp / Unrecorded History AP Points in Single Pool"
+    },
+    {
+      "veracity": "official",
+      "info": "Content: Forest of Souls Revamp / 5th Generation Pets / Hall of Trial Revamp + New Boss / Abyss Challenge Mode"
+    }
+  ],
+  "stream": [
+  ]
+}

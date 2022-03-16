@@ -5,13 +5,21 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Collab: Guilty Gear -Strive- (New 5★ Hero: Jack-O')",
+      "info": "New Limited Hero Banner: Jack-O' + Jack-O's Symbol",
       "resources": [
         {
           "label": "Silhouette",
           "url": "https://page.onstove.com/epicseven/global/view/8285080"
+        },
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=48FNTTSRcRU"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Limited Hero Banner: Elphelt Valentine + Ms. Confille"
     }
   ],
   "stream": [
