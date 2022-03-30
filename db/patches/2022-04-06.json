@@ -5,7 +5,25 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Mystic Rotation: Mediator Kawerik"
+      "info": "New Hero Banner: Aria + Scroll of Shadows",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=4G-dpps31aU"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Aria Side Story: Diverging Faiths"
+    },
+    {
+      "veracity": "official",
+      "info": "Mystic Rotation: Mediator Kawerik + Celestial Mercedes"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ludwig + Time Matter"
     }
   ],
   "stream": [
