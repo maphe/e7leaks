@@ -5,6 +5,16 @@
   "news": [
     {
       "veracity": "official",
+      "info": "Hero Balance Adjustment",
+      "resources": [
+        {
+          "label": "Dev Note",
+          "url": "https://page.onstove.com/epicseven/global/view/8361063"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "Moonlight Summon 4-5★ Pity System"
     }
   ],
