@@ -1,5 +1,7 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8407367",
+  "twitch": "https://www.youtube.com/watch?v=h87g2EABH7g",
   "images": [
   ],
   "news": [
@@ -16,6 +18,14 @@
     {
       "veracity": "official",
       "info": "Moonlight Summon 4-5★ Pity System"
+    },
+    {
+      "veracity": "official",
+      "info": "Episode 4 - Chapter 5S, Safe Haven Origin"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Senya + Spear of a new Dawn"
     }
   ],
   "stream": [
