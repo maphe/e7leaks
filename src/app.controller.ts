@@ -42,4 +42,14 @@ export class AppController {
       alerts: this.eventService.getCurrentAlerts()
     };
   }
+
+  @Get('/ldplayer')
+  @Render('ldplayer')
+  ldplayer() {
+    return {
+      ldplayer: true,
+      events: this.eventService.getOngoingEvents(),
+      alerts: this.eventService.getCurrentAlerts()
+    };
+  }
 }
