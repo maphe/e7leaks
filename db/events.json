@@ -2,14 +2,14 @@
   "global": [
     {
       "name": "Patch Maintenance",
-      "start": "2022-04-14 03:00:00Z",
-      "end": "2022-04-14 08:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/8406940"
+      "start": "2022-04-28 03:00:00Z",
+      "end": "2022-04-28 09:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/8450475"
     },
     {
       "name": "Free Unequip",
-      "start": "2022-03-31 03:00:00Z",
-      "end": "2022-04-03 15:00:00Z"
+      "start": "2022-04-28 03:00:00Z",
+      "end": "2022-05-01 15:00:00Z"
     },
     {
       "name": "x2 Rune Drop Rate",
@@ -28,11 +28,16 @@
     },
     {
       "name": "All Buffs at Once",
-      "start": "2022-03-07 10:00:00Z",
-      "end": "2022-03-08 10:00:00Z"
+      "start": "2022-04-29 10:00:00Z",
+      "end": "2022-05-02 10:00:00Z"
     }
   ],
   "europe": [
+    {
+      "name": "Free Unequip",
+      "start": "2022-04-28 03:00:00Z",
+      "end": "2022-05-01 15:00:00Z"
+    },
     {
       "name": "x2 Rune Drop Rate",
       "start": "2022-03-04 03:00:00Z",
@@ -50,11 +55,16 @@
     },
     {
       "name": "All Buffs at Once",
-      "start": "2022-03-07 03:00:00Z",
-      "end": "2022-03-08 03:00:00Z"
+      "start": "2022-04-29 03:00:00Z",
+      "end": "2022-05-02 03:00:00Z"
     }
   ],
   "asia": [
+    {
+      "name": "Free Unequip",
+      "start": "2022-04-28 03:00:00Z",
+      "end": "2022-05-01 15:00:00Z"
+    },
     {
       "name": "x2 Rune Drop Rate",
       "start": "2022-03-03 18:00:00Z",
@@ -72,8 +82,8 @@
     },
     {
       "name": "All Buffs at Once",
-      "start": "2022-03-06 18:00:00Z",
-      "end": "2022-03-07 18:00:00Z"
+      "start": "2022-04-28 18:00:00Z",
+      "end": "2022-05-01 18:00:00Z"
     }
   ]
 }

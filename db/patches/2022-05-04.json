@@ -5,6 +5,20 @@
   "news": [
     {
       "veracity": "official",
+      "info": "New Hero Banner: Taeyou + Spear of Purification",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=Xg-3IVqUAv0"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story: The Reason for my Mission and Being (Taeyou)"
+    },
+    {
+      "veracity": "official",
       "info": "Hero Banner: Luluca + Spirit's Breath"
     }
   ],
