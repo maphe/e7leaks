@@ -11,7 +11,13 @@
     },
     {
       "veracity": "official",
-      "info": "Element Alteration: Holy Flame Adin (Fire)"
+      "info": "Element Alteration: Holy Flame Adin (Fire)",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://www.youtube.com/watch?v=MvN7T-Kaodc"
+        }
+      ]
     },
     {
       "veracity": "official",
