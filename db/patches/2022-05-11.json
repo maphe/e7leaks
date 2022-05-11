@@ -1,20 +1,26 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8489197",
+  "twitch": "https://www.youtube.com/watch?v=PgSTCQO-Bzs",
   "images": [
   ],
   "news": [
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Episode 4 - Chapter 6, West Khan"
     },
     {
-      "veracity": "likely",
-      "info": "Adin Element Alteration (Fire)"
+      "veracity": "official",
+      "info": "Element Alteration: Holy Flame Adin (Fire)"
     },
     {
-      "veracity": "likely",
-      "info": "New Exclusive Equipments",
-      "source": "8 week cycle"
+      "veracity": "official",
+      "info": "New Exclusive Equipments (Diene, Zahhak, Inferno Khawazu)"
+    },
+    {
+      "veracity": "official",
+      "info": "Ancient Inheritance Season 2",
+      "source": "Starts on following Monday"
     },
     {
       "veracity": "official",
