@@ -1,11 +1,28 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8519300",
   "images": [
   ],
   "news": [
     {
       "veracity": "official",
-      "info": "Collab Rerun"
+      "info": "Re:ZERO Collab Rerun"
+    },
+    {
+      "veracity": "official",
+      "info": "Side Story Rerun: Guests from Another World"
+    },
+    {
+      "veracity": "official",
+      "info": "Side Story Rerun: Flowers of Fortune"
+    },
+    {
+      "veracity": "official",
+      "info": "Limited Hero Banner: Rem + Azure Comet"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Haste + Rhianna & Luciella"
     }
   ],
   "stream": [
