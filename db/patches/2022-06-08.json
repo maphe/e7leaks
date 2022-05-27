@@ -5,6 +5,16 @@
   "news": [
     {
       "veracity": "official",
+      "info": "Hero Balance Adjustment",
+      "resources": [
+        {
+          "label": "Dev Notes",
+          "url": "https://page.onstove.com/epicseven/global/view/8523605"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "Mystic Rotation: Dark Corvus / Last Rider Krau / Top Model Luluca"
     }
   ],
