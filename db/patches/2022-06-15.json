@@ -1,0 +1,20 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "End of World Arena Season 7",
+      "source": "on following Saturday - 6/18",
+      "resources": [
+        {
+          "label": "Maid Chloe Skin",
+          "url": "https://www.youtube.com/watch?v=SC2pRDk3eYM"
+        }
+      ]
+    }
+  ],
+  "stream": [
+  ]
+}
