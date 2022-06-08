@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8551805",
   "images": [
   ],
   "news": [
@@ -15,7 +16,19 @@
     },
     {
       "veracity": "official",
+      "info": "Japan Server Global Open"
+    },
+    {
+      "veracity": "official",
+      "info": "World Arena E7WC Preliminary"
+    },
+    {
+      "veracity": "official",
       "info": "Mystic Rotation: Dark Corvus / Last Rider Krau / Top Model Luluca"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ravi + Sigurd Scythe"
     }
   ],
   "stream": [
