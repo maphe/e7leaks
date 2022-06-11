@@ -15,6 +15,21 @@
       ]
     },
     {
+      "veracity": "maybe",
+      "info": "New Side Story: Between Guilt and Grudge (Yulha)",
+      "source": "Datamined"
+    },
+    {
+      "veracity": "maybe",
+      "info": "New Hero Banner: Yulha",
+      "resources": [
+        {
+          "label": "Datamine",
+          "url": "https://www.reddit.com/r/EpicSeven/comments/va1s8h/datamine_spoilers_yulha/"
+        }
+      ]
+    },
+    {
       "veracity": "official",
       "info": "Hero Banner: Chloe + A Little Queen's Huge Crown"
     }
