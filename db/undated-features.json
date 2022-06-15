@@ -2,13 +2,28 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Expeditions Level 4",
-      "source": "Q4 2021 - delayed"
+      "info": "Permanent Side Story - Moonlight Theater",
+      "source": "Q3 2022"
     },
     {
       "veracity": "official",
-      "info": "Guardian Level Up",
-      "source": "Q4 2021 - delayed"
+      "info": "Arena - 3 Teams vs 3 Teams",
+      "source": "Q3 2022"
+    },
+    {
+      "veracity": "official",
+      "info": "World Arena - Replay",
+      "source": "H2 2022"
+    },
+    {
+      "veracity": "official",
+      "info": "New Labyrinth - Cidonia",
+      "source": "H2 2022"
+    },
+    {
+      "veracity": "official",
+      "info": "Main Adventure - Episode 5",
+      "source": "2023"
     }
   ]
 }

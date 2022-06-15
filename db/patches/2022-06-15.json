@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/8568439",
   "images": [
   ],
   "news": [
@@ -15,9 +16,8 @@
       ]
     },
     {
-      "veracity": "likely",
-      "info": "New Side Story: Between Guilt and Grudge (Yulha)",
-      "source": "Datamined"
+      "veracity": "official",
+      "info": "New Side Story: Between Guilt and Grudge (Yulha)"
     },
     {
       "veracity": "official",
