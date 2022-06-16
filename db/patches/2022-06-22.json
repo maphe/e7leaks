@@ -4,6 +4,16 @@
   ],
   "news": [
     {
+      "veracity": "official",
+      "info": "Improvements on Sets, RTA Frenzy and Soul Weaver Constellations",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://page.onstove.com/epicseven/global/view/8570882"
+        }
+      ]
+    },
+    {
       "veracity": "maybe",
       "info": "Episode 4 - Chapter 7, Forsaken Lands"
     }
