@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8582044",
   "images": [
   ],
   "news": [
@@ -14,12 +15,12 @@
       ]
     },
     {
-      "veracity": "likely",
-      "info": "Epic Pass (Cermia Skin)"
+      "veracity": "official",
+      "info": "Episode 4 - Chapter 7, Forsaken Lands"
     },
     {
-      "veracity": "maybe",
-      "info": "Episode 4 - Chapter 7, Forsaken Lands"
+      "veracity": "official",
+      "info": "Hero Banner: Choux + Snow Crystal"
     }
   ],
   "stream": [

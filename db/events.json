@@ -2,14 +2,13 @@
   "global": [
     {
       "name": "Patch Maintenance",
-      "start": "2022-06-09 03:00:00Z",
-      "end": "2022-06-09 08:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/8552041"
+      "start": "2022-06-23 03:00:00Z",
+      "url": ""
     },
     {
       "name": "Free Unequip",
-      "start": "2022-06-09 03:00:00Z",
-      "end": "2022-06-12 15:00:00Z"
+      "start": "2022-06-23 03:00:00Z",
+      "end": "2022-06-26 15:00:00Z"
     },
     {
       "name": "x2 Rune Drop Rate",
