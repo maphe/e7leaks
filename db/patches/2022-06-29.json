@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/8595172",
   "images": [
   ],
   "news": [
@@ -9,11 +10,17 @@
     },
     {
       "veracity": "official",
-      "info": "Epic Pass - Scorching Sun 2022 (Cermia Skin)"
+      "info": "Epic Pass - Scorching Sun 2022",
+      "resources": [
+        {
+          "label": "Cermia Skin",
+          "url": "https://www.youtube.com/watch?v=wjdf_42bcYg"
+        }
+      ]
     },
     {
       "veracity": "official",
-      "info": "Side Story Rerun: The Order of the Sword and the Lord of Summer"
+      "info": "Side Story Rerun: The Order of the Sword and the Lord of Summer - Week 1"
     },
     {
       "veracity": "official",
