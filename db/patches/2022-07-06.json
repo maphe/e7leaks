@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8616125",
   "images": [
   ],
   "news": [
@@ -8,12 +9,25 @@
       "info": "Side Story Rerun: The Order of the Sword and the Lord of Summer - Week 2"
     },
     {
-      "veracity": "likely",
-      "info": "New Exclusive Equipments",
+      "veracity": "official",
+      "info": "New Specialty Change - Summer's Disciple Alexa",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=qbNg8yksDzQ"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Exclusive Equipments - Baal & Sezan, Aramintha, Cidd",
       "source": "8 week cycle"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Tenebria + Crimson Moon of Nightmares"
     }
   ],
   "stream": [
-    "Forest Sage Vivian Preview"
   ]
 }

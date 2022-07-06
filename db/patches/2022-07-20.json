@@ -5,7 +5,13 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Mystic Rotation: Forest Sage Vivian"
+      "info": "Mystic Rotation: Sylvan Sage Vivian & Assassin Cartuja",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=IslKbHfFveM"
+        }
+      ]
     }
   ],
   "stream": [

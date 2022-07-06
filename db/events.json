@@ -2,9 +2,9 @@
   "global": [
     {
       "name": "Patch Maintenance",
-      "start": "2022-06-23 03:00:00Z",
-      "end": "2022-06-23 09:00:00Z",
-      "url": ""
+      "start": "2022-07-07 03:00:00Z",
+      "end": "2022-07-07 08:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/8615349"
     },
     {
       "name": "Free Unequip",
