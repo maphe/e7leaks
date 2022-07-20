@@ -4,6 +4,11 @@
   ],
   "news": [
     {
+      "veracity": "maybe",
+      "info": "Mystic Rotation: ML Pavel",
+      "source": "Teased in Awaken Epilogue"
+    },
+    {
       "veracity": "likely",
       "info": "New Exclusive Equipments",
       "source": "8 week cycle"

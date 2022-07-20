@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8660321",
   "images": [
   ],
   "news": [
@@ -12,6 +13,29 @@
           "url": "https://www.youtube.com/watch?v=IslKbHfFveM"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Sharun + Sacred Tree Branch",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=Ho3TJejFCAc"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story: Clouded Foresight (Sharun)"
+    },
+    {
+      "veracity": "official",
+      "info": "World Arena Season 8 (Apocalypse Ravi Skin)",
+      "source": "on following Saturday"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Aramintha & Etica’s Scepter"
     }
   ],
   "stream": [

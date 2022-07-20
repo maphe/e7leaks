@@ -1,0 +1,23 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Summer Side Story: Finally, Summer Break!",
+      "resources": [
+        {
+          "label": "Teaser",
+          "url": "https://www.youtube.com/watch?v=n9JET49KCUI"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Limited Hero Banner: Summer Break Charlotte"
+    }
+  ],
+  "stream": [
+  ]
+}
