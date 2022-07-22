@@ -4,6 +4,16 @@
   ],
   "news": [
     {
+      "veracity": "official",
+      "info": "Hero Balance Adjustment",
+      "resources": [
+        {
+          "label": "Dev Note",
+          "url": "https://page.onstove.com/epicseven/global/view/8676612"
+        }
+      ]
+    },
+    {
       "veracity": "likely",
       "info": "Episode 4 - Chapter 8, East Prairie"
     }
