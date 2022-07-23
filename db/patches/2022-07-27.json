@@ -15,7 +15,13 @@
     },
     {
       "veracity": "official",
-      "info": "New Limited Hero Banner: Summer Break Charlotte"
+      "info": "New Limited Hero Banner: Summer Break Charlotte + Mature Sunglasses",
+      "resources": [
+        {
+          "label": "Skill Description",
+          "url": "https://external-preview.redd.it/7x2VtIvkJOs--bh-ToHcz6rZBZ_Cdvrt4wjYa1jt8TI.png?auto=webp&s=f171fa192b3a3b0537c78f109004e8494e875ebc"
+        }
+      ]
     }
   ],
   "stream": [
