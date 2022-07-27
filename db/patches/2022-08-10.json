@@ -4,6 +4,10 @@
   ],
   "news": [
     {
+      "veracity": "official",
+      "info": "New Summer Side Story: Finally, Summer Break! - Week 3"
+    },
+    {
       "veracity": "maybe",
       "info": "Mystic Rotation: Light Dominiel",
       "source": "Teased in Awaken Epilogue"

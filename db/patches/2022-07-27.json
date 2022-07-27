@@ -1,11 +1,12 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/8693238",
   "images": [
   ],
   "news": [
     {
       "veracity": "official",
-      "info": "New Summer Side Story: Finally, Summer Break!",
+      "info": "New Summer Side Story: Finally, Summer Break! - Week 1",
       "resources": [
         {
           "label": "Teaser",
@@ -18,8 +19,8 @@
       "info": "New Limited Hero Banner: Summer Break Charlotte + Mature Sunglasses",
       "resources": [
         {
-          "label": "Skill Description",
-          "url": "https://external-preview.redd.it/7x2VtIvkJOs--bh-ToHcz6rZBZ_Cdvrt4wjYa1jt8TI.png?auto=webp&s=f171fa192b3a3b0537c78f109004e8494e875ebc"
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=0oeoA37BulE"
         }
       ]
     }
