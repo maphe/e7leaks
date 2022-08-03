@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8722719",
   "images": [
   ],
   "news": [
@@ -18,8 +19,17 @@
       "info": "New Summer Side Story: Finally, Summer Break! - Week 2"
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Episode 4 - Chapter 8, East Prairie"
+    },
+    {
+      "veracity": "official",
+      "info": "Ancient Inheritance Season 3",
+      "source": "Starts on following Monday"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Flan + Unseen Observer"
     }
   ],
   "stream": [

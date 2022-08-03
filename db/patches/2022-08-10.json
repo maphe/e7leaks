@@ -5,12 +5,21 @@
   "news": [
     {
       "veracity": "official",
+      "info": "Mystic Rotation: Fallen Cecilia / Silver Blade Aramintha / Desert Jewel Basar + Moon Bunny Dominiel",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=oOfKqKOSL8g"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "New Summer Side Story: Finally, Summer Break! - Week 3"
     },
     {
-      "veracity": "maybe",
-      "info": "Mystic Rotation: Light Dominiel",
-      "source": "Teased in Awaken Epilogue"
+      "veracity": "official",
+      "info": "Hero Banner: Bellona + Iron Fan"
     }
   ],
   "stream": [
