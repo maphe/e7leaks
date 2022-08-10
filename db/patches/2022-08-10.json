@@ -1,5 +1,6 @@
 {
   "type": "client",
+  "link": "https://page.onstove.com/epicseven/global/view/8748316",
   "images": [
   ],
   "news": [
@@ -24,6 +25,10 @@
     {
       "veracity": "official",
       "info": "Hero Banner: Roana + Touch of Rekos"
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop Refresh"
     }
   ],
   "stream": [
