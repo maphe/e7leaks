@@ -1,11 +1,26 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8772728",
   "images": [
   ],
-  "title": "???",
   "news": [
+    {
+      "veracity": "official",
+      "info": "Music Player"
+    },
+    {
+      "veracity": "official",
+      "info": "Side Story Rerun: Dark Side of the Moon"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Sigret + Cradle of Life"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Kise + Alabastron"
+    }
   ],
   "stream": [
-    "FMA Collab Showcase"
   ]
 }

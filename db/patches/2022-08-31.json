@@ -4,9 +4,24 @@
   ],
   "news": [
     {
-      "veracity": "maybe",
-      "info": "Mystic Rotation: ML Pavel",
-      "source": "Teased in Awaken Epilogue"
+      "veracity": "official",
+      "info": "Mystic Rotation: Commander Pavel + Crescent Moon Rin",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=G2s9Lf2_HTo"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Limited Hero Banner: Roy Mustang + Ignition Cloth Glove",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=cn-w3g8Af1U"
+        }
+      ]
     },
     {
       "veracity": "likely",

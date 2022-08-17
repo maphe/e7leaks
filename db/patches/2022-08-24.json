@@ -12,6 +12,44 @@
           "url": "https://page.onstove.com/epicseven/global/view/8751063"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story: Otherworldly Alchemist"
+    },
+    {
+      "veracity": "official",
+      "info": "New Limited Hero Banner: Edward Elric + Fullmetal's Automail",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=VLpQoW_me3Y"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Free Limited Hero: Riza Hawkeye + Sharpshooter's Handgun",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=iTOrLJSk_FA"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Epic Pass - E7WC 2022",
+      "resources": [
+        {
+          "label": "Diene Skin",
+          "url": "https://www.youtube.com/watch?v=rc064QkMy_g"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Charles + Justice for All"
     }
   ],
   "stream": [

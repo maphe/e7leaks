@@ -2,9 +2,9 @@
   "global": [
     {
       "name": "Patch Maintenance",
-      "start": "2022-08-04 03:00:00Z",
-      "end": "2022-08-04 08:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/8723156"
+      "start": "2022-08-18 03:00:00Z",
+      "end": "2022-08-18 08:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/8771691"
     },
     {
       "name": "Balance Patch Preview (approx.)",
@@ -12,8 +12,8 @@
     },
     {
       "name": "Free Unequip",
-      "start": "2022-07-28 03:00:00Z",
-      "end": "2022-07-31 15:00:00Z"
+      "start": "2022-08-18 03:00:00Z",
+      "end": "2022-08-21 15:00:00Z"
     },
     {
       "name": "x2 Rune Drop Rate",
