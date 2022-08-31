@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8823517",
   "images": [
   ],
   "news": [
@@ -36,8 +37,32 @@
       "info": "Moonlight Theater - Episode 1 - Neither God Nor Devil Exists"
     },
     {
-      "veracity": "likely",
-      "info": "New Exclusive Equipments",
+      "veracity": "official",
+      "info": "Episode 4 - Chapter 8S, Broad Wind Plateau"
+    },
+    {
+      "veracity": "official",
+      "info": "Element Alteration: Serene Purity Adin (Ice)",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://www.youtube.com/watch?v=-qasYwGJAfw"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Edward Elric Balance Adjustment",
+      "resources": [
+        {
+          "label": "Dev Note",
+          "url": "https://page.onstove.com/epicseven/global/view/8822996"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Exclusive Equipments (Command Model Laika, Furious, Roaming Warrior Leo)",
       "source": "8 week cycle"
     }
   ],
