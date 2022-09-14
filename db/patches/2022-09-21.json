@@ -1,0 +1,29 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Mystic Rotation: Apocalypse Ravi / Faithless Lidica / Solitaria of the Snow"
+    },
+    {
+      "veracity": "official",
+      "info": "Advent Side Story: Kiss of Frost"
+    },
+    {
+      "veracity": "official",
+      "info": "Powder Shop Refresh"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Violet + Violet Talisman"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Mui + Circus Fantasia"
+    }
+  ],
+  "stream": [
+  ]
+}

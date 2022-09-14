@@ -1,0 +1,19 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "Hero Balance Adjustment",
+      "source": "To Be revealed on 9/16"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Episode 4 - Chapter 9, Wicked Land"
+    }
+  ],
+  "stream": [
+    "New ML5 Preview"
+  ]
+}
