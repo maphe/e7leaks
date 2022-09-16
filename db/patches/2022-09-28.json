@@ -4,9 +4,14 @@
   ],
   "news": [
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Hero Balance Adjustment",
-      "source": "To Be revealed on 9/16"
+      "resources": [
+        {
+          "label": "Dev Notes",
+          "url": "https://page.onstove.com/epicseven/global/view/8880534"
+        }
+      ]
     },
     {
       "veracity": "maybe",
