@@ -1,5 +1,6 @@
 {
   "type": "server",
+  "link": "https://page.onstove.com/epicseven/global/view/8911042",
   "images": [
   ],
   "news": [
@@ -14,8 +15,16 @@
       ]
     },
     {
-      "veracity": "maybe",
+      "veracity": "official",
       "info": "Episode 4 - Chapter 9, Wicked Land"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Iseria + Song of Stars"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Sez + Manica of Control"
     }
   ],
   "stream": [

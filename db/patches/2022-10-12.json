@@ -4,6 +4,16 @@
   ],
   "news": [
     {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Astromancer Elena & Wanderer Silk",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=dME8oQ7RDQA"
+        }
+      ]
+    },
+    {
       "veracity": "likely",
       "info": "End of World Arena Season 8",
       "source": "on following Saturday, 12 week seasons"

@@ -1,0 +1,27 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Lua + Spatiotemporal Fan",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=9xUygTV4Y8Q"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story: From Pride to Hubris (Lua)"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Lilibet + Creation & Destruction"
+    }
+  ],
+  "stream": [
+  ]
+}
