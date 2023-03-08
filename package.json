@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@nestjs/common": "^8.4.2",
-    "@nestjs/core": "^8.4.2",
+    "@nestjs/core": "^9.0.5",
     "@nestjs/platform-express": "^8.4.2",
     "express-handlebars": "^6.0.3",
     "hbs": "^4.2.0",
